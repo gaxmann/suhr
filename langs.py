@@ -51,6 +51,7 @@ no_split = {
     'de': [ "sch", "ch", "ck", "tz", "pf", "qu", "st", "sp", ],
     'en': [ "th", "sh", "ph", "wh", "qu", "ck", "tr", "dr", ],
     'es': [ "ll", "rr", "ch", "qu", ],
+    'fr': [ "ll", "rr", "ch", "qu", ], # einfach aus es kopiert(!)    
 }
 dontsplitbefore = [ "nd", "hn", "rn", "rg", "nb", "sz", "sw", "rd", "lg", "nü", "fh", "ng", "rl", "hl", "lk", "nw", "tz", "fb", "cht", "mb", "sl", "ck", "ld", "nf", "ns", "ht", "rz", "mp", "nt", "lt", "zb", "rm", "gl", "nuh"]
 dontsplitafter = [ "nb", ]
@@ -715,5 +716,132 @@ Gracias a Rhodes Mill, Rolf, Greg Miller y a todos los probadores. Imágenes de 
         'txanleitung4': chr(10)+""" """,
 
     },
+    
+    'fr': {
+        'txsettings': chr(10)+'Cadran solaire de Gordon',
+        'txwelcome': 'Bienvenue', # ne pas SUPPRIMER, important pour vérifier si le pack de langue existe
+        'wdaysh': ["Lu", "Ma", "Me", "Je", "Ve", "Sa", "Di"],
+        'xxdays': ['{day} jour', '{day} jours'], # singulier, pluriel
+        'himmelsr': ["E", "S", "O", "N"],
+        'txgps_label': chr(10)+'Position GPS ou nom de lieu:',
+        'txgpsauto': 'GPS auto (grossier):',
+        'txgpsautosh': 'AUTO',
+        'txtimezone': 'Fuseau horaire:',
+        'txtimeformat': 'Format 24h:',
+        'txwelcomescr': 'Désactiver l\'indication GPS:',
+        'txedgescreen': 'Plus de bordure:',
+        'txenlargeobj': 'Grands symboles:',
+        'txuhrsinn': 'Direction du regard:',
+        'txuhrsinnarr': {'auto': 'automatique', 'nord': 'Nord', 'sued': 'Sud'},
+        'txfullscr': 'Toujours actif:',
+        'txnachtmodus': 'Mode sombre:',
+        'txnachtmodusarr': {'auto': 'automatique', 'auto_lang': 'auto (plus)', 'auto_kurz': 'auto (moins)', 'day': 'clair', 'night': 'sombre'},
+        'txfarben': 'Design:',
+        'txfarbenarr': {'orig': 'Nuances de gris', 'c-turn': 'Couleur', 'a-gord': 'Art', 'a-telesk': 'Télescope'},
+        'txstatuslog': "[b]–– Journal d'état:[/b]",
+        'txgpsinstruct': wrap_text("Pour ajuster votre position GPS, balayez vers la gauche", lang='fr'),
+        'txgpsdeact': wrap_text("Le GPS est désactivé. Veuillez activer le GPS dans les paramètres de votre appareil", lang='fr'),
+        'uebanleitung': 'Instructions',
+        'txanleitung': chr(10)+"""Pour adopter automatiquement votre position GPS, cochez la case «GPS automatique». Pendant que vous utilisez l'application, votre position GPS sera déterminée rapidement et de manière économe en énergie avec une approximation. - Alternativement, vous pouvez entrer une position GPS fixe séparée par des virgules dans le champ de texte (puis cochez «Désactiver l'indication GPS») ou entrer un nom de lieu dans le champ. Lorsque les coordonnées (et d'autres données de base) sont modifiées, l'application effectue un calcul qui peut prendre entre 2 et 30 secondes selon l'appareil. Ce calcul est valable pour une journée.
+
+Le fuseau horaire et la langue devraient être automatiquement repris de votre téléphone mobile. Vous pouvez choisir entre un format 12h et 24h pour l'heure. Sous Design, vous pouvez choisir différentes représentations. Pour le mode sombre, vous pouvez choisir clair, sombre ou commutation automatique. «Automatique» passe en mode sombre au coucher du soleil, «auto (moins)» passe à la fin du crépuscule (-6°), «auto (plus)» passe à +6°.
+
+«Plus de bordure» est pour les appareils sans bord. Avec «Direction du regard», vous pouvez définir si l'horloge doit tourner dans le sens des aiguilles d'une montre (Sud) ou dans le sens inverse (Nord). (Veuillez noter: si vous changez le sens de rotation, la partie du cercle solaire qui est sous l'horizon ne sera plus derrière vous, mais devant vous. Plus de détails ci-dessous.)
+
+«Grands symboles» dessine les objets sur le cadran plus grands. «Toujours actif» empêche l'écran de s'éteindre. J'ai par exemple accroché une ancienne [i]tablette[/i] avec «Cadran solaire» au mur pour ma nièce, afin qu'elle soit toujours visible.
+
+Si vos paramètres ne sont pas pris en compte, vous pouvez appuyer sur le bouton de mise à jour en bas à droite.
+
+
+[b]–– Cadran:[/b]
+
+Une explication détaillée de la lecture du cadran se trouve sur la page suivante (veuillez balayer vers la gauche).
+
+
+[b]–– Plus de détails:[/b]
+
+Tous les calculs sont effectués pour votre emplacement local et devraient correspondre aux positions de l'almanach astronomique à 0,0005 seconde d'arc près (la lune, par exemple, est au maximum de 2047 secondes d'arc). - Pleine lune et nouvelle lune (dans/avant jours)"""+chr(10),
+        'txobjdata': """Pleine lune: {moon_full}
+Nouvelle lune: {moon_new}
+Lune éclairée: {moon_illum}
+Taille de la lune: {moon_sizep} (85-100)
+
+Luminosité:
+Vénus: {venus_magp} (83-100)
+Mars: {mars_magp} (52-100)
+Jupiter: {jupiter_magp} (87-100)
+Mercure: {merkur_magp} (0-100)
+Saturne: {saturn_magp} (77-100)
+
+
+[b]–– Légende:[/b]""",
+        'txlegende': chr(10)+"""☉ Soleil, ● Lune (avec phases)
+
+♀ Vénus (couleur perle), ♂ Mars (rougeâtre), ♃ Jupiter (rayé), ☿ Mercure (gris), ♄ Saturne (avec anneaux)
+
+[s] Sirius, [k] Canopus, [f] Alpha Centauri, [a] Arcturus, [w] Véga, [c] Capella, [r] Rigel, [p] Procyon, [b] Bételgeuse, [h] Achernar""",
+        'txmore': " "+chr(10)+chr(10),
+        'txmanual': chr(10)+'Cadran',
+        'txanleitung2': chr(10)+"""«Cadran solaire de Gordon» est en principe une horloge à une aiguille avec un cadran qui change quotidiennement, s'orientant sur les rythmes de la nature et des astres. Il montre la position du soleil et le ciel étoilé. Une nouvelle forme de représentation du temps, qui n'est pas artificielle comme notre horloge habituelle (avec l'heure ferroviaire et le changement d'heure), mais qui évolue en harmonie avec les saisons.
+
+[i]REMARQUE: Vous pouvez naviguer entre ce guide et le cadran en balayant.[/i]
+
+
+[b]–– Votre regard:[/b]
+
+Au centre de l'écran, vous voyez une ligne horizontale. C'est l'horizon (la surface de la Terre). Le triangle pointu au centre est un sapin vu de loin (ou une église). (Vous ne le regardez pas de haut, mais vous vous tenez devant.)
+
+Si vous n'avez rien modifié dans les paramètres («Direction du regard: automatique»), vous regardez vers le sud dans l'hémisphère nord (et vers le nord dans l'hémisphère sud). Les objets à gauche de l'écran se trouvent à l'est ; ceux à droite, à l'ouest (inversé dans l'hémisphère sud). Les directions cardinales sont indiquées au bord de l'horizon.
+
+La bande (gris clair) sous l'horizon indique la phase de crépuscule (civil). La grande zone gris foncé symbolise la nuit (y compris le crépuscule nautique). Les objets dans cette zone ne sont pas visibles.
+
+À droite de l'écran, vous voyez l'heure locale (en numérique), la position GPS de l'emplacement sous forme de code numérique (par ex. «cri-hs», précis à environ 4 km) ou un nom de lieu (si vous l'avez saisi), ainsi que la hauteur actuelle du soleil en degrés dans le ciel (par ex. 27,6°).
+
+
+[b]–– Soleil:[/b]
+
+Le soleil (à l'extrémité de l'unique aiguille de l'horloge) se déplace de gauche à droite au cours de la journée (inversé dans l'hémisphère sud). Plus le soleil est à gauche sur l'écran, plus il est à l'est ; plus il est à droite, plus il est à l'ouest (inversé dans l'hémisphère sud). Plus le soleil est haut sur l'écran, plus il est élevé dans le ciel.
+
+Le soleil suit la trajectoire circulaire dessinée, sur laquelle il se déplace en une journée. Des heures (par ex. «12») sont indiquées sur le bord de cette trajectoire, qui sert également de cadran.
+
+Sur le cadran, par exemple, on peut voir comment, lors du changement d'heure, les chiffres se décalent, mais la trajectoire reste la même. Ou encore: comment l'heure légale diffère de l'heure locale dans la plupart des endroits, car midi n'est pas exactement en haut du cadran.""",
+        'txanleitung2b': chr(10)+chr(10)+"""[b]–– Lune:[/b]
+
+La lune a également une orbite. Elle est dessinée en cercle gris clair (sans aiguille). Comme la lune met plus de 24 heures pour un tour, deux heures supplémentaires (de la veille) sont ajoutées en gris très clair. En «vivant avec l'horloge», on peut observer comment la lune monte et descend périodiquement sur des semaines. De plus, on peut voir qu'à la pleine lune, elle est à l'opposé du soleil sur le cercle (loin) ; à la nouvelle lune, elle est à la même position (proche du soleil). Ce n'est généralement pas exactement la même position, car on regarde de côté (et non de dessus). Elle est exactement identique uniquement lors d'une éclipse solaire.
+
+Pleine lune et nouvelle lune sont indiquées (par l'ombre dessinée). La nouvelle lune est représentée pendant 35 heures (temps pendant lequel la lune est invisible). La pleine lune est représentée pendant 24 heures. (Le recalcul des orbites du soleil et de la lune a lieu chaque jour à 00:00 UTC.)
+
+
+[b]–– Planètes:[/b]
+
+Les cinq planètes visibles à l'œil nu sont affichées, représentées par leurs symboles astronomiques (voir légende page précédente). En observant le vrai ciel étoilé, vous pouvez distinguer les planètes des étoiles, car les planètes brillent constamment sans scintiller, semblant beaucoup plus grandes que les étoiles lointaines et donc moins affectées par les variations de densité de l'atmosphère.
+
+
+[b]–– Étoiles:[/b]
+
+Les dix étoiles les plus brillantes sont également affichées, symbolisées par une lettre dans un carré (voir légende page précédente). Alors que les planètes restent relativement ordonnées, souvent près de l'orbite solaire, les étoiles ont une trajectoire indépendante du soleil (étant elles-mêmes des soleils). Pour les symboles des étoiles, deux côtés du carré sont toujours plus épais que les autres, indiquant le coin (ou le quadrant de leur orbite) où elles se trouvent actuellement. Si le coin mis en évidence est en bas à droite, cela marque (plus ou moins) la «fin» de leur trajectoire vers le bas et la droite, et l'étoile se déplacera ensuite principalement vers le haut et la gauche (souvent hors de l'écran).
+
+
+[b]–– Historique:[/b]
+
+«Cadran solaire de Gordon» a été développé en 2019 pour un Raspberry Pi avec un écran ePaper de 10 pouces, car je voulais une horloge murale agréable à regarder et qui relie le temps au mouvement du soleil. Mon objectif était de créer une horloge montrant un temps naturel, pas un temps artificiel comme celui de l'horloge analogique 12 heures. Là où nous vivons, il y a une différence notable dans la longueur des jours au fil de l'année, et aussi le changement d'heure récurrent et peu apprécié. Le cadran solaire devait mettre tout cela en perspective: il affiche un cadran organique, orienté sur les saisons, en rythme avec la nature et évoluant avec elle. – Comme presque tout le monde a aujourd'hui un petit ordinateur dans sa poche, j'ai développé Cadran solaire en 2025 comme une application Android. Beaucoup de plaisir et de découvertes avec !"""+chr(10)+chr(10)+chr(10),
+        'txabout': chr(10)+'Info',
+        'txanleitungprg': chr(10)+"""Cadran solaire de Gordon
+Version """+code_version+""" [i](zunclock)[/i]
+Gordon Axmann
+Copyright 2019-"""+code_year,
+        'txanleitung3': chr(10)+f"""En principe: aucune donnée n'est collectée ou envoyée par ce programme. Tout reste sur votre appareil. Pour utiliser Cadran solaire, une connexion Internet n'est même pas nécessaire. - Il y a une exception: en cas d'erreur du programme, Cadran solaire (si vous avez Internet) envoie le message d'erreur avec le numéro de version, la version du système d'exploitation et un UUID aléatoire à mon site web (voir politique de confidentialité). Cela aide à améliorer les erreurs dans Cadran solaire.
+
+Ce logiciel est une offre gratuite et privée, pour laquelle je ne peux fournir qu'un support limité. Veuillez utiliser le logiciel tel quel. Je ne suis pas un développeur d'applications professionnel. Néanmoins, beaucoup de cœur a été investi dans ce logiciel au fil des années.
+
+Si vous trouvez une erreur, je la corrigerai volontiers si je reçois un rapport d'erreur clair et complet, avec une capture d'écran et une description précise de où, comment et quand l'erreur s'est produite, et idéalement une capture du journal d'état ci-dessous (contact par e-mail: {cf.owneremail}) dès que possible après l'erreur. Les signalements d'erreurs de calcul sont, dans 99 % des cas, des fausses alertes. Le calcul des étoiles est très complexe et génère trop d'informations erronées.
+
+Merci à Rhodes Mill, Rolf, Greg Miller et tous les testeurs. Images des corps célestes: NASA/SOHO, ESA/Hubble, NASA/JPL-Caltech
+
+«Cadran solaire» est un logiciel libre. Profitez simplement de son utilisation. Si vous souhaitez exprimer votre appréciation pour mon travail, voici mon site web:"""+chr(10)+chr(10),
+        'txkaffee': 'Accéder au site web',
+        'txanleitung4': chr(10)+""" """,
+    }
+
 }
 
