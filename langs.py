@@ -49,9 +49,9 @@ splitafter = '.,;:!?“‘”-—)]}%&*+=/\\|>@#_×÷≈≠≤≥°¶•…”�
 splitbefore = '„‚([{<$~^€£¥±©®™§†‡“”‘«¿¡' # "
 no_split = {
     'de': [ "sch", "ch", "ck", "tz", "pf", "qu", "st", "sp", ],
+    'fr': [ "sch", "ch", "ck", "tz", "pf", "qu", "st", "sp", ],
     'en': [ "th", "sh", "ph", "wh", "qu", "ck", "tr", "dr", ],
     'es': [ "ll", "rr", "ch", "qu", ],
-    'fr': [ "ll", "rr", "ch", "qu", ], # einfach aus es kopiert(!)    
 }
 dontsplitbefore = [ "nd", "hn", "rn", "rg", "nb", "sz", "sw", "rd", "lg", "nü", "fh", "ng", "rl", "hl", "lk", "nw", "tz", "fb", "cht", "mb", "sl", "ck", "ld", "nf", "ns", "ht", "rz", "mp", "nt", "lt", "zb", "rm", "gl", "nuh"]
 dontsplitafter = [ "nb", ]
@@ -286,14 +286,16 @@ def gettx(txcode):
     # Deutsch: „Gordons Sonnenuhr” 
     # Englisch: ‘Automatic’ 
     # Spanisch: «Automático»
-    t=replace_quotes(lang[fns.curr_lang][txcode].replace(code_version, fns.versiondat['full']).replace(code_year, fns.versiondat['year']).replace(" - ", " – ").replace("--", "––"), fns.curr_lang)
+    t=replace_quotes(lang[fns.curr_lang][txcode].replace(code_version, fns.versiondat['full']).replace(code_year, fns.versiondat['year']).replace(" - ", " – ").replace("--", "––").replace("Sundial", "Sun Clock").replace(" %", "%"), fns.curr_lang)
+#     if fns.curr_lang!='de': t=t.replace(', unbeirrbar.de', '')
     return t
 
 def replace_quotes(text, lang='de'):
     quotes = {
         'de': ('„', '”'),  # Deutsch
         'en': ('‘', '’'),  # Englisch
-        'es': ('«', '»')   # Spanisch
+        'es': ('«', '»'),   # Spanisch
+        'fr': ('« ', ' »'),   # Französisch
     }
 
     if lang not in quotes or '"' not in text:
@@ -328,7 +330,7 @@ def txupdobjdata(repl): # txupdobjdata({'moon.size': "87"})
 # (!) 'de'=German IS THE ORIGINAL LANGUAGE. It is best to start a translation from German.
 #
 #
-    
+
 lang = {
     'de': {
         'txsettings': chr(10)+'Gordons Sonnenuhr',
@@ -346,6 +348,8 @@ lang = {
         'txenlargeobj': 'Große Symbole:',
         'txuhrsinn': 'Blickrichtung:',
         'txuhrsinnarr': {'auto': 'automatisch', 'nord': 'Norden', 'sued': 'Süden'},
+        'txlang': 'Sprache:',
+        'txlangarr': {'auto': 'automatisch', 'de': 'Deutsch', 'en': 'Englisch', 'es': 'Spanisch', 'fr': 'Französisch'},
         'txfullscr': 'Immer-an Modus:',
         'txnachtmodus': 'Dunkelmodus:',
         'txnachtmodusarr': {'auto': 'automatisch', 'auto_lang': 'auto (mehr)', 'auto_kurz': 'auto (weniger)', 'day': 'hell', 'night': 'dunkel'},
@@ -356,9 +360,9 @@ lang = {
         'txgpsdeact': wrap_text("GPS ist deaktiviert. Bitte aktivieren Sie GPS in Ihrer Geräteeinstellung", lang='de'),
 
         'uebanleitung': 'Anleitung',
-        'txanleitung': chr(10)+"""Um Ihre GPS-Position automatisch zu übernehmen, setzen Sie das Häkchen „Auto-GPS“. Während Sie die App nutzen, wird dann Ihre GPS-Position wird mit ungefährem GPS schnell und energiesparend bestimmt. - Alternativ können Sie eine feste GPS-Position kommagetrennt in das Textfeld eintragen (setzen Sie anschließend das Häkchen bei „GPS-Hinweis aus“) oder einen Ortsnamen in das Feld eingeben. Bei Änderung der Koordinaten (und anderer grundlegender Daten), macht Sonnenuhr eine Berechnung, die (je nach Gerät) zwischen 2-30 Sekunden dauern kann. Diese gilt für einen Tag.
+        'txanleitung': chr(10)+"""Um Ihre GPS-Position aktuell zu halten, setzen Sie das Häkchen „Auto-GPS“. Während Sie die App nutzen, wird dann Ihre GPS-Position wird mit ungefährem GPS schnell und energiesparend bestimmt. - Alternativ können Sie eine feste GPS-Position kommagetrennt in das Textfeld eintragen (setzen Sie anschließend das Häkchen bei „GPS-Hinweis aus“) oder einen Ortsnamen in das Feld eingeben. Bei Änderung der Koordinaten (und anderer grundlegender Daten), macht Sonnenuhr eine Berechnung, die (je nach Gerät) zwischen 2-30 Sekunden dauern kann. Diese gilt für einen Tag.
 
-Zeitzone und Sprache sollten automatisch von Ihrem Mobiltelefon übernommen werden. Sie können zwischen einem 12h- und 24h-Format für die Uhrzeit wählen. Unter Design können Sie verschiedene Darstellungen auswählen. Für den Dunkelmodus kann hell, dunkel und automatische Umschaltung gewählt werden. „Automatisch“ wechselt bei Sonnenuntergang auf Dunkelmodus, „automatisch (weniger)“ wechselt zum Ende der Dämmerung (-6°), „automatisch (mehr)“ wechselt bei +6°. 
+Zeitzone und Sprache sollten automatisch von Ihrem Mobiltelefon übernommen werden. (Sie können die Sprache ändern. Aufgrund von Beschränkungen werden die Dropdown-Texte erst bei einem Neustart aktualisiert.) Sie können zwischen einem 12h- und 24h-Format für die Uhrzeit wählen. Unter Design können Sie verschiedene Darstellungen auswählen. Für den Dunkelmodus kann hell, dunkel und automatische Umschaltung gewählt werden. „Automatisch“ wechselt bei Sonnenuntergang auf Dunkelmodus, „automatisch (weniger)“ wechselt zum Ende der Dämmerung (-6°), „automatisch (mehr)“ wechselt bei +6°. 
 
 „Mehr Rand“ ist für randlose Geräte. Mit „Blickrichtung“ können Sie einstellen, ob die Uhr im Uhrzeigersinn laufen soll (Süden) oder gegen ihn (Norden). (Bitte beachten Sie: Wenn Sie die Drehrichtung ändern, liegt der Teil des Sonnenkreises, der unter dem Horizont ist, dann nicht mehr hinter Ihnen, sondern vor Ihnen. Mehr Details s.u.) 
 
@@ -448,7 +452,7 @@ Version """+code_version+""" [i](zunclock)[/i]
 Gordon Axmann
 Copyright 2019-"""+code_year,
 
-        'txanleitung3': chr(10)+f"""Grundsätzlich gilt: Daten werden von diesem Programm weder erhoben noch an mich gesendet. Alles bleibt auf Ihrem Gerät. Für den Betrieb von Sonnenuhr ist nicht einmal eine Internetverbindung nötig. - Dazu gibt es eine Ausnahme: Im Fall eines Programmfehlers sendet Sonnenuhr (sofern Sie Internet haben) die Fehlermeldung zusammen mit der Versionsnummer, der Betriebssystemversion und einer zufälligen UUID an meine Webpräsenz. So helfen Sie, Sonnenuhr zu verbessern. 
+        'txanleitung3': chr(10)+f"""Grundsätzlich gilt: Daten werden von diesem Programm weder erhoben noch an mich gesendet. Alles bleibt auf Ihrem Gerät. Für den Betrieb von Sonnenuhr ist nicht einmal eine Internetverbindung nötig. - Dazu gibt es eine Ausnahme: Im Fall eines Programmfehlers sendet Sonnenuhr (sofern Sie Internet haben) die Fehlermeldung zusammen mit der Versionsnummer, der Betriebssystemversion und einer zufälligen UUID an meine Webpräsenz (s. Datenschutzrichtlinie). So helfen Sie, Fehler in Sonnenuhr zu verbessern. 
  
 Diese Software ist ein kostenloses, privates Angebot, für das ich nur eingeschränkt Support leisten mag. Bitte nutzen Sie die Software, wie sie ist. Ich bin kein professioneller App-Entwickler. Dennoch ist eine Menge an Herzblut in diese Software über Jahre geflossen.
 
@@ -476,19 +480,21 @@ Danke an Rhodes Mill, Rolf, Greg Miller und alle Tester. Bilder der Himmelskörp
         'txenlargeobj': 'Large objects:',
         'txuhrsinn': 'View:',
         'txuhrsinnarr': {'auto': 'automatic', 'nord': 'North', 'sued': 'South'},
+        'txlang': 'Language:',
+        'txlangarr': {'auto': 'automatic', 'de': 'German', 'en': 'English', 'es': 'Spanish', 'fr': 'French'},
         'txfullscr': 'Screen stays on:',
         'txnachtmodus': 'Dark theme:',
         'txnachtmodusarr': {'auto': 'automatic', 'auto_lang': 'auto (more)', 'auto_kurz': 'auto (less)', 'night': 'dark', 'day': 'light'},        
         'txfarben': 'Design:',
-        'txfarbenarr': {'orig': 'Greyscale', 'c-turn': 'Colour', 'a-gord': 'Art'}, # 'a-bay': 'Art Bayus', Greyscale Monochrome
+        'txfarbenarr': {'orig': 'Greyscale', 'c-turn': 'Colour', 'a-gord': 'Art', 'a-telesk': 'Telescope'}, # 'a-bay': 'Art Bayus', Greyscale Monochrome
         'txstatuslog': "[b]–– Status log:[/b]",
         'txgpsinstruct': wrap_text("To adjust your GPS position, swipe left", lang='en'),
         'txgpsdeact': wrap_text("GPS is disabled. Please enable GPS in your device settings", lang='en'),
 
         'uebanleitung': 'Instructions',
-        'txanleitung': chr(10)+"""To automatically use your GPS position, tick the ‘Auto-GPS’ box. While you are using the app, your GPS position will be determined quickly and energy-efficiently using approximate GPS. Alternatively, you can enter a fixed GPS position separated by commas in the text field (then tick the ‘GPS notification off’ box) or enter a place name in the field. When the coordinates (and other basic data) change, Sun Clock performs a calculation that can take between 2 and 30 seconds (depending on the device). This applies for one day.
+        'txanleitung': chr(10)+"""To keep your GPS position up to date, tick the ‘Auto GPS’ box. While you are using the app, your GPS position will be determined quickly and energy-efficiently using approximate GPS. Alternatively, you can enter a fixed GPS position separated by commas in the text field (then tick the ‘GPS notification off’ box) or enter a place name in the field. When the coordinates (and other basic data) change, Sun Clock performs a calculation that can take between 2 and 30 seconds (depending on the device). This applies for one day.
 
-The time zone and language should be automatically transferred from your mobile phone. You can choose between a 12-hour and 24-hour format for the time. For the design scheme, you can choose between light, dark and automatic switching. ‘Automatic’ switches to dark mode at sunset, ‘automatic (less)’ switches at the end of twilight (-6°), ‘automatic (more)’ switches at +6°. 
+The time zone and language should be automatically transferred from your mobile phone. (You can change the language. Due to restrictions, the drop-down texts will only be updated after a restart.) You can choose between a 12-hour and 24-hour format for the time. For the design scheme, you can choose between light, dark and automatic switching. ‘Automatic’ switches to dark mode at sunset, ‘automatic (less)’ switches at the end of twilight (-6°), ‘automatic (more)’ switches at +6°. 
 
 ‘More border’ is for borderless devices. With ‘View direction’ you can set whether the clock should run clockwise (south) or counterclockwise (north). (Please note: If you change the direction of rotation, the part of the sun circle that is below the horizon will no longer be behind you, but in front of you. See below for more details). 
 
@@ -575,7 +581,7 @@ The ten brightest stars are also shown, symbolised by a letter in a square (see 
 Version """+code_version+""" [i](zunclock)[/i]
 Gordon Axmann
 Copyright 2019-"""+code_year,
-        'txanleitung3': chr(10)+f"""As a general rule, this programme does not collect or send any data to me. Everything remains on your device. Sun Clock does not even require an internet connection to operate. There is one exception to this: in the event of a programme error, Sun Clock sends the error message (provided you have an internet connection) together with the version number, the operating system version and a random UUID to my website. By doing so, you help to improve Sun Clock.
+        'txanleitung3': chr(10)+f"""As a general rule, this programme does not collect or send any data to me. Everything remains on your device. Sun Clock does not even require an internet connection to operate. - There is one exception to this: in the event of a programme error, Sun Clock sends the error message (provided you have an internet connection) together with the version number, the operating system version and a random UUID to my website (see privacy policy). By doing so, you help to improve errors in Sun Clock.
  
 This software is a free, private offering for which I can only provide limited support. Please use the software as is. I am not a professional app developer. Nevertheless, a lot of heart and soul has gone into this software over the years.
 
@@ -604,19 +610,21 @@ Thanks to Rhodes Mill, Rolf, Greg Miller and all the testers. Images of celestia
         'txenlargeobj': 'Objetos grandes:',
         'txuhrsinn': 'Dirección de vista:',
         'txuhrsinnarr': {'auto': 'automático', 'nord': 'Norte', 'sued': 'Sur'},
+        'txlang': 'Idioma:',
+        'txlangarr': {'auto': 'automático', 'de': 'Alemán', 'en': 'Inglés', 'es': 'Español', 'fr': 'Francés'},
         'txfullscr': 'Modo siempre encendido:',
         'txnachtmodus': 'Modo oscuro:',
         'txnachtmodusarr': {'auto': 'automático', 'auto_lang': 'auto (más)', 'auto_kurz': 'auto (menos)', 'night': 'oscuro', 'day': 'claro'},
         'txfarben': 'Diseño:',
-        'txfarbenarr': {'orig': 'Escala de grises', 'c-turn': 'Color', 'a-gord': 'Arte'}, # 'a-bay': 'Arte Bayus', Escala de grises Monocromo Colores
+        'txfarbenarr': {'orig': 'Escala de grises', 'c-turn': 'Color', 'a-gord': 'Arte', 'a-telesk': 'Telescopio'}, # 'a-bay': 'Arte Bayus', Escala de grises Monocromo Colores
         'txstatuslog': "[b]-- Registro de estado:[/b]",
         'txgpsinstruct': wrap_text("Para ajustar tu posición GPS, desliza el dedo hacia la izquierda", lang='es'),
         'txgpsdeact': wrap_text("GPS está desactivado. Active GPS en la configuración de su dispositivo", lang='es'),
 
         'uebanleitung': 'Instrucciones',
-        'txanleitung': chr(10)+"""Para aceptar automáticamente su posición GPS, marque la casilla «GPS automático». Mientras utiliza la aplicación, su posición GPS se determinará de forma rápida y con bajo consumo de energía mediante GPS aproximado. - Alternativamente, puede introducir una posición GPS fija separada por comas en el campo de texto (a continuación, marque la casilla «Notificación GPS desactivada») o introducir un nombre de lugar en el campo. Si se modifican las coordenadas (y otros datos básicos), Reloj de sol realiza un cálculo que puede tardar entre 2 y 30 segundos (dependiendo del dispositivo). Este cálculo es válido para un día.
+        'txanleitung': chr(10)+"""Para mantener actualizada su posición GPS, marque la casilla «GPS automático». Mientras utiliza la aplicación, su posición GPS se determinará de forma rápida y con bajo consumo de energía mediante GPS aproximado. - Alternativamente, puede introducir una posición GPS fija separada por comas en el campo de texto (a continuación, marque la casilla «Notificación GPS desactivada») o introducir un nombre de lugar en el campo. Si se modifican las coordenadas (y otros datos básicos), Reloj de sol realiza un cálculo que puede tardar entre 2 y 30 segundos (dependiendo del dispositivo). Este cálculo es válido para un día.
 
-La zona horaria y el idioma se deben transferir automáticamente desde su teléfono móvil. Puede elegir entre el formato de 12 o 24 horas para la hora. Para el esquema de diseño, puede elegir entre claro, oscuro y cambio automático. «Automático» cambia al modo oscuro al atardecer, «auto (menos)» cambia al final del crepúsculo (-6°), «auto (más)» cambia a +6°. 
+La zona horaria y el idioma se deben transferir automáticamente desde su teléfono móvil. (Puede cambiar el idioma. Debido a ciertas restricciones, los textos del menú desplegable solo se actualizarán tras reiniciar el sistema). Puede elegir entre el formato de 12 o 24 horas para la hora. Para el esquema de diseño, puede elegir entre claro, oscuro y cambio automático. «Automático» cambia al modo oscuro al atardecer, «auto (menos)» cambia al final del crepúsculo (-6°), «auto (más)» cambia a +6°. 
 
 «Más borde» es para dispositivos sin bordes. Con «Dirección de la mirada» puede configurar si el reloj debe funcionar en el sentido de las agujas del reloj (sur) o en sentido contrario (norte). (Tenga en cuenta que si cambia la dirección de giro, la parte del círculo solar que está por debajo del horizonte ya no estará detrás de usted, sino delante). Más detalles a continuación). 
 
@@ -703,8 +711,8 @@ A continuación se muestran las diez estrellas más brillantes, simbolizadas por
 Versión """+code_version+""" [i](zunclock)[/i]
 Gordon Axmann
 Copyright 2019-"""+code_year,
-        "txanleitung3": chr(10)+f"""Por regla general, este programa no recopila ningún dato ni me lo envía. Todo permanece en tu dispositivo. Reloj de sol ni siquiera necesita conexión a Internet para funcionar. Hay una excepción: en caso de error del programa, Reloj de sol envía el mensaje de error (siempre que tengas conexión a Internet) junto con el número de versión, la versión del sistema operativo y un UUID aleatorio a mi sitio web. De este modo, contribuyes a mejorar Reloj de sol.
- 
+        "txanleitung3": chr(10)+f"""Por regla general, este programa no recopila ningún dato ni me lo envía. Todo permanece en tu dispositivo. Reloj de sol ni siquiera necesita conexión a Internet para funcionar. - Hay una excepción: en caso de error del programa, Reloj de sol envía el mensaje de error (siempre que tengas conexión a Internet) junto con el número de versión, la versión del sistema operativo y un UUID aleatorio a mi sitio web (véase la política de privacidad). De este modo, contribuyes a mejorar errores en el Reloj de sol.
+
 Este software es una oferta gratuita y privada, para la que solo puedo ofrecer asistencia técnica limitada. Utilice el software tal y como está. No soy un desarrollador de aplicaciones profesional. Sin embargo, he dedicado mucho esfuerzo y dedicación a este software a lo largo de los años.
 
 Si encuentra un error, estaré encantado de corregirlo si recibo un informe claro y completo del mismo, con una captura de pantalla y una descripción detallada de dónde (por qué) y cuándo se produjo el error y, a ser posible, una captura de pantalla del registro de estado que aparece a continuación (correo electrónico de contacto: {cf.owneremail}) lo antes posible después de que se produzca el error. Las indicaciones sobre errores de cálculo son, en el 99 % de los casos, informes falsos. El cálculo de las estrellas es muy complejo y da demasiada información errónea.
@@ -716,7 +724,7 @@ Gracias a Rhodes Mill, Rolf, Greg Miller y a todos los probadores. Imágenes de 
         'txanleitung4': chr(10)+""" """,
 
     },
-    
+
     'fr': {
         'txsettings': chr(10)+'Cadran solaire de Gordon',
         'txwelcome': 'Bienvenue', # ne pas SUPPRIMER, important pour vérifier si le pack de langue existe
@@ -733,22 +741,24 @@ Gracias a Rhodes Mill, Rolf, Greg Miller y a todos los probadores. Imágenes de 
         'txenlargeobj': 'Grands symboles:',
         'txuhrsinn': 'Direction du regard:',
         'txuhrsinnarr': {'auto': 'automatique', 'nord': 'Nord', 'sued': 'Sud'},
-        'txfullscr': 'Toujours actif:',
+        'txlang': 'Idioma:',
+        'txlangarr': {'auto': 'automatique', 'de': 'Allemand', 'en': 'Anglais', 'es': 'Espagnol', 'fr': 'Français'},
+        'txfullscr': 'Mode toujours actif:',
         'txnachtmodus': 'Mode sombre:',
         'txnachtmodusarr': {'auto': 'automatique', 'auto_lang': 'auto (plus)', 'auto_kurz': 'auto (moins)', 'day': 'clair', 'night': 'sombre'},
         'txfarben': 'Design:',
-        'txfarbenarr': {'orig': 'Nuances de gris', 'c-turn': 'Couleur', 'a-gord': 'Art', 'a-telesk': 'Télescope'},
+        'txfarbenarr': {'orig': 'Nuances de gris', 'c-turn': 'Couleur', 'a-gord': 'Art', 'a-telesk': 'Télescope'}, 
         'txstatuslog': "[b]–– Journal d'état:[/b]",
         'txgpsinstruct': wrap_text("Pour ajuster votre position GPS, balayez vers la gauche", lang='fr'),
         'txgpsdeact': wrap_text("Le GPS est désactivé. Veuillez activer le GPS dans les paramètres de votre appareil", lang='fr'),
         'uebanleitung': 'Instructions',
-        'txanleitung': chr(10)+"""Pour adopter automatiquement votre position GPS, cochez la case «GPS automatique». Pendant que vous utilisez l'application, votre position GPS sera déterminée rapidement et de manière économe en énergie avec une approximation. - Alternativement, vous pouvez entrer une position GPS fixe séparée par des virgules dans le champ de texte (puis cochez «Désactiver l'indication GPS») ou entrer un nom de lieu dans le champ. Lorsque les coordonnées (et d'autres données de base) sont modifiées, l'application effectue un calcul qui peut prendre entre 2 et 30 secondes selon l'appareil. Ce calcul est valable pour une journée.
+        'txanleitung': chr(10)+"""Pour maintenir votre position GPS à jour, cochez la case « GPS automatique ». Pendant que vous utilisez l'application, votre position GPS sera déterminée rapidement et de manière économe en énergie avec une approximation. - Alternativement, vous pouvez entrer une position GPS fixe séparée par des virgules dans le champ de texte (puis cochez « Désactiver l'indication GPS ») ou entrer un nom de lieu dans le champ. Lorsque les coordonnées (et d'autres données de base) sont modifiées, l'application effectue un calcul qui peut prendre entre 2 et 30 secondes selon l'appareil. Ce calcul est valable pour une journée.
 
-Le fuseau horaire et la langue devraient être automatiquement repris de votre téléphone mobile. Vous pouvez choisir entre un format 12h et 24h pour l'heure. Sous Design, vous pouvez choisir différentes représentations. Pour le mode sombre, vous pouvez choisir clair, sombre ou commutation automatique. «Automatique» passe en mode sombre au coucher du soleil, «auto (moins)» passe à la fin du crépuscule (-6°), «auto (plus)» passe à +6°.
+Le fuseau horaire et la langue devraient être automatiquement repris de votre téléphone mobile. (Vous pouvez changer la langue. En raison de certaines restrictions, les textes du menu déroulant ne seront mis à jour qu'après un redémarrage.) Vous pouvez choisir entre un format 12h et 24h pour l'heure. Sous Design, vous pouvez choisir différentes représentations. Pour le mode sombre, vous pouvez choisir clair, sombre ou commutation automatique. « Automatique » passe en mode sombre au coucher du soleil, « auto (moins) » passe à la fin du crépuscule (-6°), « auto (plus) » passe à +6°.
 
-«Plus de bordure» est pour les appareils sans bord. Avec «Direction du regard», vous pouvez définir si l'horloge doit tourner dans le sens des aiguilles d'une montre (Sud) ou dans le sens inverse (Nord). (Veuillez noter: si vous changez le sens de rotation, la partie du cercle solaire qui est sous l'horizon ne sera plus derrière vous, mais devant vous. Plus de détails ci-dessous.)
+« Plus de bordure » est pour les appareils sans bord. Avec « Direction du regard », vous pouvez définir si l'horloge doit tourner dans le sens des aiguilles d'une montre (Sud) ou dans le sens inverse (Nord). (Veuillez noter: si vous changez le sens de rotation, la partie du cercle solaire qui est sous l'horizon ne sera plus derrière vous, mais devant vous. Plus de détails ci-dessous.)
 
-«Grands symboles» dessine les objets sur le cadran plus grands. «Toujours actif» empêche l'écran de s'éteindre. J'ai par exemple accroché une ancienne [i]tablette[/i] avec «Cadran solaire» au mur pour ma nièce, afin qu'elle soit toujours visible.
+« Grands symboles » dessine les objets sur le cadran plus grands. « Toujours actif » empêche l'écran de s'éteindre. J'ai par exemple accroché une ancienne [i]tablette[/i] avec « Cadran solaire » au mur pour ma nièce, afin qu'elle soit toujours visible.
 
 Si vos paramètres ne sont pas pris en compte, vous pouvez appuyer sur le bouton de mise à jour en bas à droite.
 
@@ -781,8 +791,9 @@ Saturne: {saturn_magp} (77-100)
 
 [s] Sirius, [k] Canopus, [f] Alpha Centauri, [a] Arcturus, [w] Véga, [c] Capella, [r] Rigel, [p] Procyon, [b] Bételgeuse, [h] Achernar""",
         'txmore': " "+chr(10)+chr(10),
+        
         'txmanual': chr(10)+'Cadran',
-        'txanleitung2': chr(10)+"""«Cadran solaire de Gordon» est en principe une horloge à une aiguille avec un cadran qui change quotidiennement, s'orientant sur les rythmes de la nature et des astres. Il montre la position du soleil et le ciel étoilé. Une nouvelle forme de représentation du temps, qui n'est pas artificielle comme notre horloge habituelle (avec l'heure ferroviaire et le changement d'heure), mais qui évolue en harmonie avec les saisons.
+        'txanleitung2': chr(10)+"""« Cadran solaire de Gordon » est en principe une horloge à une aiguille avec un cadran qui change quotidiennement, s'orientant sur les rythmes de la nature et des astres. Il montre la position du soleil et le ciel étoilé. Une nouvelle forme de représentation du temps, qui n'est pas artificielle comme notre horloge habituelle (avec l'heure ferroviaire et le changement d'heure), mais qui évolue en harmonie avec les saisons.
 
 [i]REMARQUE: Vous pouvez naviguer entre ce guide et le cadran en balayant.[/i]
 
@@ -791,23 +802,23 @@ Saturne: {saturn_magp} (77-100)
 
 Au centre de l'écran, vous voyez une ligne horizontale. C'est l'horizon (la surface de la Terre). Le triangle pointu au centre est un sapin vu de loin (ou une église). (Vous ne le regardez pas de haut, mais vous vous tenez devant.)
 
-Si vous n'avez rien modifié dans les paramètres («Direction du regard: automatique»), vous regardez vers le sud dans l'hémisphère nord (et vers le nord dans l'hémisphère sud). Les objets à gauche de l'écran se trouvent à l'est ; ceux à droite, à l'ouest (inversé dans l'hémisphère sud). Les directions cardinales sont indiquées au bord de l'horizon.
+Si vous n'avez rien modifié dans les paramètres (« Direction du regard: automatique »), vous regardez vers le sud dans l'hémisphère nord (et vers le nord dans l'hémisphère sud). Les objets à gauche de l'écran se trouvent à l'est ; ceux à droite, à l'ouest (inversé dans l'hémisphère sud). Les directions cardinales sont indiquées au bord de l'horizon.
 
 La bande (gris clair) sous l'horizon indique la phase de crépuscule (civil). La grande zone gris foncé symbolise la nuit (y compris le crépuscule nautique). Les objets dans cette zone ne sont pas visibles.
 
-À droite de l'écran, vous voyez l'heure locale (en numérique), la position GPS de l'emplacement sous forme de code numérique (par ex. «cri-hs», précis à environ 4 km) ou un nom de lieu (si vous l'avez saisi), ainsi que la hauteur actuelle du soleil en degrés dans le ciel (par ex. 27,6°).
+À droite de l'écran, vous voyez l'heure locale (en numérique), la position GPS de l'emplacement sous forme de code numérique (par ex. « cri-hs », précis à environ 4 km) ou un nom de lieu (si vous l'avez saisi), ainsi que la hauteur actuelle du soleil en degrés dans le ciel (par ex. 27,6°).
 
 
 [b]–– Soleil:[/b]
 
 Le soleil (à l'extrémité de l'unique aiguille de l'horloge) se déplace de gauche à droite au cours de la journée (inversé dans l'hémisphère sud). Plus le soleil est à gauche sur l'écran, plus il est à l'est ; plus il est à droite, plus il est à l'ouest (inversé dans l'hémisphère sud). Plus le soleil est haut sur l'écran, plus il est élevé dans le ciel.
 
-Le soleil suit la trajectoire circulaire dessinée, sur laquelle il se déplace en une journée. Des heures (par ex. «12») sont indiquées sur le bord de cette trajectoire, qui sert également de cadran.
+Le soleil suit la trajectoire circulaire dessinée, sur laquelle il se déplace en une journée. Des heures (par ex. « 12 ») sont indiquées sur le bord de cette trajectoire, qui sert également de cadran.
 
 Sur le cadran, par exemple, on peut voir comment, lors du changement d'heure, les chiffres se décalent, mais la trajectoire reste la même. Ou encore: comment l'heure légale diffère de l'heure locale dans la plupart des endroits, car midi n'est pas exactement en haut du cadran.""",
         'txanleitung2b': chr(10)+chr(10)+"""[b]–– Lune:[/b]
 
-La lune a également une orbite. Elle est dessinée en cercle gris clair (sans aiguille). Comme la lune met plus de 24 heures pour un tour, deux heures supplémentaires (de la veille) sont ajoutées en gris très clair. En «vivant avec l'horloge», on peut observer comment la lune monte et descend périodiquement sur des semaines. De plus, on peut voir qu'à la pleine lune, elle est à l'opposé du soleil sur le cercle (loin) ; à la nouvelle lune, elle est à la même position (proche du soleil). Ce n'est généralement pas exactement la même position, car on regarde de côté (et non de dessus). Elle est exactement identique uniquement lors d'une éclipse solaire.
+La lune a également une orbite. Elle est dessinée en cercle gris clair (sans aiguille). Comme la lune met plus de 24 heures pour un tour, deux heures supplémentaires (de la veille) sont ajoutées en gris très clair. En « vivant avec l'horloge », on peut observer comment la lune monte et descend périodiquement sur des semaines. De plus, on peut voir qu'à la pleine lune, elle est à l'opposé du soleil sur le cercle (loin) ; à la nouvelle lune, elle est à la même position (proche du soleil). Ce n'est généralement pas exactement la même position, car on regarde de côté (et non de dessus). Elle est exactement identique uniquement lors d'une éclipse solaire.
 
 Pleine lune et nouvelle lune sont indiquées (par l'ombre dessinée). La nouvelle lune est représentée pendant 35 heures (temps pendant lequel la lune est invisible). La pleine lune est représentée pendant 24 heures. (Le recalcul des orbites du soleil et de la lune a lieu chaque jour à 00:00 UTC.)
 
@@ -819,12 +830,12 @@ Les cinq planètes visibles à l'œil nu sont affichées, représentées par leu
 
 [b]–– Étoiles:[/b]
 
-Les dix étoiles les plus brillantes sont également affichées, symbolisées par une lettre dans un carré (voir légende page précédente). Alors que les planètes restent relativement ordonnées, souvent près de l'orbite solaire, les étoiles ont une trajectoire indépendante du soleil (étant elles-mêmes des soleils). Pour les symboles des étoiles, deux côtés du carré sont toujours plus épais que les autres, indiquant le coin (ou le quadrant de leur orbite) où elles se trouvent actuellement. Si le coin mis en évidence est en bas à droite, cela marque (plus ou moins) la «fin» de leur trajectoire vers le bas et la droite, et l'étoile se déplacera ensuite principalement vers le haut et la gauche (souvent hors de l'écran).
+Les dix étoiles les plus brillantes sont également affichées, symbolisées par une lettre dans un carré (voir légende page précédente). Alors que les planètes restent relativement ordonnées, souvent près de l'orbite solaire, les étoiles ont une trajectoire indépendante du soleil (étant elles-mêmes des soleils). Pour les symboles des étoiles, deux côtés du carré sont toujours plus épais que les autres, indiquant le coin (ou le quadrant de leur orbite) où elles se trouvent actuellement. Si le coin mis en évidence est en bas à droite, cela marque (plus ou moins) la « fin » de leur trajectoire vers le bas et la droite, et l'étoile se déplacera ensuite principalement vers le haut et la gauche (souvent hors de l'écran).
 
 
 [b]–– Historique:[/b]
 
-«Cadran solaire de Gordon» a été développé en 2019 pour un Raspberry Pi avec un écran ePaper de 10 pouces, car je voulais une horloge murale agréable à regarder et qui relie le temps au mouvement du soleil. Mon objectif était de créer une horloge montrant un temps naturel, pas un temps artificiel comme celui de l'horloge analogique 12 heures. Là où nous vivons, il y a une différence notable dans la longueur des jours au fil de l'année, et aussi le changement d'heure récurrent et peu apprécié. Le cadran solaire devait mettre tout cela en perspective: il affiche un cadran organique, orienté sur les saisons, en rythme avec la nature et évoluant avec elle. – Comme presque tout le monde a aujourd'hui un petit ordinateur dans sa poche, j'ai développé Cadran solaire en 2025 comme une application Android. Beaucoup de plaisir et de découvertes avec !"""+chr(10)+chr(10)+chr(10),
+« Cadran solaire de Gordon » a été développé en 2019 pour un Raspberry Pi avec un écran ePaper de 10 pouces, car je voulais une horloge murale agréable à regarder et qui relie le temps au mouvement du soleil. Mon objectif était de créer une horloge montrant un temps naturel, pas un temps artificiel comme celui de l'horloge analogique 12 heures. Là où nous vivons, il y a une différence notable dans la longueur des jours au fil de l'année, et aussi le changement d'heure récurrent et peu apprécié. Le cadran solaire devait mettre tout cela en perspective: il affiche un cadran organique, orienté sur les saisons, en rythme avec la nature et évoluant avec elle. – Comme presque tout le monde a aujourd'hui un petit ordinateur dans sa poche, j'ai développé Cadran solaire en 2025 comme une application Android. Beaucoup de plaisir et de découvertes avec !"""+chr(10)+chr(10)+chr(10),
         'txabout': chr(10)+'Info',
         'txanleitungprg': chr(10)+"""Cadran solaire de Gordon
 Version """+code_version+""" [i](zunclock)[/i]
@@ -838,10 +849,22 @@ Si vous trouvez une erreur, je la corrigerai volontiers si je reçois un rapport
 
 Merci à Rhodes Mill, Rolf, Greg Miller et tous les testeurs. Images des corps célestes: NASA/SOHO, ESA/Hubble, NASA/JPL-Caltech
 
-«Cadran solaire» est un logiciel libre. Profitez simplement de son utilisation. Si vous souhaitez exprimer votre appréciation pour mon travail, voici mon site web:"""+chr(10)+chr(10),
+« Cadran solaire » est un logiciel libre. Profitez simplement de son utilisation. Si vous souhaitez exprimer votre appréciation pour mon travail, voici mon site web:"""+chr(10)+chr(10),
         'txkaffee': 'Accéder au site web',
         'txanleitung4': chr(10)+""" """,
     }
 
 }
+
+
+# # Sprachcodes voranstellen, wegen Bug in kivy spinnern... 
+
+# for langcode, content in lang.items():
+#     txlangarr = content.get('txlangarr')
+#     if isinstance(txlangarr, dict):
+#         for key in list(txlangarr.keys()):
+#             name = txlangarr[key]
+#             if key!='auto': txlangarr[key] = f"{key}-{name}"
+#             # else: txlangarr[key] = "*-"+name
+
 
