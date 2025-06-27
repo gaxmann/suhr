@@ -71,6 +71,7 @@ no_split = {
         "ou", "oi", "ai", "ei", "au", "eau", "eu", "œu", "ie", "ui",
     ],
 }
+
 dontsplitbefore = [ "nd", "hn", "rn", "rg", "nb", "sz", "sw", "rd", "lg", "nü", "fh", "ng", "rl", "hl", "lk", "nw", "tz", "fb", "cht", "mb", "sl", "ck", "ld", "nf", "ns", "ht", "rz", "mp", "nt", "lt", "zb", "rm", "gl", "nuh"]
 dontsplitafter = [ "nb", ]
 # dosplitafter = [ "ge", ]
@@ -304,7 +305,7 @@ def gettx(txcode):
     # Deutsch: „Gordons Sonnenuhr” 
     # Englisch: ‘Automatic’ 
     # Spanisch: «Automático»
-    t=replace_quotes(lang[fns.curr_lang][txcode].replace(code_version, fns.versiondat['full']).replace(code_year, fns.versiondat['year']).replace(" - ", " – ").replace("--", "––").replace("Sundial", "Sun Clock").replace(" %", "%"), fns.curr_lang)
+    t=replace_quotes(lang[fns.curr_lang][txcode].replace(code_version, fns.versiondat['full']).replace(code_year, fns.versiondat['year']).replace(" - ", " – ").replace("--", "––").replace("Sundial", "Sun Clock").replace(" %", "%").replace(chr(10)+chr(10)+'Translated with DeepL.com (free version)',''), fns.curr_lang)
 #     if fns.curr_lang!='de': t=t.replace(', unbeirrbar.de', '')
     return t
 
@@ -382,7 +383,7 @@ lang = {
 
 Zeitzone und Sprache sollten automatisch von Ihrem Mobiltelefon übernommen werden. (Sie können die Sprache ändern. Aufgrund von Beschränkungen werden die Dropdown-Texte erst bei einem Neustart aktualisiert.) Sie können zwischen einem 12h- und 24h-Format für die Uhrzeit wählen. Unter Design können Sie verschiedene Darstellungen auswählen. Für den Dunkelmodus kann hell, dunkel und automatische Umschaltung gewählt werden. „Automatisch“ wechselt bei Sonnenuntergang auf Dunkelmodus, „automatisch (weniger)“ wechselt zum Ende der Dämmerung (-6°), „automatisch (mehr)“ wechselt bei +6°. 
 
-„Mehr Rand“ ist für randlose Geräte. Mit „Blickrichtung“ können Sie einstellen, ob die Uhr im Uhrzeigersinn laufen soll (Süden) oder gegen ihn (Norden). (Bitte beachten Sie: Wenn Sie die Drehrichtung ändern, liegt der Teil des Sonnenkreises, der unter dem Horizont ist, dann nicht mehr hinter Ihnen, sondern vor Ihnen. Mehr Details s.u.) 
+„Mehr Rand“ ist für randlose Geräte. Mit „Blickrichtung“ können Sie einstellen, ob die Uhr im Uhrzeigersinn laufen soll (Süden) oder gegen ihn (Norden). (Bitte beachten Sie: Wenn Sie die Drehrichtung ändern, liegt der Teil des Sonnenkreises, der unter dem Horizont ist, dann nicht mehr hinter Ihnen, sondern vor Ihnen. Mehr Details s. nächste Seite) 
 
 „Große Symbole“ zeichnet die Objekte auf dem Ziffernblatt größer. „Immer an“ verhindert das Ausschalten des Bildschirms. Ich habe meiner Nichte z.B. ein altes [i]Tablet[/i] mit „Sonnenuhr“ an die Wand gehängt, das immer direkt zu sehen ist.
 
@@ -391,7 +392,7 @@ Sollten Ihre Einstellungen einmal nicht übernommen werden, können Sie die Aktu
 
 [b]–– Ziffernblatt:[/b]
         
-Eine ausführliche Erklärung zum Lesen des Ziffernblatts finden Sie auf der nächsten Seite (bitte nach links wischen).
+Eine Erklärung zum Lesen des Ziffernblatts finden Sie auf der nächsten Seite (bitte nach links wischen).
 
 
 [b]–– Mehr Details:[/b]
@@ -514,7 +515,7 @@ Danke an Rhodes Mill, Rolf, Greg Miller und alle Tester. Bilder der Himmelskörp
 
 The time zone and language should be automatically transferred from your mobile phone. (You can change the language. Due to restrictions, the drop-down texts will only be updated after a restart.) You can choose between a 12-hour and 24-hour format for the time. For the design scheme, you can choose between light, dark and automatic switching. ‘Automatic’ switches to dark mode at sunset, ‘automatic (less)’ switches at the end of twilight (-6°), ‘automatic (more)’ switches at +6°. 
 
-‘More border’ is for borderless devices. With ‘View direction’ you can set whether the clock should run clockwise (south) or counterclockwise (north). (Please note: If you change the direction of rotation, the part of the sun circle that is below the horizon will no longer be behind you, but in front of you. See below for more details). 
+‘More border’ is for borderless devices. With ‘View direction’ you can set whether the clock should run clockwise (south) or counterclockwise (north). (Please note: If you change the direction of rotation, the part of the sun circle that is below the horizon will no longer be behind you, but in front of you. For more details, see next page)
 
 ‘Large symbols’ draws the objects on the dial larger. ‘Always on’ prevents the screen from turning off. For example, I hung an old tablet with ‘Sundial’ on the wall for my niece, which is always directly visible.
 
@@ -523,7 +524,7 @@ If your settings are not applied, you can press the refresh button at the bottom
 
 [b]-- Dial:[/b]
         
-A detailed explanation of how to read the dial can be found on the next page (please swipe left).
+You will find an explanation of how to read the dial on the next page (please swipe left).
 
 
 [b]-- More details:[/b]
@@ -644,7 +645,7 @@ Thanks to Rhodes Mill, Rolf, Greg Miller and all the testers. Images of celestia
 
 La zona horaria y el idioma se deben transferir automáticamente desde su teléfono móvil. (Puede cambiar el idioma. Debido a ciertas restricciones, los textos del menú desplegable solo se actualizarán tras reiniciar el sistema). Puede elegir entre el formato de 12 o 24 horas para la hora. Para el esquema de diseño, puede elegir entre claro, oscuro y cambio automático. «Automático» cambia al modo oscuro al atardecer, «auto (menos)» cambia al final del crepúsculo (-6°), «auto (más)» cambia a +6°. 
 
-«Más borde» es para dispositivos sin bordes. Con «Dirección de la mirada» puede configurar si el reloj debe funcionar en el sentido de las agujas del reloj (sur) o en sentido contrario (norte). (Tenga en cuenta que si cambia la dirección de giro, la parte del círculo solar que está por debajo del horizonte ya no estará detrás de usted, sino delante). Más detalles a continuación). 
+«Más borde» es para dispositivos sin bordes. Con «Dirección de la mirada» puede configurar si el reloj debe funcionar en el sentido de las agujas del reloj (sur) o en sentido contrario (norte). (Tenga en cuenta que si cambia la dirección de giro, la parte del círculo solar que está por debajo del horizonte ya no estará detrás de usted, sino delante. Más detalles en la página siguiente)
 
 «Símbolos grandes» dibuja los objetos de la esfera más grandes. «Siempre encendido» evita que se apague la pantalla. Por ejemplo, le he colgado a mi sobrina una vieja [i]tableta[/i] con «Reloj de sol» en la pared, que siempre se ve directamente.
 
@@ -653,7 +654,7 @@ Si alguna vez no se aplican sus ajustes, puede pulsar el botón de actualizació
 
 [b]–– Esfera:[/b]
         
-Encontrará una explicación detallada sobre cómo leer la esfera en la página siguiente (deslice hacia la izquierda).
+Encontrará una explicación sobre cómo leer la esfera en la página siguiente (deslice hacia la izquierda).
 
 
 [b]-- Más detalles:[/b]
@@ -774,7 +775,7 @@ Gracias a Rhodes Mill, Rolf, Greg Miller y a todos los probadores. Imágenes de 
 
 Le fuseau horaire et la langue devraient être automatiquement repris de votre téléphone mobile. (Vous pouvez changer la langue. En raison de certaines restrictions, les textes du menu déroulant ne seront mis à jour qu'après un redémarrage.) Vous pouvez choisir entre un format 12h et 24h pour l'heure. Sous Design, vous pouvez choisir différentes représentations. Pour le mode sombre, vous pouvez choisir clair, sombre ou commutation automatique. « Automatique » passe en mode sombre au coucher du soleil, « auto (moins) » passe à la fin du crépuscule (-6°), « auto (plus) » passe à +6°.
 
-« Plus de bordure » est pour les appareils sans bord. Avec « Direction du regard », vous pouvez définir si l'horloge doit tourner dans le sens des aiguilles d'une montre (Sud) ou dans le sens inverse (Nord). (Veuillez noter: si vous changez le sens de rotation, la partie du cercle solaire qui est sous l'horizon ne sera plus derrière vous, mais devant vous. Plus de détails ci-dessous.)
+« Plus de bordure » est pour les appareils sans bord. Avec « Direction du regard », vous pouvez définir si l'horloge doit tourner dans le sens des aiguilles d'une montre (Sud) ou dans le sens inverse (Nord). (Veuillez noter: si vous changez le sens de rotation, la partie du cercle solaire qui est sous l'horizon ne sera plus derrière vous, mais devant vous. Plus de détails à la page suivante)
 
 « Grands symboles » dessine les objets sur le cadran plus grands. « Toujours actif » empêche l'écran de s'éteindre. J'ai par exemple accroché une ancienne [i]tablette[/i] avec « Cadran solaire » au mur pour ma nièce, afin qu'elle soit toujours visible.
 
@@ -783,7 +784,7 @@ Si vos paramètres ne sont pas pris en compte, vous pouvez appuyer sur le bouton
 
 [b]–– Cadran:[/b]
 
-Une explication détaillée de la lecture du cadran se trouve sur la page suivante (veuillez balayer vers la gauche).
+Vous trouverez une explication sur la lecture du cadran à la page suivante (veuillez balayer vers la gauche).
 
 
 [b]–– Plus de détails:[/b]
