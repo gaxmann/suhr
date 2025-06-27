@@ -6,91 +6,91 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 ## 2.16 - Juni 25
-- Teleskop: Größenrelation geändert
-- Farbe Nacht verdunkelt
-- Französisch ergänzt
-- Sprachwähler ergänzt,
+- Added: Teleskop: Größenrelation geändert
+- Changed: Farbe Nacht verdunkelt
+- Added: Französisch ergänzt
+- Added: Sprachwähler ergänzt,
 
 ## 2.15 - 24. Juni 25
-- Designs aufgeräumt (Teleskop ergänzt)
-- Zeitzone wurde ggf. nicht gespeichert
+- Added/Removed: Designs aufgeräumt (Teleskop ergänzt)
+- Fixed: Zeitzone wurde ggf. nicht gespeichert
 
 ## 2.14 - Juni 25
-- Texte neu übersetzt
-- Designwähler ergänzt (mit testweisen Designs)
-- Logo neu
-- gelegentl. Fehler beim Speichern der Einstellungen behoben
-- Fehlermeldungen werden gemeldet
+- Changed: Texte neu übersetzt
+- Added: Designwähler ergänzt (mit testweisen Designs)
+- Changed: Logo neu
+- Fixed: gelegentl. Fehler beim Speichern der Einstellungen behoben
+- Added: Fehlermeldungen werden gemeldet
 
 ## 2.13 - Juni 25
 - Mondschatten war etwas zu groß
-- Merkur ergänzt
-- ISS entfernt
+- Added: Merkur ergänzt
+- Removed: ISS entfernt
 - Planetengrößen durch -helligkeiten ersetzt
-- O-W im Horizont ergänzt
+- Added: O-W im Horizont ergänzt
 
 ## 2.12 - Juni 25
-- Option „Objekte größer zeichnen“ ergänzt
-- Planetengrößen in "Mehr Details" ergänzt
-- Neuzeichnen bei gleichen Koordinaten beschleunigt
-- ISS ergänzt
-- Ortsabfragen beschleunigt - Zwischenspeicher),
+- Added: Option „Objekte größer zeichnen“ ergänzt
+- Added: Planetengrößen in "Mehr Details" ergänzt
+- Changed: Neuzeichnen bei gleichen Koordinaten beschleunigt
+- Added: ISS ergänzt
+- Changed: Ortsabfragen beschleunigt (Zwischenspeicher),
 
 ## 2.11 - Juni 25
-- Texte auf drei Seiten aufgeteil wegen Renderproblemen
-- Abschnitt "Mehr Details" ergänzt
+- Changed: Texte auf drei Seiten aufgeteil wegen Renderproblemen
+- Added: Abschnitt "Mehr Details" ergänzt
 
 ## 2.10 - Juni 25
-- Vorabskizze bei langsamen Geräten noch schneller
-- GPS-Hinweis Schriftart korrigiert
+- Changed: Vorabskizze bei langsamen Geräten noch schneller
+- Fixed: GPS-Hinweis Schriftart korrigiert
 
 ## 2.9 - Juni 25
-- Anleitung wurde nicht gerendert
-- lokale Sonnendaten wurden nach Update gelöscht
+- Fixed: Anleitung wurde nicht gerendert
+- Fixed: lokale Sonnendaten wurden nach Update gelöscht
 
 ## 2.8 - Juni 25
-- Startet nun schneller (zeigt Vorabskizze bis alle Berechnungen durchgeführt)
-- Sonne war auf verschiedenen Geräten zu groß/klein
-- Mondstruktur war 1 Pixel zu klein
-- dritte Seite eingeführt wegen gelegentl. Darstellungsfehler mit Fließtext
+- Added: Startet nun schneller (zeigt Vorabskizze bis alle Berechnungen durchgeführt)
+- Changed: Sonne war auf verschiedenen Geräten zu groß/klein
+- Fixed: Mondstruktur war 1 Pixel zu klein
+- Added: dritte Seite eingeführt wegen gelegentl. Darstellungsfehler mit Fließtext
 
 ## 2.7 - Juni 25
-- "Mehr Rand" verschiebt nun auch die Texte
-- Ziffernstriche von Mond waren z.T. falsch herum
-- fehlende Digitalzeit korrigiert
-- Schriftart gewechselt
+- Changed: "Mehr Rand" verschiebt nun auch die Texte
+- Fixed: Ziffernstriche von Mond waren z.T. falsch herum
+- Fixed: fehlende Digitalzeit korrigiert
+- Changed: Schriftart gewechselt
 
 ## 2.6 - Juni 25
-- "Mehr Rand" funktioniert nun auch beim Start
-- Mondschatten war 1 Pixel zu klein
+- Fixed: "Mehr Rand" funktioniert nun auch beim Start
+- Fixed: Mondschatten war 1 Pixel zu klein
 
 ## 2.5 - Juni 25
-- Einstellung "Blickrichtung" ergänzt für fixe Blickrichtung
-- Einstellung "mehr Rand" ergänzt für randlose Geräte
-- Texte aktualisiert
+- Added: Einstellung "Blickrichtung" ergänzt für fixe Blickrichtung
+- Added: Einstellung "mehr Rand" ergänzt für randlose Geräte
+- Changed: Texte aktualisiert
 
 ## 2.4 - Juni 25
-- Texte aktualisiert
-- Mondstruktur 1 Pixel zu groß
+- Changed: Texte aktualisiert
+- Fixed: Mondstruktur 1 Pixel zu groß
 
 ## 2.3 - Juni 25
-- Rechts-links-Wischen-Abfrage wurde verbessert
-- Mondkreis heller
-- Texte aktualisiert
-- clock_timing verbessert
-- Einstellungen wurden beim Update überschrieben
+- Changed: Rechts-links-Wischen-Abfrage wurde verbessert
+- Changed: Mondkreis heller
+- Changed: Texte aktualisiert
+- Changed: clock_timing verbessert
+- Fixed: Einstellungen wurden beim Update überschrieben
 
 ## 2.2 - Juni 25
-- Schriftformatierung verbessert
-- Farbschema flackerte
+- Changed: Schriftformatierung verbessert
+- Fixed: Farbschema flackerte
 
 ## 2.1 - Juni 25
-- Fehler im Speichern der Auto-GPS-Einstellung
-- Ortssuche für GPS und Anzeige auf dem Ziffernblatt
-- Checkboxen besser sichtbar
+- Fixed: Speichern der Auto-GPS-Einstellung funktionierte nicht
+- Added: Ortssuche für GPS und Anzeige auf dem Ziffernblatt
+- Changed: Checkboxen besser sichtbar
 
 ## 2.0 - Juni 25
-- Erstveröffentlichung auf Android
+- Changed: Erstveröffentlichung auf Android
 
 ## 1.0 - Nov 19
-- Erstentwurf auf Raspberry Pi
+- Changed: Erstentwurf auf Raspberry Pi
