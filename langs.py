@@ -301,14 +301,6 @@ def wrap_text(text, max_width=leninfospalte, lang=False):
 
 
 
-def gettx(txcode):
-    # Deutsch: „Gordons Sonnenuhr” 
-    # Englisch: ‘Automatic’ 
-    # Spanisch: «Automático»
-    t=replace_quotes(lang[fns.curr_lang][txcode].replace(code_version, fns.versiondat['full']).replace(code_year, fns.versiondat['year']).replace(" - ", " – ").replace("--", "––").replace("Sundial", "Sun Clock").replace(" %", "%").replace(chr(10)+chr(10)+'Translated with DeepL.com (free version)',''), fns.curr_lang)
-#     if fns.curr_lang!='de': t=t.replace(', unbeirrbar.de', '')
-    return t
-
 def replace_quotes(text, lang='de'):
     quotes = {
         'de': ('„', '”'),  # Deutsch
@@ -335,6 +327,14 @@ def replace_quotes(text, lang='de'):
         else:
             rt.append(char)
     return ''.join(rt)
+
+def gettx(txcode):
+    # Deutsch: „Automatisch” 
+    # Englisch: ‘Automatic’ 
+    # Spanisch: «Automático»
+    # Französisch: « Automatique »
+    t=replace_quotes(lang[fns.curr_lang][txcode].replace(code_version, fns.versiondat['full']).replace(code_year, fns.versiondat['year']).replace(" - ", " – ").replace("--", "––").replace("Sundial", "Sun Clock").replace(" %", "%").replace(chr(10)+chr(10)+'Translated with DeepL.com (free version)',''), fns.curr_lang)
+    return t
 
 def txupdobjdata(repl): # txupdobjdata({'moon.size': "87"})
     class DefaultDict(dict):
