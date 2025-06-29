@@ -7,14 +7,14 @@ Therefore this programme will not run (correctly) without the "de.json" (and "en
 
 If you translate languages, please leave all control codes unchanged: 
 
-[-XXX-] are variables that will be replaced
-[-LF-] are linefeeds (as in "\n")
-[DF] are control codes for distance in the design
+- [XXXXX] are variables that will be replaced
+- [-LF-] are linefeeds (as in "\n")
+- [DF] are control codes for distance in the design
 
 
 Some remarks about the entries in the local language dictionary:
 
-"quotes" are the local quotes, as in: „Hello“
+- "quotes" are the local quotes, as in: „Hello“
 
 
 In the local language dictionary, you will find entries that help you to correctly separate words in the local language. These are listed below. If you don't know what to enter, just leave them blank.
