@@ -106,7 +106,8 @@
         "de": "Allemand",
         "en": "Anglais",
         "es": "Espagnol",
-        "fr": "Français"
+        "fr": "Français",
+        "zh": "Chinois"
     },
     "txfullscr": "Mode toujours actif:",
     "txnachtmodus": "Mode sombre:",

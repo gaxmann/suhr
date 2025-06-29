@@ -123,7 +123,8 @@
         "de": "German",
         "en": "English",
         "es": "Spanish",
-        "fr": "French"
+        "fr": "French",
+        "zh": "Chinese"
     },
     "txfullscr": "Screen stays on:",
     "txnachtmodus": "Dark theme:",
