@@ -16,6 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added: OSM-nominatim Email ergänzt
 
 ## 2.17-skipped - Juni 25
+-  N/A
 
 ## 2.16 - Juni 25
 - Added: Teleskop: Größenrelation geändert
