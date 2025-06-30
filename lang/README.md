@@ -14,7 +14,7 @@ If you translate languages, please leave all control codes unchanged:
 
 Some remarks about the entries in the local language dictionary:
 
-- "quotes" are the local quotes, as in: „Hello“
+- "quotes" are the local quotes, as in: „Hello“ or «Hello»
 
 
 In the local language dictionary, you will find entries that help you to correctly separate words in the local language. These are listed below. If you don't know what to enter, just leave them blank.
