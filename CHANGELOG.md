@@ -10,13 +10,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Changed: Reihenfolge Designs geändert,
 - Changed: lang_create creates lang_cont from lang directory,  
 
-## 2.18 - Juni 25
+## 2.18-public - Juni 25
 - Changed: Teleskop-Mondschatten aufgehellt
 - Added: Anzeige vergangener Neumond ergänzt
 - Added: OSM-nominatim Email ergänzt
 
-## 2.17 - Juni 25
-- N/A
+## 2.17-skipped - Juni 25
 
 ## 2.16 - Juni 25
 - Added: Teleskop: Größenrelation geändert
@@ -24,8 +23,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added: Französisch ergänzt
 - Added: Sprachwähler ergänzt
 
-## 2.15 - 24. Juni 25
-- Added/Removed: Designs aufgeräumt (Teleskop ergänzt)
+## 2.15-public - 24. Juni 25
+- Added/Removed: Designs aufgeräumt (Teleskop ergänzt in de)
 - Fixed: Zeitzone wurde ggf. nicht gespeichert
 
 ## 2.14 - Juni 25
