@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file (tags: Added
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [2.19] - 2025-06
+## [2.19] - 2025-06-30
 
 ### Added
 - Chinesisch ergänzt,
@@ -14,7 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Reihenfolge Designs geändert,
 - lang_create creates lang_cont from lang directory,  
 
-## [2.18-public] - 2025-06
+## [2.18-public] - 2025-06-29
 
 ### Added
 - Anzeige vergangener Neumond ergänzt
@@ -23,7 +23,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Teleskop-Mondschatten aufgehellt
 
-## [2.16] - 2025-06
+## [2.16] - 2025-06-26
 
 ### Added
 - Französisch ergänzt
@@ -41,7 +41,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 - Zeitzone wurde ggf. nicht gespeichert
 
-## [2.14] - 2025-06
+## [2.14] - 2025-06-23
 
 ### Added
 - Designwähler ergänzt (mit testweisen Designs)
@@ -54,7 +54,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 - gelegentl. Fehler beim Speichern der Einstellungen behoben
 
-## [2.13] - 2025-06
+## [2.13] - 2025-06-18
 
 ### Added
 - Merkur ergänzt
@@ -67,7 +67,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Removed
 - ISS entfernt
 
-## [2.12] - 2025-06
+## [2.12] - 2025-06-16
 
 ### Added
 - Option „Objekte größer zeichnen“ ergänzt
@@ -78,7 +78,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Neuzeichnen des Ziffernblatts bei gleichen Koordinaten beschleunigt
 - Ortsabfragen beschleunigt (Zwischenspeicher)
 
-## [2.11] - 2025-06
+## [2.11] - 2025-06-14
 
 ### Added
 - Abschnitt "Mehr Details" ergänzt
@@ -86,7 +86,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Texte auf drei Seiten aufgeteil wegen Renderproblemen
 
-## [2.10] - 2025-06
+## [2.10] - 2025-06-12
 
 ### Changed
 - Vorabskizze bei langsamen Geräten noch schneller
@@ -94,13 +94,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 - GPS-Hinweis Schriftart korrigiert
 
-## [2.9] - 2025-06
+## [2.9] - 2025-06-11
 
 ### Fixed
 - Anleitung wurde nicht gerendert
 - lokale Sonnendaten wurden nach Update gelöscht
 
-## [2.8] - 2025-06
+## [2.8] - 2025-06-11
 
 ### Added
 - Startet nun schneller (zeigt Vorabskizze bis alle Berechnungen durchgeführt)
@@ -112,7 +112,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 - Mondstruktur war 1 Pixel zu klein
 
-## [2.7] - 2025-06
+## [2.7] - 2025-06-09
 
 ### Changed
 - "Mehr Rand" verschiebt nun auch die Texte
@@ -122,13 +122,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Ziffernstriche von Mond waren z.T. falsch herum
 - fehlende Digitalzeit korrigiert
 
-## [2.6] - 2025-06
+## [2.6] - 2025-06-08
 
 ### Fixed
 - "Mehr Rand" funktioniert nun auch beim Start
 - Mondschatten war 1 Pixel zu klein
 
-## [2.5] - 2025-06
+## [2.5] - 2025-06-07
 
 ### Added
 - Einstellung "Blickrichtung" ergänzt für fixe Blickrichtung
@@ -137,7 +137,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Texte aktualisiert
 
-## [2.4] - 2025-06
+## [2.4] - 2025-06-06
 
 ### Changed
 - Texte aktualisiert
@@ -145,7 +145,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 - Mondstruktur 1 Pixel zu groß
 
-## [2.3] - 2025-06
+## [2.3] - 2025-06-05
 
 ### Changed
 - Rechts-links-Wischen-Abfrage wurde verbessert
@@ -156,7 +156,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 - Einstellungen wurden beim Update überschrieben
 
-## [2.2] - 2025-06
+## [2.2] - 2025-06-04
 
 ### Changed
 - Schriftformatierung verbessert
@@ -164,7 +164,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 - Farbschema flackerte
 
-## [2.1] - 2025-06
+## [2.1] - 2025-06-03
 
 ### Added
 - Ortssuche für GPS und Anzeige auf dem Ziffernblatt
