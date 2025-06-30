@@ -10,7 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Chinesisch ergänzt,
 
 ### Changed
-- Navigationsbuttons geändert,
+- Navigationsbuttons umstrukturiert,
 - Reihenfolge Designs geändert,
 - lang_create creates lang_cont from lang directory,  
 
@@ -36,7 +36,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.15-public] - 2025-06-24
 
 ### Added/Removed
-- Designs aufgeräumt (Teleskop ergänzt in de)
+- Designs aufgeräumt (Teleskop ergänzt in de, Testdesigns entfernt)
 
 ### Fixed
 - Zeitzone wurde ggf. nicht gespeichert
@@ -58,7 +58,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 - Merkur ergänzt
-- O-W im Horizont ergänzt
+- O/W im Horizont ergänzt
 
 ### Changed
 - Mondschatten war etwas zu groß
@@ -72,10 +72,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Option „Objekte größer zeichnen“ ergänzt
 - Planetengrößen in "Mehr Details" ergänzt
-- ISS ergänzt
+- ISS hinzugefügt
 
 ### Changed
-- Neuzeichnen bei gleichen Koordinaten beschleunigt
+- Neuzeichnen des Ziffernblatts bei gleichen Koordinaten beschleunigt
 - Ortsabfragen beschleunigt (Zwischenspeicher)
 
 ## [2.11] - 2025-06
@@ -175,12 +175,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 - Speichern der Auto-GPS-Einstellung funktionierte nicht
 
-## [2.0] - 2025-06
-
-### Changed
-- Erstveröffentlichung auf Android
-
-## [1.0] - Nov 19
+## [2.0] - 2025-06-01
 
 ### Added
-- Erstentwurf auf Raspberry Pi
+- Erstveröffentlichung Androidversion
+- Sonnen- und Mondkreis ergänzt
+
+## [alpha.0.1 - alpha.0.7] - 2025-05-21..2025-06-01
+
+### Added
+- Framework erstellt
+- 2 Seiten erstellt (Ziffernblatt, Einstellungen)
+- Uhrzeitanzeige
+- Sonne, Mond und Sirius kreisen 
+
+## [1.0] - 2019-11
+
+### Added
+- Erste Version auf Raspberry Pi
