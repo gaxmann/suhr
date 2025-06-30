@@ -26,11 +26,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.16] - 2025-06
 
 ### Added
-- Teleskop: Größenrelation geändert
 - Französisch ergänzt
 - Sprachwähler ergänzt
 
 ### Changed
+- Teleskop: Größenrelation geändert
 - Farbe Nacht verdunkelt
 
 ## [2.15-public] - 2025-06-24
