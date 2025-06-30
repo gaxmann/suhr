@@ -59,10 +59,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Merkur ergänzt
 - O/W im Horizont ergänzt
+- Planetenhelligkeiten ersetzen Planetengrößen 
 
 ### Changed
 - Mondschatten war etwas zu groß
-- Planetengrößen durch -helligkeiten ersetzt
 
 ### Removed
 - ISS entfernt
