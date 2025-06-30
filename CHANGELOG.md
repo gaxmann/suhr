@@ -1,14 +1,20 @@
 # Changelog
 All notable changes to this project will be documented in this file (tags: Added, Changed, Deprecated, Removed, Fixed, Security).
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 2.19 - Juni 25
-- Added: Chinesisch ergänzt,
-- Changed: Navigationsbuttons geändert,
-- Changed: Reihenfolge Designs geändert,
-- Changed: lang_create creates lang_cont from lang directory,  
+## [2.19] - Juni 25
+
+### Added
+
+- Chinesisch ergänzt,
+
+### Changed
+
+- Navigationsbuttons geändert,
+- Reihenfolge Designs geändert,
+- lang_create creates lang_cont from lang directory,  
 
 ## 2.18-public - Juni 25
 - Changed: Teleskop-Mondschatten aufgehellt
