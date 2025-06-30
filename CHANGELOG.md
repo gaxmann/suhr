@@ -167,7 +167,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.1] - 2025-06-03
 
 ### Added
-- Ortssuche für GPS und Anzeige auf dem Ziffernblatt
+- OSM-Ortssuche für GPS-Koordinaten ergänzt, Anzeige derselben auf dem Ziffernblatt
 
 ### Changed
 - Checkboxen besser sichtbar
@@ -180,6 +180,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Erstveröffentlichung Androidversion
 - Sonnen- und Mondkreis ergänzt
+- Horizont, Höhenlinien, Uhrzeiten ergänzt
 
 ## [alpha.0.1 - alpha.0.7] - 2025-05-21..2025-06-01
 
@@ -187,7 +188,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Framework erstellt
 - 2 Seiten erstellt (Ziffernblatt, Einstellungen)
 - Uhrzeitanzeige
-- Sonne, Mond und Sirius kreisen 
+- Sonne, Mond und Sirius hinzugefügt
+- GPS-Abfrage ergänzt
 
 ## [1.0] - 2019-11
 
