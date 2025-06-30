@@ -13,7 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## 2.18-public - Juni 25
 - Changed: Teleskop-Mondschatten aufgehellt
 - Added: Anzeige vergangener Neumond ergänzt
-- Added: OSM-nominatim Email ergänzt
+- Added: OSM Email ergänzt
 
 ## 2.17-skipped - Juni 25
 -  N/A
