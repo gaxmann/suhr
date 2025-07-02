@@ -22,6 +22,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 - Teleskop-Mondschatten aufgehellt
+- Teleskop: Erde gefärbt
 
 ## [2.16] - 2025-06-26
 
@@ -31,7 +32,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 - Teleskop: Größenrelation geändert
-- Farbe Nacht verdunkelt
+- Teleskop: Erde dunkler
 
 ## [2.15-public] - 2025-06-24
 
