@@ -8,7 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 - Tageslichtdaten ergänzt
-- Design Teleskop 2 ergänzt, 
+- Design Teleskop 2 ergänzt,
+- Datumsabkürzungen wegen Chinesisch eingeführt, 
 
 ### Changed
 - Navigationsbuttons geändert,
