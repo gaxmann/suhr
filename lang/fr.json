@@ -67,6 +67,8 @@
     ],
     "graph_separateafter": [],
     "txsettings": "[DF]Cadran solaire de Gordon",
+    "hoursh": "h",
+    "daysh": "d",
     "wdaysh": [
         "Lu",
         "Ma",
@@ -122,6 +124,7 @@
     "txfarbenarr": {
         "orig": "Nuances de gris",
         "a-telesk": "Télescope",
+        "a-telesk2": "Télescope UV",
         "c-turn": "Couleur",
         "a-gord": "Art"
     },

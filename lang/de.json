@@ -70,6 +70,8 @@
     ],
     "graph_separateafter": [],
     "txsettings": "[DF]Gordons Sonnenuhr",
+    "hoursh": "h",
+    "daysh": "d",
     "wdaysh": [
         "Mo",
         "Di",
@@ -125,6 +127,7 @@
     "txfarbenarr": {
         "orig": "Graustufen",
         "a-telesk": "Teleskop",
+        "a-telesk2": "Teleskop UV",
         "c-turn": "Farbe",
         "a-gord": "Kunst"
     },

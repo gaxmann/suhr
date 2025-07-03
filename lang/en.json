@@ -84,6 +84,8 @@
     ],
     "graph_separateafter": [],
     "txsettings": "[DF]Gordon’s Sun Clock",
+    "hoursh": "h",
+    "daysh": "d",
     "wdaysh": [
         "Mon",
         "Tue",
@@ -139,6 +141,7 @@
     "txfarbenarr": {
         "orig": "Greyscale",
         "a-telesk": "Telescope",
+        "a-telesk2": "Telescope UV",
         "c-turn": "Colour",
         "a-gord": "Art"
     },

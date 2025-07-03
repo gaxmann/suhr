@@ -64,6 +64,8 @@
     ],
     "graph_separateafter": [],
     "txsettings": "[DF]Reloj de sol Gordon",
+    "hoursh": "h",
+    "daysh": "d",
     "wdaysh": [
         "Lun",
         "Mar",
@@ -119,6 +121,7 @@
     "txfarbenarr": {
         "orig": "Escala de grises",
         "a-telesk": "Telescopio",
+        "a-telesk2": "Telescopio UV",
         "c-turn": "Color",
         "a-gord": "Arte"
     },

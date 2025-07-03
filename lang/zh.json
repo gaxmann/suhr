@@ -11,6 +11,8 @@
     "graph_dontseparateafter": [],
     "graph_separateafter": [],
     "txsettings": "[DF]戈登的日晷",
+    "hoursh": "",
+    "daysh": "天",
     "wdaysh": [
         "周一",
         "周二",
@@ -65,6 +67,7 @@
     "txfarbenarr": {
         "orig": "灰度",
         "a-telesk": "望远镜",
+        "a-telesk2": "望远镜紫外线",
         "c-turn": "色彩",
         "a-gord": "艺术"
     },
