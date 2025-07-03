@@ -4,15 +4,27 @@ All notable changes to this project will be documented in this file (tags: Added
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [2.19] - 2025-06-30
+## [2.20] - 2025-07-03
+
+### Added
+- Tageslichtdaten ergänzt
+
+### Changed
+- Navigationsbuttons geändert,
+- 'NoneType' object has no attribute 'width' fixed,  
+
+## [2.19] - 2025-07-03
 
 ### Added
 - Chinesisch ergänzt,
 
 ### Changed
-- Navigationsbuttons umstrukturiert,
+- Navigationsbuttons geändert,
 - Reihenfolge Designs geändert,
-- lang_create creates lang_cont from lang directory,  
+- lang_create creates lang_cont from lang directory,
+- androidapi 35,
+- gradle_dependencies angepasst,
+- LocationManager angepasst, 
 
 ## [2.18-public] - 2025-06-29
 
