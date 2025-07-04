@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.21] - 2025-07-04
 
 ### Fixed
-- Fehler mit "unbekannter Sprache" behoben (wichtig: neue Produktivversion), 
+- Fehler mit "unbekannter Sprache" behoben(!), 
 
 ## [2.20] - 2025-07-04
 
@@ -26,11 +26,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Chinesisch ergänzt,
 
 ### Changed
+- Gradle dependencies reduziert(!),
 - Navigationsbuttons geändert,
 - Reihenfolge Designs geändert,
 - lang_create creates lang_cont from lang directory,
 - androidapi 35,
-- gradle_dependencies angepasst,
 - LocationManager angepasst, 
 
 ## [2.18-public] - 2025-06-29
