@@ -7,211 +7,211 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.21-public] - 2025-07-04
 
 ### Fixed
-- Fehler mit "unbekannter Sprache" behoben(!), 
+- Fixed error with "unknown language"(!),
 
 ## [2.20] - 2025-07-04
 
 ### Added
-- Tageslichtdaten ergänzt
-- Design Teleskop 2 ergänzt,
-- Datumsabkürzungen wegen Chinesisch eingeführt, 
+- Added daylight data
+- Added design Telescope 2,
+- Introduced date abbreviations due to Chinese,
 
 ### Changed
-- Navigationsbuttons geändert,
-- 'NoneType' object has no attribute 'width' fixed,  
+- Changed navigation buttons,
+- 'NoneType' object has no attribute 'width' fixed,
 
 ## [2.19] - 2025-07-03
 
 ### Added
-- Chinesisch ergänzt,
+- Added Chinese,
 
 ### Changed
-- Gradle dependencies reduziert(!),
-- Navigationsbuttons geändert,
-- Reihenfolge Designs geändert,
+- Reduced Gradle dependencies(!),
+- Changed navigation buttons,
+- Changed order of designs,
 - lang_create creates lang_cont from lang directory,
 - androidapi 35,
-- LocationManager angepasst, 
+- Adjusted LocationManager,
 
 ## [2.18-public] - 2025-06-29
 
 ### Added
-- Anzeige vergangener Neumond ergänzt
-- OSM Email ergänzt
+- Added display of past new moon
+- Added OSM email
 
 ### Changed
-- Teleskop-Mondschatten aufgehellt
-- Teleskop: Unter-Horizont gefärbt
+- Brightened telescope moon shadow
+- Colored below-horizon area in telescope view
 
 ## [2.16] - 2025-06-26
 
 ### Added
-- Französisch ergänzt
-- Sprachwähler ergänzt
+- Added French
+- Added language selector
 
 ### Changed
-- Teleskop: Größenrelation geändert
-- Teleskop: Unter-Horizont dunkleres Grau
+- Changed size ratio in telescope
+- Darker gray for below-horizon area in telescope
 
 ## [2.15-public] - 2025-06-24
 
 ### Added/Removed
-- Designs aufgeräumt (Teleskop ergänzt in de, Testdesigns entfernt)
+- Cleaned up designs (added Telescope in DE, removed test designs)
 
 ### Fixed
-- Zeitzone wurde ggf. nicht gespeichert
+- Time zone might not have been saved
 
 ## [2.14] - 2025-06-23
 
 ### Added
-- Designwähler ergänzt (mit testweisen Designs)
-- Fehlermeldungen werden gemeldet
+- Added design selector (with test designs)
+- Error messages are reported
 
 ### Changed
-- Texte neu übersetzt
-- Logo neu
+- Texts retranslated
+- New logo
 
 ### Fixed
-- gelegentl. Fehler beim Speichern der Einstellungen behoben
+- Occasionally fixed error when saving settings
 
 ## [2.13] - 2025-06-18
 
 ### Added
-- Merkur ergänzt
-- O/W im Horizont ergänzt
-- Planetenhelligkeiten ersetzen Planetengrößen 
+- Added Mercury
+- Added E/W in horizon view
+- Planet brightness replaces planet size
 
 ### Changed
-- Mondschatten war etwas zu groß
+- Moon shadow was slightly too large
 
 ### Removed
-- ISS entfernt
+- Removed ISS
 
 ## [2.12] - 2025-06-16
 
 ### Added
-- Option „Objekte größer zeichnen“ ergänzt
-- Planetengrößen in "Mehr Details" ergänzt
-- ISS hinzugefügt
+- Added option “Draw objects larger”
+- Added planet sizes in “More details”
+- Added ISS
 
 ### Changed
-- Neuzeichnen des Ziffernblatts bei gleichen Koordinaten beschleunigt
-- Ortsabfragen beschleunigt (Zwischenspeicher)
+- Faster redrawing of dial with same coordinates
+- Accelerated location queries (caching)
 
 ## [2.11] - 2025-06-14
 
 ### Added
-- Abschnitt "Mehr Details" ergänzt
+- Added “More details” section
 
 ### Changed
-- Texte auf drei Seiten aufgeteil wegen Renderproblemen
+- Split text across three pages due to rendering issues
 
 ## [2.10] - 2025-06-12
 
 ### Changed
-- Vorabskizze bei langsamen Geräten noch schneller
+- Preliminary sketch even faster on slow devices
 
 ### Fixed
-- GPS-Hinweis Schriftart korrigiert
+- GPS note font corrected
 
 ## [2.9] - 2025-06-11
 
 ### Fixed
-- Anleitung wurde nicht gerendert
-- lokale Sonnendaten wurden nach Update gelöscht
+- Help was not rendered
+- Local sun data deleted after update
 
 ## [2.8] - 2025-06-11
 
 ### Added
-- Startet nun schneller (zeigt Vorabskizze bis alle Berechnungen durchgeführt)
-- dritte Seite eingeführt wegen gelegentl. Darstellungsfehler mit Fließtext
+- Now starts faster (shows preview until all calculations are done)
+- Introduced third page due to occasional layout errors with flowing text
 
 ### Changed
-- Sonne war auf verschiedenen Geräten zu groß/klein
+- Sun was too big/small on different devices
 
 ### Fixed
-- Mondstruktur war 1 Pixel zu klein
+- Moon structure was 1 pixel too small
 
 ## [2.7] - 2025-06-09
 
 ### Changed
-- "Mehr Rand" verschiebt nun auch die Texte
-- Schriftart gewechselt
+- “More margin” now also moves texts
+- Changed font
 
 ### Fixed
-- Ziffernstriche von Mond waren z.T. falsch herum
-- fehlende Digitalzeit korrigiert
+- Moon tick marks were partly flipped
+- Missing digital time corrected
 
 ## [2.6] - 2025-06-08
 
 ### Fixed
-- "Mehr Rand" funktioniert nun auch beim Start
-- Mondschatten war 1 Pixel zu klein
+- “More margin” now works at startup
+- Moon shadow was 1 pixel too small
 
 ## [2.5] - 2025-06-07
 
 ### Added
-- Einstellung "Blickrichtung" ergänzt für fixe Blickrichtung
-- Einstellung "mehr Rand" ergänzt für randlose Geräte
+- Added “View direction” setting for fixed direction
+- Added “More margin” setting for borderless devices
 
 ### Changed
-- Texte aktualisiert
+- Texts updated
 
 ## [2.4] - 2025-06-06
 
 ### Changed
-- Texte aktualisiert
+- Texts updated
 
 ### Fixed
-- Mondstruktur 1 Pixel zu groß
+- Moon structure 1 pixel too large
 
 ## [2.3] - 2025-06-05
 
 ### Changed
-- Rechts-links-Wischen-Abfrage wurde verbessert
-- Mondkreis heller
-- Texte aktualisiert
-- clock_timing verbessert
+- Improved left-right swipe detection
+- Brighter moon circle
+- Texts updated
+- Improved clock_timing
 
 ### Fixed
-- Einstellungen wurden beim Update überschrieben
+- Settings were overwritten during update
 
 ## [2.2] - 2025-06-04
 
 ### Changed
-- Schriftformatierung verbessert
+- Improved text formatting
 
 ### Fixed
-- Farbschema flackerte
+- Color scheme flickered
 
 ## [2.1] - 2025-06-03
 
 ### Added
-- OSM-Ortssuche für GPS-Koordinaten ergänzt, Anzeige derselben auf dem Ziffernblatt
+- Added OSM place search for GPS coordinates, display on dial
 
 ### Changed
-- Checkboxen besser sichtbar
+- Checkboxes more visible
 
 ### Fixed
-- Speichern der Auto-GPS-Einstellung funktionierte nicht
+- Saving auto-GPS setting did not work
 
 ## [2.0] - 2025-06-01
 
 ### Added
-- Erstveröffentlichung Androidversion
-- Sonnen- und Mondkreis ergänzt
-- Horizont, Höhenlinien, Uhrzeiten ergänzt
+- First release of Android version
+- Added sun and moon circles
+- Added horizon, altitude lines, time markers
 
 ## [alpha.0.1 - alpha.0.7] - 2025-05-21..2025-06-01
 
 ### Added
-- Framework erstellt
-- 2 Seiten erstellt (Ziffernblatt, Einstellungen)
-- Uhrzeitanzeige
-- Sonne, Mond und Sirius hinzugefügt
-- GPS-Abfrage ergänzt
+- Framework created
+- Created 2 pages (dial, settings)
+- Time display
+- Added sun, moon, and Sirius
+- Added GPS query
 
 ## [1.0] - 2019-11
 
 ### Added
-- Erste Version auf Raspberry Pi
+- First version on Raspberry Pi
