@@ -7,92 +7,94 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.21-public] - 2025-07-04
 
 ### Fixed
-- Fixed error with "unknown language"(!),
+- (!)"Unknown language" error fixed,
 
 ## [2.20] - 2025-07-04
 
+### Fixed
+- 'NoneType' object has no attribute 'width' fixed,
+
 ### Added
-- Added daylight data
-- Added design Telescope 2,
-- Introduced date abbreviations due to Chinese,
+- Daylight data added
+- Design "Telescope 2" added,
+- Date abbreviations introduced due to Chinese,
 
 ### Changed
-- Changed navigation buttons,
-- 'NoneType' object has no attribute 'width' fixed,
+- Navigation buttons changed,
 
 ## [2.19] - 2025-07-03
 
 ### Added
-- Added Chinese,
+- Chinese added,
 
 ### Changed
-- Reduced Gradle dependencies(!),
-- Changed navigation buttons,
-- Changed order of designs,
+- (!)Gradle dependencies reduced,
+- Navigation buttons changed,
+- Order of designs changed,
 - lang_create creates lang_cont from lang directory,
-- androidapi 35,
+- Android api is now 35,
 - Adjusted LocationManager,
 
 ## [2.18-public] - 2025-06-29
 
 ### Added
-- Added display of past new moon
-- Added OSM email
+- Time of past new moon displayed
+- OSM email address added
 
 ### Changed
-- Brightened telescope moon shadow
-- Colored below-horizon area in telescope view
+- Telescope moon shadow brightened 
+- Below-horizon area in telescope view colored 
 
 ## [2.16] - 2025-06-26
 
 ### Added
-- Added French
-- Added language selector
+- French added
+- Language selector added
 
 ### Changed
-- Changed size ratio in telescope
+- Size ratio in telescope changed
 - Darker gray for below-horizon area in telescope
 
 ## [2.15-public] - 2025-06-24
 
 ### Added/Removed
-- Cleaned up designs (added Telescope in DE, removed test designs)
+- Designs cleaned up (added Telescope in 'de', removed test designs)
 
 ### Fixed
-- Time zone might not have been saved
+- Timezone might not have been saved
 
 ## [2.14] - 2025-06-23
 
 ### Added
-- Added design selector (with test designs)
-- Error messages are reported
+- Design selector added (with test designs)
+- Error messages are now reported
 
 ### Changed
-- Texts retranslated
-- New logo
+- Texts newly translated
+- New logo added
 
 ### Fixed
-- Occasionally fixed error when saving settings
+- Fixed occasional error when saving settings
 
 ## [2.13] - 2025-06-18
 
 ### Added
-- Added Mercury
-- Added E/W in horizon view
+- Mercury added
+- E/W added in horizon view
 - Planet brightness replaces planet size
 
 ### Changed
 - Moon shadow was slightly too large
 
 ### Removed
-- Removed ISS
+- ISS removed 
 
 ## [2.12] - 2025-06-16
 
 ### Added
 - Added option “Draw objects larger”
 - Added planet sizes in “More details”
-- Added ISS
+- ISS added
 
 ### Changed
 - Faster redrawing of dial with same coordinates
