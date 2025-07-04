@@ -15,6 +15,9 @@ If you translate languages, please leave all control codes unchanged:
 Some remarks about the entries in the local language dictionary:
 
 - "quotes" are the local quotes, as in: „Hello“
+- "xxdays" is the singular and plural of days
+- "hoursh" is the abbrevation of "hora" (hours)
+- "daysh" is the abbrevation of "dies" (days)
 
 
 In the local language dictionary, you will find entries that help you to correctly separate words in the local language. These are listed below. If you don't know what to enter, just leave them blank.
