@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 - Time zone could not be changed manually
+- 'NoneType' object has no attribute 'bind'
 
 ## [2.21-public] - 2025-07-04
 
