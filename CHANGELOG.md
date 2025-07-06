@@ -6,13 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [2.22] - 2025-07-06
 
-### Added (Removed)
-- Daylight info was replaced by Agnihotra time
-- Chinese date formatting added
-
 ### Fixed
 - Time zone could not be changed manually
 - 'NoneType' object has no attribute 'bind'
+
+### Added (Removed)
+- Daylight info was replaced by Agnihotra time
+- Chinese date formatting added
 
 ## [2.21-public] - 2025-07-04
 
