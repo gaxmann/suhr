@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [2.23] - 2025-07-07
 
-### Added (Removed)
+### Added
 - Dropdown lists now also change language
 
 ## [2.22] - 2025-07-06
