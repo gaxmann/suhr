@@ -1,0 +1,10 @@
+{
+    "char_vowels": "",
+    "char_consonants": "",
+    "char_splitafter": ".,;:!?“‘”-—)]}%&*+=/\\|>@#_×÷≈≠≤≥°¶•…”’»`",
+    "char_splitbefore": "„‚([{<$~^€£¥±©®™§†‡“”‘«¿¡",
+    "graph_dontseparatebetween": [],
+    "graph_dontseparatebefore": [],
+    "graph_dontseparateafter": [],
+    "graph_separateafter": [],
+}
