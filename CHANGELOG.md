@@ -6,8 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [2.22] - 2025-07-06
 
-### Added/Removed
-- Daylight info was replaced by Agnihotra time 
+### Added (Removed)
+- Daylight info was replaced by Agnihotra time
+- Chinese date formatting added
 
 ### Fixed
 - Time zone could not be changed manually
@@ -66,7 +67,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [2.15-public] - 2025-06-24
 
-### Added/Removed
+### Added (Removed)
 - Designs cleaned up (added Telescope in 'de', removed test designs)
 
 ### Fixed
