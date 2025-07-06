@@ -10,6 +10,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Time zone could not be changed manually
 - 'NoneType' object has no attribute 'bind'
 
+### Changed
+- Upgraded to Cython 3.0.11
+  
 ### Added (Removed)
 - Daylight info was replaced by Agnihotra time
 - Chinese date formatting added
