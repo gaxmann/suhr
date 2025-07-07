@@ -1,0 +1,51 @@
+<ClockScreen>:
+    FloatLayout:
+        size: root.size
+        pos: root.pos    
+        ZoomImage:
+            id: sky_image
+            source: root.sky_image
+            size_hint: None, None
+            size: self.img.texture_size
+            pos_hint: {'center_x': 0.5, 'center_y': 0.5}
+            reset_on_double_tap: True
+            auto_reset_delay: 10  # Sekunden
+        Label:
+            text: root.time # zeitanzeige alt
+            font_name: app.z_font2
+            font_size: sp(16)  # Anpassung mit sp
+            line_height: 1.2  # Erhöht den Zeilenabstand auf 125%
+            height: self.texture_size[1]  # Passt die Höhe an den Text an
+            #text_size: (self.width, None)  # Ermöglicht Textumbruch
+            color: (0.8, 0, 0, 1)
+            #color: (0.91, 0.91, 0.91, 1) if app.night_mode else (0, 0, 0, 1)
+            size_hint: 1, 0.9
+            pos_hint: {'center_x': 0.5, 'center_y': 0.8}
+        BoxLayout:
+            orientation: 'vertical'
+            size_hint: None, None
+            height: dp(min(root.width, root.height) * 0.06)
+            width: dp(min(root.width, root.height) * 0.03)  # Breite für zwei Buttons
+            pos: root.width - self.width, 0  # Oben rechts: root.height - self.height
+            Button:
+                text: '⟳'
+                font_name: 'DejaVuSans.ttf'
+                font_size: sp(min(root.width, root.height) * 0.02)
+                background_color: (0.8, 0.8, 0.8, 0.2) if not app.night_mode else (0.1, 0.1, 0.1, 0.4) 
+                size: dp(min(root.width, root.height) * 0.03), dp(min(root.width, root.height) * 0.03)
+                size_hint: None, None
+                on_press: app.run_totalupdate()
+            Button:
+                text: '⚙'
+                font_name: 'DejaVuSans.ttf'
+                font_size: sp(min(root.width, root.height) * 0.02)
+                background_color: (0.8, 0.8, 0.8, 0.2) if not app.night_mode else (0.1, 0.1, 0.1, 0.4) 
+                size: dp(min(root.width, root.height) * 0.03), dp(min(root.width, root.height) * 0.03)
+                size_hint: None, None
+                on_press: app.switch_to_settings()  # Rufe die neue Methode auf
+
+
+
+
+
+
