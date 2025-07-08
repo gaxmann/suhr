@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 - Dropdown lists now also change language
+- Sky image now zoomable
 
 ## [2.22] - 2025-07-06
 
