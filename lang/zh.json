@@ -1,15 +1,6 @@
 {
     "txwelcome": "欢迎",
-    "dont_separate_between": [],
     "quotes": ["《", "》"],
-    "char_vowels": "",
-    "char_consonants": "",
-    "char_splitafter": ".,;:!?“‘”-—)]}%&*+=/\\|>@#_×÷≈≠≤≥°¶•…”’»`",
-    "char_splitbefore": "„‚([{<$~^€£¥±©®™§†‡“”‘«¿¡",
-    "graph_dontseparatebetween": [],
-    "graph_dontseparatebefore": [],
-    "graph_dontseparateafter": [],
-    "graph_separateafter": [],
     "txsettings": "[DF]戈登的日晷",
     "hoursh": "",
     "daysh": "天",
@@ -89,5 +80,14 @@
     "txanleitungprg": "[DF]戈登的日晷[-LF-]版本 [VERSIONNR] [i](zunclock)[/i][-LF-]Gordon Axmann[-LF-]版權 2019-[VERSIONYEAR]",
     "txanleitung3": "[DF]原則上，本程序不會收集或向我發送數據。一切都保留在您的設備上。運行日晷甚至不需要互聯網連接。- 有一個例外：如果程序出現錯誤，日晷將（如果您有互聯網）將錯誤消息連同版本號、操作系統版本和隨機UUID發送到我的網頁（見隱私政策）。這樣，您幫助改進日晷中的錯誤。[-LF-] [-LF-]該軟件是免費的私人提供，我可能只提供有限的支持。請按原樣使用該軟件。我不是專業的應用程序開發人員。儘管如此，多年來，我在該軟件中投入了大量心血。[-LF-][-LF-]如果您發現錯誤，我很樂意糾正它，如果我收到一個清晰完整的錯誤報告，附帶屏幕截圖和錯誤發生的具體描述，最好是下面狀態日誌的屏幕截圖（電子郵件聯繫：[CONTACTSUPPORT]），最好在錯誤發生後立即。關於計算錯誤的提示在99%的情況下是錯誤的。天文学计算非常复杂，而且网上充斥着大量错误信息。[-LF-][-LF-]感謝Rhodes Mill、Rolf、Greg Miller和所有測試人員。天體圖片：NASA/SOHO、ESA/Hubble、NASA/JPL-Caltech[-LF-][-LF-]“日晷”是免費軟件。只需享受使用它。如果您想表達對我的工作的欣賞，您可以在這裡找到我的網頁：[DF][DF]",
     "txkaffee": "前往網頁",
-    "txanleitung4": "[DF][SP]"
+    "txanleitung4": "[DF][SP]",
+
+    "char_vowels": "",
+    "char_consonants": "",
+    "char_splitafter": ".,;:!?“‘”-—)]}%&*+=/\\|>@#_×÷≈≠≤≥°¶•…”’»`",
+    "char_splitbefore": "„‚([{<$~^€£¥±©®™§†‡“”‘«¿¡",
+    "graph_dontseparatebetween": [],
+    "graph_dontseparatebefore": [],
+    "graph_dontseparateafter": [],
+    "graph_separateafter": []
 }
