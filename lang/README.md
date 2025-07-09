@@ -1,23 +1,20 @@
 # Gordon's Sun Clock
 
-The German language file ("de.json") IS THE ORIGINAL LANGUAGE. It is best to start a translation from German. The English language is the fallback language, if the local language is not available in the "lang" directory. 
-
-Therefore this programme will not run (correctly) without the "de.json" (and "en.json") files.
-
+The German language file ("de.json") IS THE ORIGINAL LANGUAGE. It is best to start a translation from German (if possible). The English language is the fallback language, that will be chosen if your local translation does not exist. 
 
 If you translate languages, please leave all control codes unchanged: 
 
-- [XXXXX] are variables that will be replaced
-- [-LF-] are linefeeds (as in "\n")
+- [XXXXXX] and {xxxxxx} are variables that will be replaced during run time
+- [-LF-] are linefeeds (as in "\n"). You can replace them with real linefeeds
 - [DF] and [SP] are control codes for distances in the design
 
 
-Some remarks about the entries in the local language dictionary:
+About the entries in the local language dictionary:
 
-- "quotes" are the local quotes, as in: „Hello“
+- "quotes" are the local quotes, as in: „Hello“ or «Hello»
 
 
-In the local language dictionary, you will find entries that help you to correctly separate words in the local language. These are listed below. If you don't know what to enter, just leave them blank.
+In the local language dictionary, you will find entries that help you to correctly separate words in the local language. These are listed below. If you don't know what to enter, just leave them empty "[]".
 
     "char_vowels": "aeiouyäöüáéíóúÄÖÜÁÉÍÓÚ",
     "char_consonants": "bcdfghjklmnpqrstvwxyzñÑ",
