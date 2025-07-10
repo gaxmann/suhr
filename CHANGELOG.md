@@ -6,8 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [2.24] - 2025-07-10
 
+### Fixed
+- error with Clock.schedule_once fixed (important!),
+
 ### Added
 - Fifth page added with local data,
+- Agnihotra time on dial option added, 
 
 ### Changed
 - Swipe class improved (to not interfere with zoom),
