@@ -10,12 +10,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - error with Clock.schedule_once fixed (important!),
 
 ### Added
-- Display Agnihotra time on dial option added, 
+- "Display Agnihotra time on dial" option added, 
 - Fifth page added with local data,
 
 ### Changed
 - Swipe class improved (to not interfere with zoom),
 - Language switcher now in local tongue,
+- Texts updated
 
 ## [2.23] - 2025-07-08
 
