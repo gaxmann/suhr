@@ -33,7 +33,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Upgraded to Cython 3.0.11
   
-### Added (Removed)
+### Added/Removed
 - Daylight info was replaced by Agnihotra time
 - Chinese date formatting added
 
@@ -90,7 +90,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [2.15-public] - 2025-06-24
 
-### Added (Removed)
+### Added/Removed
 - Designs cleaned up (added Telescope in 'de', removed test designs)
 
 ### Fixed
