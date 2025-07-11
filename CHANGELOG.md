@@ -65,7 +65,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Navigation buttons changed,
 - Order of designs changed,
 - lang_create creates lang_cont from lang directory,
-- Android api is now 35,
+- Upgraded to Android api 35,
 - Adjusted LocationManager,
 
 ## [2.18-public] - 2025-06-29
