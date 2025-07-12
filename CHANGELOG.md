@@ -243,7 +243,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added sun and moon circles
 - Added horizon, altitude lines, time markers
 
-## [alpha.0.1 - alpha.0.7] - 2025-05-21..2025-06-01
+## [2.alpha.1 - 2.alpha.7] - 2025-05-21..2025-06-01
 
 ### Added
 - Framework created
