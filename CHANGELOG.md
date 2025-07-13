@@ -10,7 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Atmospheric refraction activated, 
 - Update button now also retrieves GPS (if active),
 
-## [2.25] - 2025-07-11
+## [2.25-public] - 2025-07-11
 
 ### Fixed
 - Key error fixed,
