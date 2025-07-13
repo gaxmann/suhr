@@ -6,8 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [2.26] - 2025-07-14
 
-### Changed
+### Added
 - Atmospheric refraction activated, 
+- Adaptive resolution of orbits introduced, 
+
+### Changed
 - Update button now also retrieves GPS (if active),
 
 ## [2.25-public] - 2025-07-11
