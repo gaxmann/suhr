@@ -8,7 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 - Atmospheric refraction activated, 
-- Adaptive resolution of orbits introduced, 
+- Adaptive resolution of orbits introduced,
+- Remove spaces from place names
 
 ### Changed
 - Update button now also retrieves GPS (if active),
