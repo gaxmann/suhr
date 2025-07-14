@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Atmospheric refraction activated, 
 - Adaptive resolution of orbits introduced,
+
+### Fixed
 - Remove spaces from place names
 
 ### Changed
