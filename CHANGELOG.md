@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [2.27] - 2025-07-16
 
-### Added
+### Changed
 - Painting of dial sped up (no day/night),
 
 ## [2.26] - 2025-07-15
