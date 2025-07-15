@@ -4,7 +4,12 @@ All notable changes to this project will be documented in this file (tags: Added
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [2.26] - 2025-07-14
+## [2.27] - 2025-07-16
+
+### Added
+- Painting of dial sped up (no day/night),
+
+## [2.26] - 2025-07-15
 
 ### Added
 - Atmospheric refraction activated, 
