@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 - Painting of dial sped up (only one file),
+- Update button created new background img, 
 
 ## [2.26] - 2025-07-15
 
