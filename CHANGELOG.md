@@ -6,8 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [2.29] - 2025-07-18
 
-### Changed
-- White window fix,
+### Fixed
+- Clockface wasnt propperly deleted before recreation, 
+- White window fix Window.update_viewport,
 
 ## [2.27/28] - 2025-07-17
 
