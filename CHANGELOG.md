@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file (tags: Added
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.30] - 2025-07-18
+
+### Changed
+- location update improved,
+- Update button also updates location, 
+
 ## [2.29] - 2025-07-18
 
 ### Fixed
@@ -11,7 +17,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 - White window fix Window.update_viewport,
-- improved location request, 
+- Improved location request, 
 
 ## [2.27/28] - 2025-07-17
 
