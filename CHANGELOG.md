@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - location update improved,
 - Update button also updates location,
-- "Display Agnihotra" option makes Sun Clock use GPS instead of Network provider for additional location accuracy
+- "Display Agnihotra" use GPS instead of network for more location accuracy
 
 ## [2.29] - 2025-07-18
 
