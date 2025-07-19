@@ -8,7 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 - Altitude added to location
-- Errors fixed 
+- Errors fixed
+- min. API now 23
 
 ## [2.30] - 2025-07-19
 
