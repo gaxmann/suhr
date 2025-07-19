@@ -9,7 +9,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Altitude and temperature added to location entry
 - Errors fixed
-- min. API now 23
 
 ## [2.30] - 2025-07-19
 
@@ -17,6 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - location update improved,
 - Update button also updates location,
 - "Display Agnihotra" use GPS instead of network for more location accuracy
+- min. API now 23
 
 ## [2.29] - 2025-07-18
 
