@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.31] - 2025-07-20
 
 ### Changed
-- Altitude added to location
+- Altitude and temperature added to location entry
 - Errors fixed
 - min. API now 23
 
