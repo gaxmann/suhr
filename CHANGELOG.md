@@ -7,9 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.31] - 2025-07-20
 
 ### Changed
-- Altitude and temperature added to location 
+- Altitude and temperature added to location
 - Errors fixed
 
+### Added
+- "1x location" button added
+- Popup support added
+  
 ## [2.30] - 2025-07-19
 
 ### Changed
