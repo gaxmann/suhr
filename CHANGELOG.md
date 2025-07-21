@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.32] - 2025-07-21
 
 ### Added
-- "1x location" button added
+- Button "1x location" added
 - Popup support added
 - On error report show return text
   
