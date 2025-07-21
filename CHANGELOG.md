@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Altitude and temperature added to location
 - Errors fixed
+- On error report show return text
 
 ### Added
 - "1x location" button added
