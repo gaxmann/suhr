@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file (tags: Added
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [2.33-public] - 2025-07-22
+## [2.33-public] - 2025-07-22 (Atmospheric refraction)
 
 ### Fixed
 - Android 7-12 "1x Location" error fixed
@@ -59,7 +59,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Update button now also retrieves GPS (if active),
 
-## [2.25-public] - 2025-07-11
+## [2.25-public] - 2025-07-11 (Agnihotra times)
 
 ### Fixed
 - Key error fixed,
@@ -98,7 +98,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Daylight info was replaced by Agnihotra time
 - Chinese date formatting added
 
-## [2.21-public] - 2025-07-04
+## [2.21-public] - 2025-07-04 (Chinese language)
 
 ### Fixed
 - (!)"Unknown language" error fixed,
@@ -129,7 +129,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Upgraded to Android api 35,
 - Adjusted LocationManager,
 
-## [2.17/18-public] - 2025-06-29
+## [2.17/18-public] - 2025-06-29 (Teleskop design)
 
 ### Added
 - Time of past new moon displayed
@@ -149,7 +149,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Size ratio in telescope changed
 - Darker gray for below-horizon area in telescope
 
-## [2.15-public] - 2025-06-24
+## [2.15-public] - 2025-06-24 (First public version)
 
 ### Added/Removed
 - Designs cleaned up (added Telescope in 'de', removed test designs)
