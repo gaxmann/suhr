@@ -8,7 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 - Agnihotra lines on dial added,
-- Design Telescope planet size decreased (pow 0,15->0,25)
+- Design Telescope planet size decreased (pow 0,15->0,24)
  
 ## [2.33-public] - 2025-07-22 (Atmospheric refraction)
 
