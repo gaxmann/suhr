@@ -30,7 +30,6 @@ That's the short version of what's new in Gordon's Sun Clock.
 
 ## [2.15] - 2025-06-24 (First public app version)
 
-- Texts newly translated
 - Mercury added
 - Planet brightness replaces planet size
 - Added option “Draw objects larger”
