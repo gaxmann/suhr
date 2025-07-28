@@ -13,6 +13,8 @@ You are most welcome to...
 Download Sun Clock app (de.ax12.zunclock):
 https://play.google.com/store/apps/details?id=de.ax12.zunclock
 
+You can find the detailed changelog here (CHANGELOG.md) and the compact version here (WHATSNEW.md).
+
 Enjoy using Sun Clock
 
 
