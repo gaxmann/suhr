@@ -28,7 +28,7 @@ That's the short version of what's new in Gordon's Sun Clock.
 - French language added
 - Error corrections
 
-## [2.15] - 2025-06-24 (First public version)
+## [2.15] - 2025-06-24 (First public app version)
 
 - Texts newly translated
 - Mercury added
