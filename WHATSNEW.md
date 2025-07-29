@@ -1,6 +1,10 @@
 # What is new?
 That's the short version of what's new in Gordon's Sun Clock.
 
+## [2.34] - 2025-07-xx (Zoom improved)
+
+- Zoom resolution doubled, triple tap also zooms in 
+
 ## [2.33] - 2025-07-22 (Atmospheric refraction)
 
 - Atmospheric refraction added, 
