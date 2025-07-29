@@ -1,5 +1,5 @@
 # What is new?
-That's the short version of what's new in Gordon's Sun Clock.
+That's the short version of what's new.
 
 ## [2.34] - 2025-07-xx (Zoom improved)
 
@@ -38,4 +38,6 @@ That's the short version of what's new in Gordon's Sun Clock.
 - Planet brightness replaces planet size
 - Added option “Draw objects larger”
 - Sped up & error corrections
+
+[Here](./CHANGELOG.md) you'll find the detailed changelog.
 
