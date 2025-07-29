@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 - Zoom resolution doubled (but slower drawing)
+- Triple tap zooms also in
 - Design Telescope planet size decreased (pow 0,15->0,24)
 - Draw texts sped up
  
