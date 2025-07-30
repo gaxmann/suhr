@@ -4,16 +4,19 @@ All notable changes to this project will be documented in this file (tags: Added
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [2.34] - 2025-07-30
+## [2.34/35-public] - 2025-07-30 (Better Zoom)
+
+### Fixed
+- Location error on Honor fixed,
 
 ### Added
 - Agnihotra lines on dial added,
 
 ### Changed
-- Zoom resolution doubled (but slower drawing)
+- Zoom resolution doubled (slower dial creation)
 - Triple tap zooms also in
-- Design "Telescope" planet size decreased (pow 0,15->0,24)
-- Draw texts sped up
+- "Telescope" design: planet size decreased (pow 0.15->0.24)
+- Text creation on dial sped up
 - Error corrections: timezonefinder, OSM location
  
 ## [2.33-public] - 2025-07-22 (Atmospheric refraction)
