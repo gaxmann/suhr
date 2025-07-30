@@ -1,7 +1,7 @@
 # What is new?
 That's the short version of what's new.
 
-## [2.34] - 2025-07-xx (Better zoom)
+## [2.xx] - 2025-07-xx (Better zoom)
 
 - Zoom resolution doubled, triple tap also zooms in
 - "Telescope" design: planet size decreased
