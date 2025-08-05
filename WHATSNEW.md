@@ -1,6 +1,11 @@
 # What is new?
 That's the short version of what's new.
 
+## [2.37] - 2025-07-30 (Better zoom)
+
+- Window NoneType error fixed
+- Design "Telescope" moon improved
+
 ## [2.35] - 2025-07-30 (Better zoom)
 
 - Zoom resolution doubled, triple tap also zooms in
