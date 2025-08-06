@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file (tags: Added
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [2.37-public] - 2025-08-06
+## [2.37-public] - 2025-08-06 (Better moon)
 
 ### Fixed
 - Window error fixed 
@@ -14,7 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Design "Telescope" moon improved 
 
-## [2.35-public] - 2025-07-30 (Better Zoom)
+## [2.35-public] - 2025-07-30 (Better zoom)
 
 ### Fixed
 - Location error on Honor fixed,
