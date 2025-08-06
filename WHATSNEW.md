@@ -1,7 +1,7 @@
 # What is new?
 That's the short version of what's new.
 
-## [2.37] - 2025-07-30 (Better zoom)
+## [2.37] - 2025-07-30 (Better moon)
 
 - Window NoneType error fixed
 - Design "Telescope" moon improved
