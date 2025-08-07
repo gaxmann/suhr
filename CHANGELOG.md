@@ -12,7 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.36] - 2025-08-05 
 
 ### Changed
-- Design "Telescope" moon improved 
+- Design "Telescope": moon improved 
 
 ## [2.35-public] - 2025-07-30 (Better zoom)
 
