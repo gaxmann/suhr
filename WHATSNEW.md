@@ -3,7 +3,7 @@ That's the short version of what's new.
 
 ## [2.37] - 2025-07-30 (Nicer moon)
 
-- Design "Telescope" moon improved
+- Design "Telescope": moon improved
 - Window NoneType error fixed
 
 ## [2.35] - 2025-07-30 (Better zoom)
