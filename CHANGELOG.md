@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file (tags: Added
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.38] - 2025-08-09
+
+### Changed
+- Window NoneType error fixed,
+- Agnihotra line on dial disappeared after midnight,
+- Timezonefinder error,
+- Planet database reduced (til 2040), 
+
 ## [2.37-public] - 2025-08-06 (Nicer moon)
 
 ### Fixed
