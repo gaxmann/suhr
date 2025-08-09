@@ -1,7 +1,13 @@
 # What is new?
 That's the short version of what's new.
 
-## [2.37] - 2025-07-30 (Nicer moon)
+## [2.38] - 2025-08-XX 
+
+- Planet database reduced
+- Agnihotra line on dial disappeared after midnight
+- Error corrections
+
+## [2.37] - 2025-08-06 (Nicer moon)
 
 - Design "Telescope": moon improved
 - Window NoneType error fixed
