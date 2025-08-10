@@ -1,10 +1,11 @@
 # What is new?
 That's the short version of what's new.
 
-## [2.38] - 2025-08-XX 
+## [2.39] - 2025-08-10 (Smaller Database) 
 
 - Planet database reduced
 - Agnihotra line on dial disappeared after midnight
+- Moon border improved
 - Error corrections
 
 ## [2.37] - 2025-08-06 (Nicer moon)
