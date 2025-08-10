@@ -46,7 +46,7 @@ That's the short version of what's new.
 - French language added
 - Error corrections
 
-## [2.15] - 2025-06-24 (First public app version)
+## [2.15] - 2025-06-24 (Initial publication)
 
 - Mercury added
 - Planet brightness replaces planet size
