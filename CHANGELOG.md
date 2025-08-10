@@ -189,7 +189,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Size ratio in telescope changed
 - Darker gray for below-horizon area in telescope
 
-## [2.15-public] - 2025-06-24 (First public version)
+## [2.15-public] - 2025-06-24 (Initial publication)
 
 ### Added/Removed
 - Designs cleaned up (added Telescope in 'de', removed test designs)
