@@ -329,12 +329,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Checkboxes more visible
 
 ### Fixed
-- Saving auto-GPS setting did not work
+- Auto-GPS settings did not save
 
 ## [2.0] - 2025-06-01
 
 ### Added
-- First release of Android version
+- First release of Android version (closed testing)
 - Added sun and moon circles
 - Added horizon, altitude lines, time markers
 
@@ -342,10 +342,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 - Framework created
-- Created 2 pages (dial, settings)
-- Time display
+- Created pages "dial" and "settings"
+- Displays digital time
 - Added sun, moon, and Sirius
-- Added GPS query
+- Added location query
 
 ## [1.0] - 2019-11
 
