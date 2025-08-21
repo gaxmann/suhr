@@ -1,6 +1,10 @@
 # What is new?
 That's the short version of what's new.
 
+## [2.40] - 2025-08-21 (Error fixes) 
+
+- Error corrections (popup, double hour on dial in NZ)
+  
 ## [2.39] - 2025-08-10 (Smaller Database) 
 
 - Planet database reduced
