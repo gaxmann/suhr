@@ -1,7 +1,7 @@
 # What is new?
 That's the short version of what's new.
 
-## [2.40] - 2025-08-21 (Error fixes) 
+## [2.40] - 2025-08-21 (Error corrections) 
 
 - Error corrections (popup, double hour on dial in NZ)
   
