@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.40-public] - 2025-08-21 (Error corrections)
 
 ### Fixed
-- Fixed double hour print error on dial in NZ,
+- Fixed hour figures were printed twice in NZ,
 - Popup global error fixed, 
 
 ## [2.39-public] - 2025-08-10 (Smaller Database)
