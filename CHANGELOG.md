@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.41] - 2025-08-xx 
 
 ### Changed
-- If software runs continuously for a week, it checks whether an update is available
+- If software runs continuously for a week, it checks whether an update is available. Displays it on dial
 
 ## [2.40-public] - 2025-08-21 (Error corrections)
 
