@@ -4,10 +4,10 @@ All notable changes to this project will be documented in this file (tags: Added
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [2.41] - 2025-08-xx 
+## [2.41] - 2025-08-25 
 
 ### Changed
-- If software runs continuously for a week, it checks whether an update is available. Displays it on dial
+- If the software runs continuously for a week, it checks whether an update is available and displays update text on dial
 
 ## [2.40-public] - 2025-08-21 (Error corrections)
 
