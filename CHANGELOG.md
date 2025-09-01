@@ -8,9 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 - Error corrections (Message didnt go away)
+- Translation errors fixed
 
 ### Changed
-- Text is now clickable (Playstore)
+- Update text is now clickable (Playstore)
 
 ## [2.42-public] - 2025-08-29 (Update ready) 
 
