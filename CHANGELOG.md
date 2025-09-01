@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.43-public] - 2025-09-01 
 
 ### Fixed
-- Error corrections (Message didnt go away)
+- Error corrections (update message didnt go away)
 - Translation mistakes fixed
 
 ### Changed
