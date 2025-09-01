@@ -3,7 +3,7 @@ That's the short version of what's new.
 
 ## [2.42] - 2025-08-29 (Update ready) 
 
-- Display "Update available" on dial on devices that run 24/7
+- Display "Update available" on dial on devices that run 24/7, error corrections (43)
  
 ## [2.40] - 2025-08-21 (Error corrections) 
 
