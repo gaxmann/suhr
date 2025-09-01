@@ -8,7 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 - Error corrections (Message didnt go away)
-- Translation errors fixed
+- Translation mistakes fixed
 
 ### Changed
 - Update text is now clickable (Playstore)
