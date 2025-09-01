@@ -1,9 +1,9 @@
 # What is new?
 That's the short version of what's new.
 
-## [2.42] - 2025-08-29 (Update ready) 
+## [2.43] - 2025-09-01 (Update ready) 
 
-- Display "Update available" on dial on devices that run 24/7. Error corrections, text clickable
+- Displays "Update available" on dial for devices that run 24/7. Error corrections, text clickable
  
 ## [2.40] - 2025-08-21 (Error corrections) 
 
