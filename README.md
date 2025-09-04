@@ -4,7 +4,7 @@ Here are a few of the files of the Sun Clock app.
 
 You are most welcome to... 
 
-- create new images of celestial bodies (if your or the license allows its use)
+- create new images of celestial bodies (if their yours or the license allows its use)
 - gladly create translations for new languages or correct existing ones (German is the original language)  
 - maybe submit new designs (I do not accept all design suggestions): a design consist either of
 (a) 3 to 5 hex rgb colour codes (e.g. for: day (>6°) | sunset (-0.8333...6°) | civil twilight (-6...-0.8333°) | nautical twilight (-12...-6°) | night (<-12°)), or...  
