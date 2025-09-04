@@ -1,4 +1,4 @@
-# daten
+# dateien ausschließen
 /design/sf.jpg
 *.py
 /bin
