@@ -25,7 +25,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update text is now clickable (Playstore)
 - Pages rearranged
 
-## [2.42-public] - 2025-08-29 (Update ready) 
+## [2.42-public] - 2025-08-29 (Update notification) 
 
 ### Fixed
 - Error corrections (update avail. and error handling)
