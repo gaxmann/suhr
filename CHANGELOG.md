@@ -10,7 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Moon shadow 1 pixel too big,
 - Smaller center marker,
 - Autocenter dial 2 min after start (fullscreen center problem),
-- Long text block split (2c-2d)
+- Long text block split (2c/2d)
 
 ### Fixed
 - Errors in text and translation corrected
