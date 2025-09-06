@@ -117,7 +117,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - White window fix Window.update_viewport,
 - Improved location request, 
 
-## [2.27/28] - 2025-07-17
+## [2.27+28] - 2025-07-17
 
 ### Changed
 - Painting of dial sped up (only one file),
