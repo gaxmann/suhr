@@ -4,13 +4,16 @@ All notable changes to this project will be documented in this file (tags: Added
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [2.44] - 2025-09-xx
+## [2.44-public] - 2025-09-06
 
 ### Changed
 - Moon shadow 1 pixel too big,
 - Smaller center marker,
 - Autocenter dial 2 min after start (fullscreen center problem),
-- Errors in text and translation corrected (long text splitted)
+- Long text block split (2d)
+
+### Fixed
+- Errors in text and translation corrected
 
 ## [2.43-public] - 2025-09-01 
 
