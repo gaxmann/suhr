@@ -14,34 +14,33 @@ That's the short version of what's new.
 
 ## [2.37] - 2025-08-06 (Nicer moon)
 
-- Design "Telescope": moon image improved
-- Window NoneType error fixed
+- Design Telescope: moon image improved
+- Errors fixed (window nonetype)
 
 ## [2.35] - 2025-07-30 (Better zoom)
 
 - Zoom resolution doubled, triple tap also zooms in
-- "Telescope" design: planet size decreased
+- Telescope design: planet size decreased
 - Error corrections
 
 ## [2.33] - 2025-07-22 (Atmospheric refraction)
 
-- Atmospheric refraction added, 
-- altitude and temperature support added,
-- dial creation sped up,
-- better location handling for Agnihotra,
-- Sped up & error corrections
+- Atmospheric refraction added
+- Altitude and temperature support added
+- Better location handling for Agnihotra
+- Dial creation sped up & error corrections
 
 ## [2.25] - 2025-07-11 (Agnihotra times)
 
-- Agnihotra time on dial option added,
-- Fifth page added with local data,
+- Agnihotra time on dial option added
+- Fifth page added with local data
 - Error corrections
 
 ## [2.21] - 2025-07-02 (Chinese language)
 
-- Chinese language added,
-- New design "Telescope 2" added,
-- Gradle dependencies reduced,
+- Chinese language added
+- Design "Telescope 2" added
+- Gradle dependencies reduced
 - Error corrections
   
 ## [2.17] - 2025-06-29 (Teleskop design)
