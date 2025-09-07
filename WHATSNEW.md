@@ -3,8 +3,8 @@ That's the short version of what's new.
 
 ## [2.44] - 2025-09-06 (Update notification) 
 
-- Displays "Update available" on dial for devices that run 24/7 (every week). Error corrections [2.42]
-- Error corrections (popup, double hour on dial in NZ) [2.40]
+- Displays "Update available" on dial for devices that run 24/7 (every week). Error corrections
+- Error corrections (popup, double hour on dial in NZ)
   
 ## [2.39] - 2025-08-10 (Smaller Database) 
 
