@@ -9,9 +9,8 @@ That's the short version of what's new.
 ## [2.39] - 2025-08-10 (Smaller Database) 
 
 - Planet database reduced
-- Agnihotra line on dial disappeared after midnight
 - Moon border improved
-- Error corrections
+- Error corrections (Agnihotra line on dial disappeared after midnight)
 
 ## [2.37] - 2025-08-06 (Nicer moon)
 
