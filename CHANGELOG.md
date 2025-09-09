@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.45] - 2025-09-xx
 
 ### Changed
-- Moon 20° rotated
+- xxx
 
 ## [2.44-public] - 2025-09-06
 
