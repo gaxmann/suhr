@@ -1,10 +1,11 @@
 # What is new?
 That's the short version of what's new.
 
-## [2.44] - 2025-09-06 (Update notification) 
+## [2.45] - 2025-09-14 (Update notification) 
 
+- Design Telescope: star symbols smaller
 - Displays "Update available" on dial for devices that run 24/7 (every week). Error corrections
-- Error corrections (popup, double hour on dial in NZ)
+- Error corrections (popup, double hour on dial in NZ, Agnihotra None)
   
 ## [2.39] - 2025-08-10 (Smaller Database) 
 
