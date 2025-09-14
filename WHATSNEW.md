@@ -44,7 +44,7 @@ That's the short version of what's new.
 - Gradle dependencies reduced
 - Error corrections
   
-## [2.17] - 2025-06-29 (Teleskop design)
+## [2.18] - 2025-06-29 (Teleskop design)
 
 - New design "Telescope" added
 - French language added
