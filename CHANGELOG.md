@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Design Telescope: star symbols smaller
 - Error corrections: Agnihotra is None
+- Turned moon image 2°
 
 ## [2.44-public] - 2025-09-06
 
