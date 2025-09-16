@@ -1,7 +1,7 @@
 # What is new?
 That's the short version of what's new.
 
-## [2.45] - 2025-09-14 (Update notification) 
+## [2.45] - 2025-09-14 (Update note) 
 
 - Design Telescope: star symbols smaller
 - Displays "Update available" on dial for devices that run 24/7 (every week). Error corrections
