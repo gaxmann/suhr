@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file (tags: Added
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.46-public] - 2025-09-xx (Android 15)
+
+### Changed
+- Error corrections: bars dont hide content anymore
+- Moon image moved to design dir
+
 ## [2.45-public] - 2025-09-14
 
 ### Changed
@@ -29,7 +35,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Translation mistakes fixed
 
 ### Changed
-- Update text is now clickable (Playstore)
+- Update text is now clickable (leads to Playstore)
 - Pages rearranged
 
 ## [2.42-public] - 2025-08-29 (Update notification) 
