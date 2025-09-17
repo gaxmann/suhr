@@ -1,5 +1,5 @@
 # What is new?
-That's the short version of what's new.
+Here is the short version of what's new.
 
 ## [2.46] - 2025-09-17 (Android 15) 
 
