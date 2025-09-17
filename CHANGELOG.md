@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.46-public] - 2025-09-17 (Android 15)
 
 ### Changed
-- Error corrections: bars dont hide content anymore
+- Error corrections: bars hid content on Android 15
 - Moon image moved to design dir
 
 ## [2.45-public] - 2025-09-14
