@@ -219,7 +219,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Upgraded to Android api 35,
 - Adjusted LocationManager,
 
-## [2.17/18-public] - 2025-06-29 (Teleskop design)
+## [2.17/18-public] - 2025-06-29 (Telescope design)
 
 ### Added
 - Time of past new moon displayed
