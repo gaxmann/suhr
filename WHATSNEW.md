@@ -1,11 +1,15 @@
 # What is new?
 That's the short version of what's new.
 
-## [2.45] - 2025-09-14 (Update info) 
+## [2.46] - 2025-09-17 (Android 15) 
 
 - Design Telescope: star symbols smaller
+- Error corrections (bars hid content on Android 15, Agnihotra None)
+
+## [2.42] - 2025-08-29 (Update info) 
+
 - Displays "Update available" on dial for devices that run 24/7 (every week). Error corrections
-- Error corrections (popup, double hour on dial in NZ, Agnihotra None)
+- Error corrections (popup, double hour on dial in NZ)
   
 ## [2.39] - 2025-08-10 (Smaller Database) 
 
