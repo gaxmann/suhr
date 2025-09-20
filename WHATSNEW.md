@@ -1,10 +1,10 @@
 # What is new?
 This is the short version of what's new.
 
-## [2.46] - 2025-09-17 (Android 15) 
+## [2.47] - 2025-09-17 (Android 15) 
 
 - Design Telescope: star symbols smaller
-- Error corrections (bars hid content on Android 15, Agnihotra None)
+- Error corrections (bars hid content on Android 15, dpi corrected. Agnihotra None)
 
 ## [2.42] - 2025-08-29 (Update info) 
 
