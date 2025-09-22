@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.48] - 2025-09-xx
 
 ### Added
-- Calculates if sun is moving over south or north
+- Calculates if sun moves over south or north
 
 ## [2.47-public] - 2025-09-20
 
