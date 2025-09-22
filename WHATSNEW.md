@@ -1,6 +1,9 @@
 # What is new?
 This is the short version of what's new.
 
+## [2.48] - 2025-09-xx (xxx) 
+- Calculates if sun is moving over south or north
+
 ## [2.47] - 2025-09-17 (Android 15) 
 
 - Design Telescope: star symbols smaller
