@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.48] - 2025-09-xx
 
 ### Added
-- Calculates if sun moves over south or north
+- Calculates, if sun moves over south or north
 
 ### Fixed
 - Android 15 max altitude corrected for borders 
