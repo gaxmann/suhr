@@ -3,7 +3,7 @@ This is the short version of what's new.
 
 ## [2.48] - 2025-09-xx (Fixes) 
 - Calculates, if sun moves over south or north
-- Error corrections (max altitude corrected for borders) 
+- Error corrections (max altitude corrected for bars) 
 
 ## [2.47] - 2025-09-17 (Android 15) 
 
