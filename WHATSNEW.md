@@ -1,14 +1,10 @@
 # What is new?
 This is the short version of what's new.
 
-## [2.48] - 2025-09-26 (Fixes) 
-- Calculates, if sun moves over south or north
-- Error corrections (max altitude corrected for bars, line spacing on dial fixed) 
-
-## [2.47] - 2025-09-17 (Android 15) 
-
+## [2.48] - 2025-09-26 (Android 15) 
 - Design Telescope: star symbols smaller
-- Error corrections (bars hid content on Android 15, dpi corrected. Agnihotra None)
+- Calculates, if sun moves over south or north
+- Error corrections (bars hid content on Android 15, dpi corrected. Agnihotra None, max altitude corrected for bars, line spacing on dial fixed)
 
 ## [2.42] - 2025-08-29 (Update info) 
 
