@@ -1,9 +1,9 @@
 # What is new?
 This is the short version of what's new.
 
-## [2.48] - 2025-09-xx (Fixes) 
+## [2.48] - 2025-09-26 (Fixes) 
 - Calculates, if sun moves over south or north
-- Error corrections (max altitude corrected for bars) 
+- Error corrections (max altitude corrected for bars, line spacing on dial fixed) 
 
 ## [2.47] - 2025-09-17 (Android 15) 
 
