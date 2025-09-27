@@ -290,8 +290,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.12] - 2025-06-16
 
 ### Added
-- Added option “Draw objects larger”
-- Added planet sizes in “More details”
+- Added option "Draw objects larger”
+- Added planet sizes in "More details”
 - ISS added
 
 ### Changed
@@ -301,7 +301,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.11] - 2025-06-14
 
 ### Added
-- Added “More details” section
+- Added "More details” section
 
 ### Changed
 - Split text across three pages due to rendering issues
@@ -335,7 +335,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.7] - 2025-06-09
 
 ### Changed
-- “More margin” now also moves texts
+- "More margin” now also moves texts
 - Changed font
 
 ### Fixed
@@ -345,14 +345,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.6] - 2025-06-08
 
 ### Fixed
-- “More margin” now works at startup
+- "More margin” now works at startup
 - Moon shadow was 1 pixel too small
 
 ## [2.5] - 2025-06-07
 
 ### Added
-- Added “View direction” setting for fixed direction
-- Added “More margin” setting for borderless devices
+- Added "View direction” setting for fixed direction
+- Added "More margin” setting for borderless devices
 
 ### Changed
 - Texts updated
@@ -382,12 +382,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improved text formatting
 
 ### Fixed
-- Color scheme flickered
+- Color scheme flickered between day and night
 
 ## [2.1] - 2025-06-03
 
 ### Added
-- Added OSM place search for GPS coordinates, display on dial (only for newer machines)
+- Added OSM place search for GPS coordinates (only for newer machines)
+- Displays place on dial
 
 ### Changed
 - Checkboxes more visible
@@ -397,21 +398,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [2.0] - 2025-06-01
 
+### Changed
+- First release of fully functioning Android version (closed testing)
+
 ### Added
-- First release of Android version (closed testing)
-- Added sun and moon circles
+- Added sun's and moon's orbit ("circles")
 - Added horizon, altitude lines, time markers
 
 ## [2.0.0-alpha.1 - 2.0.0-alpha.7] - 2025-05-21..2025-06-01
 
 ### Added
-- Framework created
+- Android framework created
 - Created pages "dial" and "settings"
 - Displays digital time
 - Added sun, moon, and Sirius
-- Added location query
+- Added coarse location query
 
 ## [1.0] - 2019-11
 
 ### Added
-- First version on Raspberry Pi
+- First version on Raspberry Pi with e-paper display
