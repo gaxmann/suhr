@@ -290,8 +290,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.12] - 2025-06-16
 
 ### Added
-- Added option "Draw objects larger”
-- Added planet sizes in "More details”
+- Added option "Draw objects larger"
+- Added planet sizes in "More details"
 - ISS added
 
 ### Changed
@@ -301,7 +301,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.11] - 2025-06-14
 
 ### Added
-- Added "More details” section
+- Added "More details" section
 
 ### Changed
 - Split text across three pages due to rendering issues
@@ -335,7 +335,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.7] - 2025-06-09
 
 ### Changed
-- "More margin” now also moves texts
+- "More margin" now also moves texts
 - Changed font
 
 ### Fixed
@@ -345,14 +345,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.6] - 2025-06-08
 
 ### Fixed
-- "More margin” now works at startup
+- "More margin" now works at startup
 - Moon shadow was 1 pixel too small
 
 ## [2.5] - 2025-06-07
 
 ### Added
-- Added "View direction” setting for fixed direction
-- Added "More margin” setting for borderless devices
+- Added "View direction" setting for fixed direction
+- Added "More margin" setting for borderless devices
 
 ### Changed
 - Texts updated
@@ -411,7 +411,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Android framework created
 - Created pages "dial" and "settings"
 - Displays digital time
-- Added sun, moon, and Sirius
+- Added sun, moon and Sirius
 - Added coarse location query
 
 ## [1.0] - 2019-11
