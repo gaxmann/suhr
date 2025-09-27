@@ -58,7 +58,7 @@ This is the short version of what's new.
 
 - Mercury added
 - Planet brightness replaces planet size
-- Added option "Draw objects larger”
+- Added option "Draw objects larger"
 - Sped up & error corrections
 
 [Here](./CHANGELOG.md) you'll find the detailed changelog.
