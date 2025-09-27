@@ -8,7 +8,7 @@ This is the short version of what's new.
 
 ## [2.42] - 2025-08-29 (Update info) 
 
-- Displays "Update available" on dial for devices that run 24/7 (every week). Error corrections
+- Displays "Update available" on dial for devices that run 24/7 (every week)
 - Error corrections (popup, double hour on dial in NZ)
   
 ## [2.39] - 2025-08-10 (Smaller Database) 
@@ -24,7 +24,7 @@ This is the short version of what's new.
 
 ## [2.35] - 2025-07-30 (Better zoom)
 
-- Zoom resolution doubled, triple tap also zooms in
+- Zoom resolution doubled, triple tap added
 - Telescope design: planet size decreased
 - Error corrections
 
