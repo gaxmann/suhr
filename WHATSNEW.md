@@ -1,7 +1,7 @@
 # What is new?
 This is the short version of what's new.
 
-## [2.48] - 2025-09-26 (Android 15) 
+## [2.49] - 2025-09-28 (Android 15) 
 - Design Telescope: star symbols smaller
 - Calculates whether the sun moves across the south or north (and adjust dial accordingly)
 - Error corrections (bars hid content on Android 15, dpi corrected. Agnihotra None, max altitude corrected for bars, line spacing on dial fixed)
