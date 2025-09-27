@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.48-public] - 2025-09-26
 
 ### Added
-- Calculates whether the sun moves across the south or north 
+- Calculates whether the sun moves across the south or north (and adjusts dial accordingly)
 
 ### Fixed
 - Android 15 max altitude corrected for bars
