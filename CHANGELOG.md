@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.49-public] - 2025-09-28
 
 ### Fixed
-- Location on dial fixed
+- Location string on dial fixed
 
 ## [2.48-public] - 2025-09-26
 
