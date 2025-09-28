@@ -67,7 +67,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Display "Update available" on dial on devices that run 24/7 (checks once a week)
 
-## [2.40-public] - 2025-08-21 (Error corrections)
+## [2.40-public] - 2025-08-21
 
 ### Fixed
 - Fixed hour figures were printed twice in NZ,
