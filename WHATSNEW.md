@@ -6,7 +6,7 @@ This is the short version of what's new.
 - Calculates whether the sun moves across the south or north (and adjust dial accordingly)
 - Error corrections (bars hid content on Android 15, dpi corrected. Agnihotra None, max altitude corrected for bars, line spacing on dial fixed)
 
-## [2.42] - 2025-08-29 (Update info) 
+## [2.42] - 2025-08-29 (Update prompt) 
 
 - Displays "Update available" on dial for devices that run 24/7 (every week)
 - Error corrections (popup, double hour on dial in NZ)
