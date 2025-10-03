@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file (tags: Added
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.51] - 2025-10-xx
+
+### Changed
+- Calculation of dial creation time improved
+- Size of saturn increased 
+
 ## [2.50-public] - 2025-10-02/3
 
 ### Fixed
