@@ -54,8 +54,9 @@ This is the short version of what's new.
 - French language added
 - Error corrections
 
-## [2.15] - 2025-06-24 (First public Android version)
+## [2.15] - 2025-06-24 (Initial publication)
 
+- Initial Android publication 
 - Mercury added
 - Planet brightness replaces planet size
 - Added option "Draw objects larger"
