@@ -20,13 +20,12 @@ This is a short summary of the latest changes. A detailed changelog is available
 ## [2.37] - 2025-08-06 (Nicer moon)
 
 - Telescope design: moon image improved
-- Errors fixed (window nonetype)
+- Bug fixes (window nonetype)
 
 ## [2.35] - 2025-07-30 (Better zoom)
 
 - Zoom resolution doubled, triple tap added
-- Telescope design: planet size reduced
-- Bug fixes
+- Telescope design: planet size reduced and bug fixes
 
 ## [2.33] - 2025-07-22 (Atmospheric refraction)
 
@@ -38,21 +37,18 @@ This is a short summary of the latest changes. A detailed changelog is available
 ## [2.25] - 2025-07-11 (Agnihotra times)
 
 - Optional Agnihotra time display on dial
-- Fifth page added with local data
-- Bug fixes
+- Fifth page added with local data and bug fixes
 
 ## [2.21] - 2025-07-02 (Chinese language)
 
 - Chinese language added
 - New design "Telescope 2"
-- Reduced Gradle dependencies
-- Bug fixes
+- Reduced Gradle dependencies and bug fixes
   
 ## [2.18] - 2025-06-29 (Telescope design)
 
 - New design "Telescope"
-- French language added
-- Bug fixes
+- French language added and bug fixes
 
 ## [2.15] - 2025-06-24 (Initial release)
 
