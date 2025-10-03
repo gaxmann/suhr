@@ -58,7 +58,7 @@ This is a short summary of the latest changes. A detailed changelog is available
 
 - First Android publication.
 - Mercury added
-- Planet brightness now displayed instead of size
+- Planet brightness displayed instead of size
 - Option "Draw objects larger" added
 - Performance improvements and bug fixes
 
