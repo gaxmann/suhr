@@ -8,7 +8,7 @@ This is a short summary of the latest changes. A detailed changelog is available
 
 ## [2.42] - 2025-08-29 (Update prompt) 
 
-- "Update available" message shown on the dial for devices running 24/7 (checked weekly)
+- "Update available" message shown on dial for devices running 24/7 (checked weekly)
 - Bug fixes (popup, duplicate hour on dial in NZ)
   
 ## [2.39] - 2025-08-10 (Smaller Database) 
