@@ -2,7 +2,7 @@
 This is a short summary of the latest changes. A detailed changelog is available below.
 
 ## [2.50] - 2025-10-03 (Android 15) 
-- Telescope design: star symbols made smaller
+- Telescope design: smaller star symbols 
 - Determines whether the sun passes across the south or the north (dial adjusts accordingly)
 - Bug fixes (bars on Android 15, max altitude, Agnihotra None, line spacing, GrapheneOS)
 
