@@ -8,7 +8,7 @@ This is the short version of what's new.
 
 ## [2.42] - 2025-08-29 (Update prompt) 
 
-- Displays "Update available" on dial for devices that run 24/7 (weekly)
+- Displays "Update available" on dial for devices that run 24/7 (checks weekly)
 - Error corrections (popup, double hour on dial in NZ)
   
 ## [2.39] - 2025-08-10 (Smaller Database) 
