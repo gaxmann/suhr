@@ -1,66 +1,66 @@
 # What is new?
-This is the short version of what's new.
+This is a short summary of the latest changes. A detailed changelog is available below.
 
 ## [2.50] - 2025-10-03 (Android 15) 
-- Design Telescope: star symbols smaller
-- Calculates whether the sun moves across the south or north (and adjust dial accordingly)
-- Error corrections (bars hid content on Android 15, dpi corrected. Agnihotra None, max altitude corrected for bars, line spacing on dial fixed, grapheneOS)
+- Telescope design: star symbols made smaller
+- Determines whether the sun passes across the south or the north (dial adjusts accordingly)
+- Bug fixes (bars on Android 15, max altitude, Agnihotra None, line spacing, GrapheneOS)
 
 ## [2.42] - 2025-08-29 (Update prompt) 
 
-- Displays "Update available" on dial for devices that run 24/7 (checks weekly)
-- Error corrections (popup, double hour on dial in NZ)
+- "Update available" message shown on the dial for devices running 24/7 (checked weekly)
+- Bug fixes (popup, duplicate hour on dial in NZ)
   
 ## [2.39] - 2025-08-10 (Smaller Database) 
 
-- Planet database reduced
+- Planet database reduced 
 - Moon border improved
-- Error corrections (Agnihotra line on dial disappeared after midnight)
+- Bug fixes (Agnihotra line on dial disappearing after midnight)
 
 ## [2.37] - 2025-08-06 (Nicer moon)
 
-- Design Telescope: moon image improved
+- Telescope design: moon image improved
 - Errors fixed (window nonetype)
 
 ## [2.35] - 2025-07-30 (Better zoom)
 
 - Zoom resolution doubled, triple tap added
-- Telescope design: planet size decreased
-- Error corrections
+- Telescope design: planet size reduced
+- Bug fixes
 
 ## [2.33] - 2025-07-22 (Atmospheric refraction)
 
-- Atmospheric refraction added
+- Atmospheric refraction enabled
 - Altitude and temperature support added
-- Better location handling for Agnihotra
-- Dial creation sped up & error corrections
+- Improved handling of Agnihotra locations
+- Faster dial creation and bug fixes
 
 ## [2.25] - 2025-07-11 (Agnihotra times)
 
-- Agnihotra time on dial option added
+- Optional Agnihotra time display on dial
 - Fifth page added with local data
-- Error corrections
+- Bug fixes
 
 ## [2.21] - 2025-07-02 (Chinese language)
 
 - Chinese language added
-- Design "Telescope 2" added
-- Gradle dependencies reduced
-- Error corrections
+- New design "Telescope 2"
+- Reduced Gradle dependencies
+- Bug fixes
   
 ## [2.18] - 2025-06-29 (Telescope design)
 
-- New design "Telescope" added
+- New design "Telescope"
 - French language added
-- Error corrections
+- Bug fixes
 
-## [2.15] - 2025-06-24 (Initial publication)
+## [2.15] - 2025-06-24 (Initial release)
 
-- Initial Android publication 
+- First Android publication.
 - Mercury added
-- Planet brightness replaces planet size
-- Added option "Draw objects larger"
-- Sped up & error corrections
+- Planet brightness now displayed instead of size
+- Option "Draw objects larger" added
+- Performance improvements and bug fixes
 
 [Here](./CHANGELOG.md) you'll find the detailed changelog.
 
