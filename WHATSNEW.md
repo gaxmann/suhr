@@ -54,7 +54,7 @@ This is the short version of what's new.
 - French language added
 - Error corrections
 
-## [2.15] - 2025-06-24 (Initial Android publication)
+## [2.15] - 2025-06-24 (First public Android version)
 
 - Mercury added
 - Planet brightness replaces planet size
