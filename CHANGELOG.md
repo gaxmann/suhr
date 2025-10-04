@@ -10,7 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - App now can also be run from Aurora Store and apkpure
 - Calculation of dial creation time improved
 - Size of saturn increased
-- Got rid of com.android.vending.CHECK_LICENSE 
+- Got rid of Google adding com.android.vending.CHECK_LICENSE 
 
 ## [2.50-public] - 2025-10-02/3
 
