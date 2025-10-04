@@ -150,7 +150,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - location update improved,
 - Update button also updates location,
 - "Display Agnihotra" use GPS instead of network for more location accuracy
-- min. API now 23 (Android 6)
+- Min. API 23 (Android 6)
 
 ## [2.29] - 2025-07-18
 
@@ -274,7 +274,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added/Removed
 - Designs cleaned up (added Telescope in 'de', removed test designs)
-- min. API 21 (Android 5)
+- Min. API 21 (Android 5)
 
 ### Fixed
 - Timezone might not have been saved
