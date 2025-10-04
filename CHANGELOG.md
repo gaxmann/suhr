@@ -275,7 +275,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added/Removed
 - Designs cleaned up (added Telescope in 'de', removed test designs)
-- Min. API 21 (Android 5)
 
 ### Fixed
 - Timezone might not have been saved
@@ -432,6 +431,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Displays digital time
 - Added sun, moon and Sirius
 - Added coarse location query
+- Min. API 21 (Android 5)
 
 ## [1.0] - 2019-11
 
