@@ -30,10 +30,11 @@ This is a short summary of the latest changes. A detailed changelog is available
 
 ## [2.33] - 2025-07-22 (Atmospheric refraction)
 
-- Atmospheric refraction enabled
+- Atmospheric refraction activated
 - Altitude and temperature support added
 - Improved handling of Agnihotra locations
 - Faster dial creation and bug fixes
+- Min. API 23 (Android 6)
 
 ## [2.25] - 2025-07-11 (Agnihotra times)
 
@@ -58,6 +59,7 @@ This is a short summary of the latest changes. A detailed changelog is available
 - Planet brightness displayed instead of size
 - Option "Draw objects larger" added
 - Performance improvements and bug fixes
+- Min. API 21 (Android 5)
 
 [Here](./CHANGELOG.md) you'll find the detailed changelog.
 
