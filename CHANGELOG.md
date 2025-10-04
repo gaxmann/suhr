@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.51-public] - 2025-10-04
 
 ### Changed
-- App now can also be downloaded from Aurora Store and apkpure
+- App now can also be run from Aurora Store and apkpure
 - Calculation of dial creation time improved
 - Size of saturn increased 
 
