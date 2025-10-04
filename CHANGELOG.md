@@ -108,7 +108,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.36] - 2025-08-05 
 
 ### Changed
-- Design "Telescope": moon image improved 
+- Design Telescope: moon image improved 
 
 ## [2.35-public] - 2025-07-30 (Better zoom)
 
@@ -121,7 +121,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Zoom resolution doubled (slower dial creation)
 - Triple tap zooms also in
-- "Telescope" design: planet size decreased (pow 0.15->0.24)
+- Telescope design: planet size decreased (pow 0.15->0.24)
 - Text creation on dial sped up
 - Error corrections: timezonefinder, OSM location
  
@@ -141,7 +141,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 - Altitude and temperature added to location
-- standard design now is telescope
+- standard design now is Telescope
 - Errors fixed
 
 ## [2.30] - 2025-07-19
@@ -232,7 +232,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 - Daylight data added
-- Design "Telescope 2" added,
+- Design Telescope 2 added,
 - Date abbreviations introduced due to Chinese,
 
 ### Changed
