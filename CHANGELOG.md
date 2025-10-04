@@ -179,6 +179,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 - Update button now also retrieves GPS (if active),
+- Min. API 24 (Android 7)
 
 ## [2.25-public] - 2025-07-11 (Agnihotra times)
 
