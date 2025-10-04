@@ -4,6 +4,7 @@ This is a short summary of the latest changes. A detailed changelog is available
 ## [2.51] - 2025-10-04 (Android 15) 
 - Telescope design: smaller star symbols 
 - Determines whether the sun passes across the south or the north
+- Calc time for dial creation improved
 - Bug fixes (bars on Android 15, max altitude, Agnihotra None, line spacing, GrapheneOS, Aurora & apkpure)
 
 ## [2.42] - 2025-08-29 (Update prompt) 
