@@ -31,7 +31,7 @@ This is a short summary of the latest changes. A detailed changelog is available
 
 - Atmospheric refraction activated
 - Altitude and temperature support added
-- Improved handling of Agnihotra locations
+- Improved handling of location determination (Agnihotra)
 - Faster dial creation and bug fixes
 - Min. API 23 (Android 6)
 
