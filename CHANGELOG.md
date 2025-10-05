@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.51-public] - 2025-10-04
 
 ### Changed
-- Got rid of Google adding *com.android.vending.CHECK_LICENSE*
+- Google doesn't add *com.android.vending.CHECK_LICENSE* any more
 - Calculation of dial creation time improved
 - Size of saturn increased
 
