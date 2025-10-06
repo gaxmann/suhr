@@ -1,10 +1,10 @@
 # What is new?
 This is a short summary of the latest changes. A detailed changelog is available below.
 
-## [2.51] - 2025-10-04 (Android 15) 
+## [2.52] - 2025-10-06 (Android 15) 
 - Android 15 bar handling improved
 - Telescope design: smaller star symbols 
-- Bug fixes (max altitude, Agnihotra None, line spacing, GrapheneOS, Aurora & apkpure, calc time for dial creation)
+- Bug fixes (max altitude, Agnihotra None, line spacing, GrapheneOS, Aurora & apkpure, calc time for dial creation, no attribute clock_screen)
 
 ## [2.42] - 2025-08-29 (Update prompt) 
 
