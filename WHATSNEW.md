@@ -13,9 +13,9 @@ This is a short summary of the latest changes. A detailed changelog is available
   
 ## [2.39] - 2025-08-10 (Smaller Database) 
 
-- Planet database reduced 
-- Moon border improved
-- Bug fixes (Agnihotra line on dial disappearing after midnight)
+- Planet data reduced 
+- Moon improved
+- Bug fixes (Agnihotra rectangle on dial disappearing after midnight)
 
 ## [2.35] - 2025-07-30 (Better zoom)
 
