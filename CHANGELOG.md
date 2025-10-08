@@ -12,7 +12,7 @@ All notable changes to this project will be documented in this file (tags: Added
 - KeyError font10
 - Android 15 bars fixed
 
-## [2.53-android5] - 2025-10-08 (Android 5)
+## [2.53-[android5](https://github.com/gaxmann/suhr/releases/tag/v2.xxx)] - 2025-10-08 (Android 5)
 
 ### Changed
 - Special build (not for Play Store) for API 21 (Android 5) due to the unavoidable, upcoming minimum Android 7 requirement 
