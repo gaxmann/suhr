@@ -320,7 +320,7 @@ All notable changes to this project will be documented in this file (tags: Added
 
 ### Added
 - Mercury added
-- E/W added in horizon view
+- E|W added in horizon view
 - Planet brightness replaces planet size
 
 ### Changed
