@@ -17,11 +17,6 @@ This is a short summary of the latest changes. A detailed changelog is available
 - Moon border improved
 - Bug fixes (Agnihotra line on dial disappearing after midnight)
 
-## [2.37] - 2025-08-06 (Nicer moon)
-
-- Telescope design: moon image improved
-- Bug fixes (window nonetype)
-
 ## [2.35] - 2025-07-30 (Better zoom)
 
 - Zoom resolution doubled, triple tap added
