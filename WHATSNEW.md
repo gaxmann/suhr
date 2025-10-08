@@ -1,5 +1,5 @@
 # What is new?
-This is a short summary of the latest changes. A detailed changelog is available below.
+This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll find the detailed changelog.
 
 ## [2.54] - 2025-10-08 (Android 15) 
 - Fixed bar handling on Android 15
@@ -56,5 +56,5 @@ This is a short summary of the latest changes. A detailed changelog is available
 - Performance improvements and bug fixes
 - Min. API 21 (Android 5)
 
-[Here](./CHANGELOG.md) you'll find the detailed changelog.
+
 
