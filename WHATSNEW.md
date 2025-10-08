@@ -1,8 +1,8 @@
 # What is new?
 This is a short summary of the latest changes. A detailed changelog is available below.
 
-## [2.53] - 2025-10-08 (Android 5)
-- Special build for API 21 (Android 5) due to the upcoming minimum Android 7 requirement
+*## [2.53] - 2025-10-08 (Android 5)
+- Special build for API 21 (Android 5) due to the upcoming minimum Android 7 requirement*
 
 ## [2.52] - 2025-10-06 (Android 15) 
 - Android 15 bar handling improved
