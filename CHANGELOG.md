@@ -15,7 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.53-android5] - 2025-10-08 (Android 5)
 
 ### Changed
-- Special build for API 21 (Android 5) due to the upcoming minimum Android 7 requirement (not on Play Store)
+- Special build (not for Play Store) for API 21 (Android 5) due to the unavoidable, upcoming minimum Android 7 requirement 
 
 ### Fixed
 - KeyError font10
