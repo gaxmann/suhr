@@ -4,7 +4,18 @@ All notable changes to this project will be documented in this file (tags: Added
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [2.53-xx] - 2025-10-xx
+## [2.54-xx] - 2025-10-xx
+
+### Changed
+- Reverted min. API level back to 23 (Android 6), restoring previous default
+
+### Fixed
+- KeyError
+
+## [2.53-android5] - 2025-10-08
+
+### Changed
+- Special build for API 21 (Android 5) due to the upcoming Android 7 requirement
 
 ### Fixed
 - KeyError
