@@ -3,7 +3,7 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 
 ## [2.54] - 2025-10-08 (Android 15) 
 - Fixed bar handling on Android 15
-- Special build 2.53 for Android 5 created
+- Special build 2.53 for Android 5+ created
 - Telescope design: smaller star symbols
 - Bug fixes (max altitude with bars, line spacing, GrapheneOS, Aurora & Apkpure, no attribute clock_screen, update check for devices installed via apk)
 
@@ -29,7 +29,7 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 - Altitude and temperature support added
 - Improved handling of location determination (Agnihotra)
 - Faster dial creation and bug fixes
-- Min. API 23 (Android 6)
+- Min. API 23 (Android 6+)
 
 ## [2.25] - 2025-07-11 (Agnihotra times)
 
@@ -54,7 +54,7 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 - Planet brightness displayed instead of size
 - Option "Draw objects larger" added
 - Performance improvements and bug fixes
-- Min. API 21 (Android 5)
+- Min. API 21 (Android 5+)
 
 
 
