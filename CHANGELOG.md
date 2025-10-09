@@ -460,4 +460,4 @@ All notable changes to this project will be documented in this file (tags: Added
 ## [1.0 - 1.73] - 2019-11..2025
 
 ### Added
-- First version on Raspberry Pi with e-paper display
+- First version on Raspberry Pi with an e-paper display
