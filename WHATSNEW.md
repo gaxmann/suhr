@@ -30,6 +30,7 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 - Atmospheric refraction added (altitude and temperature support added)
 - Improved handling of location determination (Agnihotra)
 - Faster dial creation and bug fixes
+- Standard design is now Telescope
 - Min. API 23 (Android 6+)
 
 ## [2.25] - 2025-07-11 (Agnihotra times)
