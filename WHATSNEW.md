@@ -54,7 +54,7 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 - Planet brightness displayed instead of size
 - Option "Draw objects larger" added
 - Performance improvements and bug fixes
-- First Android publication. Min. API 21 (Android 5+)
+- Min. API 21 (Android 5+)
 
 
 
