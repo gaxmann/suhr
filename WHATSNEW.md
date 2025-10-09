@@ -7,6 +7,8 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 - Telescope design: smaller star symbols
 - Bug fixes (max altitude with bars, line spacing, GrapheneOS, Aurora & Apkpure, no attribute clock_screen, update check for devices installed via apk)
 
+## [2.53] - 2025-10-08 (Android 5) 
+
 ## [2.42] - 2025-08-29 (Update prompt) 
 
 - "Update available" message shown on dial for devices running 24/7 (checked weekly)
