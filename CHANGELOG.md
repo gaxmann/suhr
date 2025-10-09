@@ -457,7 +457,7 @@ All notable changes to this project will be documented in this file (tags: Added
 - Added coarse location query
 - Min. API 21 (Android 5+)
 
-## [1.0 - 1.73] - 2019-11
+## [1.0 - 1.73] - 2019-11..
 
 ### Added
 - First version on Raspberry Pi with e-paper display
