@@ -27,15 +27,14 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 
 ## [2.33] - 2025-07-22 (Atmospheric refraction)
 
-- Atmospheric refraction activated
-- Altitude and temperature support added
+- Atmospheric refraction added (altitude and temperature support added)
 - Improved handling of location determination (Agnihotra)
 - Faster dial creation and bug fixes
 - Min. API 23 (Android 6+)
 
 ## [2.25] - 2025-07-11 (Agnihotra times)
 
-- Optional Agnihotra time display on dial
+- Optional display of Agnihotra times on the dial
 - Fifth page added with local data and bug fixes
 
 ## [2.21] - 2025-07-02 (Chinese language)
@@ -51,12 +50,11 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 
 ## [2.15] - 2025-06-24 (Initial release)
 
-- First Android publication.
 - Mercury added
 - Planet brightness displayed instead of size
 - Option "Draw objects larger" added
 - Performance improvements and bug fixes
-- Min. API 21 (Android 5+)
+- First Android publication. Min. API 21 (Android 5+)
 
 
 
