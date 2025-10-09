@@ -6,16 +6,16 @@ All notable changes to this project will be documented in this file (tags: Added
 ## [2.54-public] - 2025-10-08
 
 ### Changed
-- Reverted min. API level back to 23 (Android 6), restoring previous default
+- Reverted min. API level back to 23 (Android 6+), restoring previous default
 
 ### Fixed
 - KeyError font10
 - Android 15 bars fixed
 
-## [2.53-android5] - 2025-10-08 (Android 5)
+## [2.53-android5] - 2025-10-08 (Android 5+)
 
 ### Changed
-- Special build (not for Play Store) for API 21 ([Android 5](https://github.com/gaxmann/suhr/releases/tag/v2.xxx)) due to the unavoidable, upcoming minimum Android 7 requirement 
+- Special build (not for Play Store) for API 21 ([Android 5+](https://github.com/gaxmann/suhr/releases/tag/v2.xxx)) due to the unavoidable, upcoming Android 7+ requirement 
 
 ### Fixed
 - KeyError font10
@@ -174,7 +174,7 @@ All notable changes to this project will be documented in this file (tags: Added
 - location update improved,
 - Update button also updates location,
 - "Display Agnihotra" use GPS instead of network for more location accuracy
-- Min. API 23 (Android 6)
+- Min. API 23 (Android 6+)
 
 ## [2.29] - 2025-07-18
 
@@ -203,7 +203,7 @@ All notable changes to this project will be documented in this file (tags: Added
 
 ### Changed
 - Update button now also retrieves GPS (if active),
-- Min. API 24 (Android 7)
+- Min. API 24 (Android 7+)
 
 ## [2.25-public] - 2025-07-11 (Agnihotra times)
 
@@ -455,7 +455,7 @@ All notable changes to this project will be documented in this file (tags: Added
 - Displays digital time
 - Added sun, moon and Sirius
 - Added coarse location query
-- Min. API 21 (Android 5)
+- Min. API 21 (Android 5+)
 
 ## [1.0] - 2019-11
 
