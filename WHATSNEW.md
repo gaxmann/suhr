@@ -6,7 +6,7 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 - Telescope design: smaller star symbols
 - Bug fixes (max altitude with bars, line spacing, GrapheneOS, Aurora & Apkpure install, no attribute clock_screen, update check for devices installed via apk)
 
-## [2.53] - 2025-10-08 (Android 5) 
+## [2.53] - 2025-10-08 (Legacy Support) 
 - Special build 2.53 for [Android 5+](https://github.com/gaxmann/suhr/releases/tag/v2.xxx) with the same features as 2.54
 
 ## [2.42] - 2025-08-29 (Update prompt) 
