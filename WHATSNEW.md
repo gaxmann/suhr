@@ -38,6 +38,8 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 - Optional display of Agnihotra times on the dial
 - Fifth page added with local data and bug fixes
 
+---------
+
 ## [2.21] - 2025-07-02 (Chinese language)
 
 - Chinese language added
