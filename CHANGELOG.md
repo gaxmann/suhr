@@ -10,7 +10,7 @@ All notable changes to this project will be documented in this file (tags: Added
 
 ### Fixed
 - KeyError font10
-- Android 15 bars fixed
+- Android 15+ bars fixed
 
 ## [2.53-android5] - 2025-10-08 (Android 5+)
 
@@ -51,7 +51,7 @@ All notable changes to this project will be documented in this file (tags: Added
 - Calculates whether the sun moves across the south or north (and adjusts dial accordingly)
 
 ### Fixed
-- Android 15 max altitude corrected for bars
+- Android 15+ max altitude corrected for bars
 - Line spacing on dial fixed
 
 ## [2.47-public] - 2025-09-20
@@ -62,7 +62,7 @@ All notable changes to this project will be documented in this file (tags: Added
 ## [2.46-public] - 2025-09-17 (Fixed bars)
 
 ### Changed
-- Error corrections: bars hid content on Android 15
+- Error corrections: bars hid content on Android 15+
 - Moon image moved to design dir
 
 ## [2.45-public] - 2025-09-14
