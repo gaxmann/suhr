@@ -59,7 +59,7 @@ All notable changes to this project will be documented in this file (tags: Added
 ### Changed
 - Size of bar corrected to dpi
 
-## [2.46-public] - 2025-09-17 (Fixed bars)
+## [2.46-public] - 2025-09-17 (Bar handling)
 
 ### Changed
 - Error corrections: bars hid content on Android 15+
