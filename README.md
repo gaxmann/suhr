@@ -1,5 +1,18 @@
 # Gordon's Sun Clock
 
+Gordon's Sun Clock is a clock that displays the actual local time (solar time).
+
+I was quite dissatisfied with standard time, the recurring time changes and the fact that 12 o'clock is usually not noon. My solution: an organic dial. It shows the position and path of the sun, when it is actually noon and when the sun disappears behind the horizon. And it does so for your individual location.
+
+Try it out: the app is free, ad-free and does not collect any data! It is simply a gift from me to the world.
+
+I have been living with the clock for seven years now, and it has taught me a lot. It can also be interesting for children, as it allows them to understand the movements of the stars in a simple and intuitive way.
+
+I also run Sun Clock on a tablet that hangs on my wall. There, it catches the eye of visitors and reminds me every day of the natural passage of time.
+
+Calculations for your location should match the positions in the astronomical almanac to 0.0005 arc seconds (Skyfield). On request, the clock displays Agnihotra times for your location accurate to the second (including countdown). Gordon's Sun Clock is also known as an astronomical clock, astronomy app, horologium, horologion, orloj, astrolabe, astrolabe clock, star clock, sky clock, single-hand clock, solar clock.
+
+
 Here are a few of the files of the Sun Clock app. 
 
 You are most welcome to... 
