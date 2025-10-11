@@ -3,7 +3,7 @@ All notable changes to this project will be documented in this file (tags: Added
 
 [Here](./WHATSNEW.md) you'll find a short summary of the latest changes.
 
-## [2.55-xx] - 2025-10-11 (Transparent bars)
+## [2.55-dev] - 2025-10-11 (Transparent bars)
 
 ### Changed
 - Bars now transparent in Android 15+  
