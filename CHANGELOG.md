@@ -3,6 +3,12 @@ All notable changes to this project will be documented in this file (tags: Added
 
 [Here](./WHATSNEW.md) you'll find a short summary of the latest changes.
 
+## [2.55-xx] - 2025-10-11 (Transparent bars)
+
+### Changed
+- Bars now transparent in Android 15+  
+- Min. API 24 (Android 7+), because of new numpy version 
+
 ## [2.54-public] - 2025-10-08
 
 ### Changed
