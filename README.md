@@ -14,6 +14,7 @@ I have been living with the clock for seven years now, and it has taught me a lo
 
 Calculations for your location should match the positions in the astronomical almanac to 0.0005 arc seconds (Skyfield). On request, the clock displays Agnihotra times for your location accurate to the second (including countdown). It is also known as an astronomical clock, astronomy app, horologium, horologion, orloj, astrolabe, astrolabe clock, star clock, sky clock, single-hand clock, solar clock.
 
+---
 
 Here are a few of the files of the Sun Clock app. 
 
