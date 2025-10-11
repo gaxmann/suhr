@@ -4,7 +4,7 @@
 
 I was quite dissatisfied with standard time, the recurring time changes and the fact that 12 o'clock is usually not noon. My solution: an organic dial. It shows the position and path of the sun, when it is actually noon and when the sun disappears behind the horizon. And it does so for your individual location. Reconnect to your local, natural time.
 
-Try it out: the app is free, ad-free and does not collect any data! It is simply a gift from me to the world.
+Try it out: the app is free, doesn't show any ads nor collects any data! It is simply a gift from me to the world.
 
 Download Sun Clock app (de.ax12.zunclock):
 * from [Google Play Store](https://play.google.com/store/apps/details?id=de.ax12.zunclock)
