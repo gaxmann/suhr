@@ -7,11 +7,11 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 - Bug fixes (max altitude with bars, line spacing, GrapheneOS, Aurora & Apkpure install, no attribute clock_screen, update check for devices installed via apk)
 - Min. API 24 (Android 7+)
 
-## [2.54] - 2025-10-08 (Bar handling) 
-- Bar handling on Android 15+ fixed
-- Telescope design: smaller star symbols
-- Bug fixes (max altitude with bars, line spacing, GrapheneOS, Aurora & Apkpure install, no attribute clock_screen, update check for devices installed via apk)
-- Min. API 23 (Android 6+)
+## _[2.54] - 2025-10-08 (Bar handling)_
+- _Bar handling on Android 15+ fixed_
+- _Telescope design: smaller star symbols_
+- _Bug fixes (max altitude with bars, line spacing, GrapheneOS, Aurora & Apkpure install, no attribute clock_screen, update check for devices installed via apk)_
+- _Min. API 23 (Android 6+)_
 
 ## *[2.53] - 2025-10-08 (Legacy support)*
 - *Special build 2.53 for [Android 5+](https://github.com/gaxmann/suhr/releases/tag/v2.xxx)*
