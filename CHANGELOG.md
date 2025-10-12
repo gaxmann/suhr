@@ -6,7 +6,7 @@ All notable changes to this project will be documented in this file (tags: Added
 ## [2.54-public] - 2025-10-08
 
 ### Changed
-- Reverted API level back to 23-35 (Android 6+), restoring previous default
+- Reverted API level back to 23-35 (Android 6+), restoring previous default, because of kivys automatic version_code system 
 
 ### Fixed
 - KeyError font10
