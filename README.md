@@ -7,7 +7,7 @@ I was quite dissatisfied with standard time, the recurring time changes and the 
 Try it out – the app is free, shows no ads, and collects no data. It's simply a gift from me to the world.
 
 Download Sun Clock app (de.ax12.zunclock):
-* from [Google Play Store](https://play.google.com/store/apps/details?id=de.ax12.zunclock)
+* from [Google Play Store](https://play.google.com/store/apps/details?id=de.ax12.zunclock), Aurora etc.
 * or [Github](https://github.com/gaxmann/suhr/releases/tag/v2.xxx) (additional apk for older devices)
 
 I have been living with the clock for seven years now, and it has taught me a lot. It can also be interesting for children, as it allows them to understand the movements of the stars in a simple and intuitive way. I (also) run Sun Clock on a tablet that hangs on my wall. There, it reminds me every day of the natural passage of time.
