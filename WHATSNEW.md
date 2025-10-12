@@ -1,5 +1,5 @@
 # What is new?
-This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll find the detailed changelog.
+This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll find the detailed changelog. *You find older (Android 5+) and future (16 kB) versions [below](#api24).
 
 ---
 <a name="api23"></a>
@@ -36,13 +36,13 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 
 # Older and future versions 
 <a name="api21"></a>
-### Android 7+ and arm64-v8a only
+## Android 7+ (arm64-v8a only)
 
 ## [3.0-dev] - 2025-10-12 (Transparent bars) 
 - Navigation and status bars now transparent on Android 15+
 - Android 7+ and arm64-v8a only. For older devices download the apk from Github 
 <a name="api21"></a>
-### Android 5+
+## Android 5+ (for older devices)
 
 ## [2.53] - 2025-10-08 (Legacy support)
 - Special build for [Android 5+](https://github.com/gaxmann/suhr/releases/tag/v2.xxx) with the same features as 2.54
