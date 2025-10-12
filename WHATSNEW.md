@@ -1,12 +1,12 @@
 # What is new?
 This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll find the detailed changelog.
-*If your device is older than Android 7,* you'll find Versions for [Android 5+](#api21) here.
+*If your device is older than Android 7,* or uses `armeabi-v7a` you'll find Versions for [Android 5+](#api21) here.
 
 ---
 <a name="api24"></a>
 ## [2.55] - 2025-10-12 (Transparent bars) 
 - Navigation and status bars now transparent on Android 15+
-- Android 7+
+- Android 7+, for older device download the apk on Github 
 
 ## [2.54] - 2025-10-08 (Bar handling)
 - Bar handling on Android 15+ fixed
