@@ -52,12 +52,12 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 - Special build for [Android 5+](https://github.com/gaxmann/suhr/releases/tag/v2.xxx) with the same features as 2.54
 - Telescope design: smaller star symbols
 - Bug fixes (line spacing, GrapheneOS, Aurora & Apkpure install, no attribute clock_screen, update check for devices installed via apk)
-- Android 5+
-
+  
 ## [2.25] - 2025-07-11 (Agnihotra times)
 
 - Without atmospheric refraction 
 - Optional display of Agnihotra times on the dial
 - Fifth page added with local data and bug fixes
+- Android 5+
 
 
