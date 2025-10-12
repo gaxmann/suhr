@@ -32,7 +32,8 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 - Standard design is now Telescope
 - Android 6+
 
----------
+---
+---
 
 # Older and future versions 
 <a name="api24"></a>
