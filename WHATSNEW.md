@@ -1,8 +1,8 @@
 # What is new?
 This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll find the detailed changelog.
 
-**[Versions for Android 7+](#api24)**<br>
-**[Versions for Android 5+](#api21)**
+**Versions for [Android 7+](#api24)**<br>
+**Versions for [Android 5+](#api21)**
 
 ---
 <a name="api24"></a>
