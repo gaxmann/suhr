@@ -44,7 +44,7 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 
 ---------
 
-# Other versions
+# Versions supporting older devices
 <a name="api21"></a>
 ### Android 5+
 
@@ -56,6 +56,7 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 
 ## [2.25] - 2025-07-11 (Agnihotra times)
 
+- Without atmospheric refraction 
 - Optional display of Agnihotra times on the dial
 - Fifth page added with local data and bug fixes
 
