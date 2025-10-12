@@ -4,9 +4,9 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 
 ---
 <a name="api24"></a>
-## [2.55] - 2025-10-12 (Transparent bars) 
+## [3.0] - 2025-10-12 (Transparent bars) 
 - Navigation and status bars now transparent on Android 15+
-- Android 7+, for older device download the apk on Github 
+- Android 7+ and arm64-v8a only - for older device download the apk from Github 
 
 ## [2.54] - 2025-10-08 (Bar handling)
 - Bar handling on Android 15+ fixed
