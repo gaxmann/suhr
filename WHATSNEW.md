@@ -46,7 +46,7 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 
 ---
 <a name="api21"></a>
-### *Android 5+ (for older devices)*
+### *Android 5+*
 
 ## [2.53] - 2025-10-08 (Legacy support)
 - Special build for [Android 5+](https://github.com/gaxmann/suhr/releases/tag/v2.xxx) with the same features as 2.54
