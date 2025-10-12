@@ -1,13 +1,7 @@
 # Changelog
 All notable changes to this project will be documented in this file (tags: Added, Changed, Deprecated, Removed, Fixed, Security). The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html). 
 
-[Here](./WHATSNEW.md) you'll find a short summary of the latest changes.
-
-## [3.0-dev] - 2025-10-12 (Transparent bars)
-
-### Changed
-- Navigation and status bars now transparent in Android 15+  
-- Min. API 24 (Android 7+) and arm64-v8a only, because of 16 kB memory pages and new numpy version 
+[Here](./WHATSNEW.md) you'll find a short summary of the latest changes.*Below you'll find [future versions](#dev) here.
 
 ## [2.54-public] - 2025-10-08
 
@@ -467,3 +461,12 @@ All notable changes to this project will be documented in this file (tags: Added
 
 ### Added
 - First version on Raspberry Pi with an e-paper display
+
+---
+<a name="dev"></a>
+## [3.0-dev] - 2025-10-12 (Transparent bars)
+
+### Changed
+- Navigation and status bars now transparent in Android 15+  
+- Min. API 24 (Android 7+) and arm64-v8a only, because of 16 kB memory pages and new numpy version 
+
