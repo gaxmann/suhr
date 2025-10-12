@@ -59,6 +59,10 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 - Optional display of Agnihotra times on the dial
 - Fifth page added with local data and bug fixes
 
+-- 
+
+# Very old versions
+
 ## [2.21] - 2025-07-02 (Chinese language)
 
 - Chinese language added
@@ -77,6 +81,4 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 - Option "Draw objects larger" added
 - Performance improvements and bug fixes
 - Min. API 21 (Android 5+)
-
----
 
