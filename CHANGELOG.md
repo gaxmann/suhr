@@ -12,7 +12,7 @@ All notable changes to this project will be documented in this file (tags: Added
 ## [2.54-public] - 2025-10-08
 
 ### Changed
-- Reverted min. API level back to 23 (Android 6+), restoring previous default
+- Reverted API level back to 23-35 (Android 6+), restoring previous default
 
 ### Fixed
 - KeyError font10
@@ -21,7 +21,7 @@ All notable changes to this project will be documented in this file (tags: Added
 ## [2.53-android5] - 2025-10-08 (Legacy Support)
 
 ### Changed
-- Special build (no Play Store) for min. API 21 ([Android 5+](https://github.com/gaxmann/suhr/releases/tag/v2.xxx)) due to the unavoidable, upcoming Android 7+ requirement 
+- Special build (no Play Store) for API 21-34 ([Android 5+](https://github.com/gaxmann/suhr/releases/tag/v2.xxx)) due to the unavoidable, upcoming Android 7+ requirement 
 
 ### Fixed
 - KeyError font10
@@ -274,12 +274,12 @@ All notable changes to this project will be documented in this file (tags: Added
 - Chinese added,
 
 ### Changed
-- (!)Gradle dependencies reduced,
-- Navigation buttons changed,
-- Order of designs changed,
-- lang_create creates lang_cont from lang directory,
-- Upgraded to Android api 35,
-- Adjusted LocationManager,
+- Gradle dependencies reduced
+- Navigation buttons changed
+- Order of designs changed
+- lang_create creates lang_cont from lang directory
+- Upgraded to Android api 35 (21-35)
+- Adjusted LocationManager
 
 ## [2.17/18-public] - 2025-06-29 (Telescope design)
 
