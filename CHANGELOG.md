@@ -7,7 +7,7 @@ All notable changes to this project will be documented in this file (tags: Added
 
 ### Changed
 - Bars now transparent in Android 15+  
-- Min. API 24 (Android 7+) and arm64-v8a only, because of new numpy version 
+- Min. API 24 (Android 7+) and arm64-v8a only, because of new numpy version and 16 kB memory pages
 
 ## [2.54-public] - 2025-10-08
 
