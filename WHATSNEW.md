@@ -1,7 +1,7 @@
 # What is new?
 This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll find the detailed changelog.
 
-**Version [Android 7+](#api24),** 
+**Version [Android 7+](#api24)<br>** 
 **Version [Android 5+](#api21)**
 
 ---
