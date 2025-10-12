@@ -59,26 +59,4 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 - Optional display of Agnihotra times on the dial
 - Fifth page added with local data and bug fixes
 
--- 
-
-# Very old versions
-
-## [2.21] - 2025-07-02 (Chinese language)
-
-- Chinese language added
-- New design "Telescope 2"
-- Reduced Gradle dependencies and bug fixes
-  
-## [2.18] - 2025-06-29 (Telescope design)
-
-- New design "Telescope"
-- French language added and bug fixes
-
-## [2.15] - 2025-06-24 (Initial release)
-
-- Mercury added
-- Planet brightness displayed instead of size
-- Option "Draw objects larger" added
-- Performance improvements and bug fixes
-- Min. API 21 (Android 5+)
 
