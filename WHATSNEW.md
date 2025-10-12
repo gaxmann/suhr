@@ -41,7 +41,8 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 ## [3.0-dev] - 2025-10-12 (Transparent bars) 
 - Navigation and status bars now transparent on Android 15+
 - Android 7+ and arm64-v8a only. For older devices download the apk from Github 
---
+
+---
 <a name="api21"></a>
 ### *Android 5+ (for older devices)*
 
