@@ -463,6 +463,7 @@ All notable changes to this project will be documented in this file (tags: Added
 - First version on Raspberry Pi with an e-paper display
 
 ---
+---
 <a name="dev"></a>
 ## [3.0-dev] - 2025-10-12 (Transparent bars)
 
@@ -481,3 +482,10 @@ All notable changes to this project will be documented in this file (tags: Added
 .
 
 .
+
+.
+
+.
+
+.
+
