@@ -1,5 +1,5 @@
 # What is new?
-This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll find the detailed changelog. *You find older (Android 5+) and future (16 kB) versions [below](#api24).*
+This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll find the detailed changelog. **You find older (Android 5+) and future (16 kB) versions [below](#api24).**
 
 ---
 <a name="api23"></a>
