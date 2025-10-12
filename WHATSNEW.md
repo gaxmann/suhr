@@ -64,7 +64,7 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 
 ---
 ---
-<a name="foot"></a>
+<a name="bottom"></a>
 ## *[2.53] - 2025-10-08 (Legacy support)*
 - *Special build 2.53 for [Android 5+](https://github.com/gaxmann/suhr/releases/tag/v2.xxx)*
 - *Telescope design: smaller star symbols*
