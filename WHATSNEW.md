@@ -10,13 +10,13 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 - Navigation and status bars now transparent on Android 15+
 - Telescope design: smaller star symbols
 - Bug fixes (max altitude with bars, line spacing, GrapheneOS, Aurora & Apkpure install, no attribute clock_screen, update check for devices with manual apk install)
-- Min. API 24 (Android 7+) 
+- Android 7+
 
 ## _[2.54] - 2025-10-08 (Bar handling)_
 - _Bar handling on Android 15+ fixed_
 - _Telescope design: smaller star symbols_
 - _Bug fixes (max altitude with bars, line spacing, GrapheneOS, Aurora & Apkpure install, no attribute clock_screen, update check for devices installed via apk)_
-- Min. API 23 (Android 6+)
+- _Android 6+_
   
 ## [2.42] - 2025-08-29 (Update prompt) 
 
@@ -40,7 +40,7 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 - Improved handling of location determination (Agnihotra)
 - Faster dial creation and bug fixes
 - Standard design is now Telescope
-- Min. API 23 (Android 6+)
+- Android 6+
 
 ---------
 
@@ -52,7 +52,7 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 - Special build for [Android 5+](https://github.com/gaxmann/suhr/releases/tag/v2.xxx) with the same features as 2.54
 - Telescope design: smaller star symbols
 - Bug fixes (line spacing, GrapheneOS, Aurora & Apkpure install, no attribute clock_screen, update check for devices installed via apk)
-- Min. API 21 (Android 5+)
+- Android 5+
 
 ## [2.25] - 2025-07-11 (Agnihotra times)
 
