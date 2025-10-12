@@ -467,6 +467,17 @@ All notable changes to this project will be documented in this file (tags: Added
 ## [3.0-dev] - 2025-10-12 (Transparent bars)
 
 ### Changed
-- Navigation and status bars now transparent in Android 15+  
+- Navigation and status bars are now transparent in Android 15+  
 - Min. API 24 (Android 7+) and arm64-v8a only, because of 16 kB memory pages and new numpy version 
 
+.
+
+.
+
+.
+
+.
+
+.
+
+.
