@@ -471,6 +471,8 @@ All notable changes to this project will be documented in this file (tags: Added
 - Navigation and status bars are now transparent in Android 15+  
 - Min. API 24 (Android 7+) and arm64-v8a only, because of 16 kB memory pages and new numpy version 
 
+[EoF]
+
 .
 
 .
