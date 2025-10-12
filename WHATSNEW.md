@@ -1,7 +1,7 @@
 # What is new?
 This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll find the detailed changelog.
 
-**If your device is older than Android 7, you'll find Versions for [Android 5+](#api21) here.**
+If your device is older than Android 7, you'll find Versions for [Android 5+](#api21) here.
 
 ---
 <a name="api24"></a>
