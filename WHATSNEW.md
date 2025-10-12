@@ -8,8 +8,6 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 <a name="api24"></a>
 ## [2.55] - 2025-10-12 (Transparent bars) 
 - Navigation and status bars now transparent on Android 15+
-- Telescope design: smaller star symbols
-- Bug fixes (max altitude with bars, line spacing, GrapheneOS, Aurora & Apkpure install, no attribute clock_screen, update check for devices with manual apk install)
 - Android 7+
 
 ## [2.54] - 2025-10-08 (Bar handling)
