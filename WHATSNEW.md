@@ -34,6 +34,13 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 - Faster dial creation, bug fixes
 - Android 6+
 
+## [2.25] - 2025-07-11 (Agnihotra times)
+
+- Without atmospheric refraction and with poorer zoom capability
+- Optional display of Agnihotra times on the dial
+- Fifth page added with local data, bug fixes
+- Android 5+
+  
 ---
 ---
 <a name="future"></a>
@@ -47,16 +54,7 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 - Includes all features up to version 2.54
 - Android 7+ and arm64-v8a only. For older devices download the apk from Github 
 
----
-<a name="older"></a>
-### *Older versions*
 
-## [2.25] - 2025-07-11 (Agnihotra times)
-
-- Without atmospheric refraction and with poorer zoom capability
-- Optional display of Agnihotra times on the dial
-- Fifth page added with local data, bug fixes
-- Android 5+
 
 
 
