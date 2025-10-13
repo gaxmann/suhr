@@ -7,8 +7,8 @@ All notable changes to this project will be documented in this file (tags: Added
 
 ### Changed
 - Automatic generation of android.version_code to be able to revert back to api 21-35 
+- Replacing versionadd file with vs.dat (faster)
 - Restructuring of the settings page
-- Replacing versionadd with vs.dat (faster)
 - Api level 21-35 (Android 5+)
 
 ### Removed
