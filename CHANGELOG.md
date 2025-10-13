@@ -16,16 +16,16 @@ All notable changes to this project will be documented in this file (tags: Added
 - Self generation of version_code to be able to revert back to api 21
 - Replacing versiondat with vs.dat (faster, more reliable)
 - Settings page restructured 
-- Reverting to api 21-35 (Android 5+) to have fewer branches
+- Reverting to api 21-35 (Android 5+) to have fewer branches (finally)
 
 ## [2.54-public] - 2025-10-08
 
 ### Changed
-- Reverted API level back to 23-35 (Android 6+), restoring previous default, because of kivys automatic version_code system 
+- Reverted API level back to 23-35 (Android 6+), restoring previous default, because of kivys automatic version_code system
 
 ### Fixed
 - KeyError font10
-- Android 15+ bars fixed
+- Android 15+ bars fixed (finally!)
 
 ## [2.53-android5] - 2025-10-08 (Legacy Support)
 
