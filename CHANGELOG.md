@@ -3,13 +3,13 @@ All notable changes to this project will be documented in this file (tags: Added
 
 [Here](./WHATSNEW.md) you'll find a short summary of the latest changes. Below you'll find [future versions](#dev) of the app (supporting Android 15+ and 16 kb).
 
-## [2.56] - 2025-10-13
+## [2.56-public] - 2025-10-13
 
 ### Changed
-- Automatic generation of android.version_code to be able to revert back to api 21-35 
+- Own generation of android.version_code to be able to revert back to api 21-35
 - Replacing versionadd with vs.dat (faster)
 - Restructuring of the settings page
-- Api level 21-35 (Android 5+)
+- Reverting to api level 21-35 (Android 5+) to have fewer branches
 
 ## [2.54-public] - 2025-10-08
 
