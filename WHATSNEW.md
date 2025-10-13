@@ -58,28 +58,8 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 - Fifth page added with local data, bug fixes
 - Android 5+
 
-[EOF]
 
-.
 
-.
 
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
 
 
