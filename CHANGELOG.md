@@ -3,7 +3,7 @@ All notable changes to this project will be documented in this file (tags: Added
 
 [Here](./WHATSNEW.md) you'll find a short summary of the latest changes. Below you'll find [future versions](#dev) of the app (supporting Android 15+ and 16 kb).
 
-## [2.56-public] - 2025-10-13 _(Reunification with Android 5)_
+## [2.56-public] - 2025-10-13 _(Reunification 5-15)_
 
 ### Changed
 - Own creation of android.version_code to be able to revert back to api 21(-35)
