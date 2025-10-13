@@ -1,5 +1,5 @@
 # What is new?
-This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll find the detailed changelog. [Below](#future) you find **future (16 kB)** versions of the app.
+This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll find the detailed changelog. See [below](#future) for **future (16 kB)** versions of the app.
 
 ---
 
@@ -17,20 +17,20 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
   
 ## [2.39] - 2025-08-10 (Smaller database) 
 
-- Planet data reduced 
-- Moon improved
-- Bug fixes (Agnihotra rectangle on dial disappearing after midnight)
-
+- Reduced planetary data size
+- Improved moon rendering
+- Bug fixes (Agnihotra rectangle disappearing after midnight)
+  
 ## [2.35] - 2025-07-30 (Better zoom)
 
-- Zoom resolution doubled, triple tap added
-- Telescope design: planet size reduced and bug fixes
+- Zoom resolution doubled, added triple-tap gesture
+- Telescope design: planet size reduced, bug fixes
 
 ## [2.33] - 2025-07-22 (Atmospheric refraction)
 
-- Atmospheric refraction added (altitude and temperature support added)
+- Atmospheric refraction added (altitude and temperature support)
 - Improved handling of location determination (Agnihotra)
-- Faster dial creation and bug fixes
+- Faster dial creation, bug fixes
 - Standard design is now Telescope
 - Android 6+
 
@@ -43,7 +43,7 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 
 ## [3.0-dev] - 2025-10-12 (Transparent bars) 
 - Navigation and status bars now transparent on Android 15+
-- Slightly slower performance for 4 kB devices 
+- Slightly slower performance on 4 kB devices 
 - Android 7+ and arm64-v8a only. For older devices download the apk from Github 
 
 ---
@@ -52,9 +52,9 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 
 ## [2.25] - 2025-07-11 (Agnihotra times)
 
-- Without atmospheric refraction and without detailed zoom
+- Without atmospheric refraction and with poorer zoom
 - Optional display of Agnihotra times on the dial
-- Fifth page added with local data and bug fixes
+- Fifth page added with local data, bug fixes
 - Android 5+
 
 
