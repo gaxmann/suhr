@@ -5,10 +5,9 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 
 ## [2.56] - 2025-10-13 (Bar handling)
 - Bar handling on Android 15+ fixed
-- Telescope design: smaller star symbols
-- Restructured settings page
-- Bug fixes (max altitude with bars, line spacing, GrapheneOS, Aurora & Apkpure install, no attribute clockscreen, update check for devices installed via apk)
+- Telescope design: smaller star symbols, restructured settings page
 - Reverted Android 5+ support
+- Bug fixes (max altitude with bars, line spacing, GrapheneOS, Aurora & Apkpure install, no attribute clockscreen, update check for devices installed via apk)
 
 ## [2.42] - 2025-08-29 (Update prompt) 
 
@@ -31,7 +30,6 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 - Atmospheric refraction added (altitude and temperature support)
 - Improved handling of location determination (Agnihotra)
 - Faster dial creation, bug fixes
-- Standard design is now Telescope
 - Android 6+
 
 ---
