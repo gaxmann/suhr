@@ -44,7 +44,7 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 ---
 ---
 <a name="future"></a>
-# Future versions (dev) 
+# Future versions
 
 ### *Android 7+ (arm64-v8a only)*
 
