@@ -4,6 +4,7 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 ---
 
 ## [2.56] - 2025-10-13 (Bar handling)
+
 - Bar handling on Android 15+ fixed
 - Telescope design: smaller star symbols, restructured settings page
 - Reverted Android 5+ support, update check for devices installed via apk
@@ -23,7 +24,7 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 ## [2.35] - 2025-07-30 (Better zoom)
 
 - Zoom resolution doubled, added triple-tap gesture
-- Telescope design: planet size reduced, bug fixes
+- Bug fixes
 
 ## [2.33] - 2025-07-22 (Atmospheric refraction)
 
