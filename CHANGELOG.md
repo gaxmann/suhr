@@ -9,6 +9,14 @@ All notable changes to this project will be documented in this file (tags: Added
 - Restructuring of the settings page
 - Replacing versionadd with vs.dat (faster) 
 
+### Reverted
+- All experimentation with development packages 
+
+## [2.55-dev] - 2025-10-10
+
+### Changed
+- Experimentation with development packages for V3.0
+
 ## [2.54-public] - 2025-10-08
 
 ### Changed
