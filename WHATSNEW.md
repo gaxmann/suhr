@@ -36,9 +36,9 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 
 ---
 ---
-
-# Older and future versions 
 <a name="future"></a>
+# Older and future versions 
+
 ### *Android 7+ (arm64-v8a only)*
 
 ## [3.0-dev] - 2025-10-12 (Transparent bars) 
