@@ -48,7 +48,7 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 
 ---
 <a name="older"></a>
-### *Older version*
+### *Older versions*
 
 ## [2.25] - 2025-07-11 (Agnihotra times)
 
@@ -56,5 +56,29 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 - Optional display of Agnihotra times on the dial
 - Fifth page added with local data, bug fixes
 - Android 5+
+
+[EOF]
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
 
 
