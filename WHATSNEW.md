@@ -8,7 +8,7 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 - Telescope design: smaller star symbols
 - Restructured settings page
 - Bug fixes (max altitude with bars, line spacing, GrapheneOS, Aurora & Apkpure install, no attribute clockscreen, update check for devices installed via apk)
-- Android 5+ support
+- Reverted Android 5+
 
 ## [2.42] - 2025-08-29 (Update prompt) 
 
