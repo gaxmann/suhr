@@ -11,9 +11,6 @@ All notable changes to this project will be documented in this file (tags: Added
 - Restructuring of the settings page
 - Api level 21-35 (Android 5+)
 
-### Removed
-- All experimentation with development packages 
-
 ## [2.54-public] - 2025-10-08
 
 ### Changed
