@@ -5,6 +5,11 @@ All notable changes to this project will be documented in this file (tags: Added
 
 ---
 
+## [2.57] - 2025-10-xx
+
+### Changed
+- Changes from 3.0 incorporated to give both versions the same basis
+
 ## [2.56-public] - 2025-10-13 
 
 ### Changed
