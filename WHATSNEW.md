@@ -53,7 +53,7 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 
 ## [2.25] - 2025-07-11 (Agnihotra times)
 
-- Without atmospheric refraction and with poorer zoom
+- Without atmospheric refraction and with poorer zoom capability
 - Optional display of Agnihotra times on the dial
 - Fifth page added with local data, bug fixes
 - Android 5+
