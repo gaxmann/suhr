@@ -24,8 +24,8 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 ## [2.35] - 2025-07-30 (Better zoom)
 
 - Zoom resolution doubled, added triple-tap gesture
-- Bug fixes
-
+- Telescope design: planet size reduced and bug fixes
+  
 ## [2.33] - 2025-07-22 (Atmospheric refraction)
 
 - Atmospheric refraction added (altitude and temperature support)
