@@ -3,12 +3,17 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 
 ---
 
-## [2.56] - 2025-10-13 (Bar handling)
+## [2.56] - 2025-10-13 (Legacy support)
+
+- Code restructuring
+- Restructured settings page
+- Android 5+ support
+
+## [2.54] - 2025-10-13 (Bar handling)
 
 - Bar handling on Android 15+ fixed
-- Telescope design: smaller star symbols, restructured settings page
+- Telescope design: smaller star symbols
 - Bug fixes (max alt with bars, line spacing, GrapheneOS, Aurora & Apkpure, no attr clockscreen)
-- Android 5+ support
 
 ## [2.42] - 2025-08-29 (Update prompt) 
 
