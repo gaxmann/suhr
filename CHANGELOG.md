@@ -26,15 +26,15 @@ All notable changes to this project will be documented in this file (tags: Added
 ### Fixed
 - KeyError font10
 - Android 15+ bars fixed (finally, since 2025-07-03)
-
-## _[2.53-android5] - 2025-10-08 (Legacy version)_
+<div style="margin-left: 20px;">
+## [2.53-android5] - 2025-10-08 (Legacy version)
 
 ### Changed
 - Special build **(not for Play Store)** for API 21-34 ([Android 5+](https://github.com/gaxmann/suhr/releases/tag/v2.xxx)) due to the unavoidable, upcoming Android 7+ requirement 
 
 ### Fixed
 - KeyError font10
-
+</div>
 ## [2.52-public] - 2025-10-06
 
 ### Changed
