@@ -3,7 +3,7 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 
 ---
 
-## [2.56...] - 2025-10-13 (Legacy support)
+## [2.56] - 2025-10-13 (Legacy support)
 
 - Code restructuring
 - Settings page reorganised  
