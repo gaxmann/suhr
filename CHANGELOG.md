@@ -25,7 +25,7 @@ All notable changes to this project will be documented in this file (tags: Added
 
 ### Fixed
 - KeyError font10
-- Android 15+ bars fixed (finally!)
+- Android 15+ bars fixed (finally! since 2025-07-03)
 
 ## _[2.53-android5] - 2025-10-08 (Legacy Support)_
 
