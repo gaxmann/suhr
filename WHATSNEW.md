@@ -6,12 +6,12 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 ## [2.56] - 2025-10-13 (Legacy support)
 
 - Code restructuring
-- Restructured settings page
+- Settings page reorganised  
 - Android 5+ support
 
 ## [2.54] - 2025-10-13 (Bar handling)
 
-- Bar handling on Android 15+ fixed
+- Fixed handling of system bars on Android 15+  
 - Telescope design: smaller star symbols
 - Bug fixes (max alt with bars, line spacing, GrapheneOS, Aurora & Apkpure, no attr clockscreen)
 
@@ -28,7 +28,7 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
   
 ## [2.35] - 2025-07-30 (Better zoom)
 
-- Zoom resolution doubled, added triple-tap gesture
+- Zoom resolution doubled, triple-tap gesture added
 - Telescope design: planet size reduced, bug fixes
   
 ## [2.33] - 2025-07-22 (Atmospheric refraction)
@@ -52,7 +52,7 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 
 ### *Android 7+ (arm64-v8a only)*
 
-## [3.0-dev] - 2025-10-12 (Transparent bars) 
+## [3.0-dev] - 2025-10-12 (Modern Features|Transparent bars) 
 - Navigation and status bars now transparent on Android 15+
 - Slightly slower performance on 4 kB devices
 - Includes all features up to version 2.54
