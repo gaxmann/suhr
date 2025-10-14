@@ -18,7 +18,7 @@ All notable changes to this project will be documented in this file (tags: Added
 - Settings page restructured 
 - Reverting to api 21-35 (Android 5+) to have fewer branches
 
-## [2.54-public] - 2025-10-08
+## [2.54-public] - 2025-10-08 (16 kB preparation)
 
 ### Changed
 - Reverted API level back to 23-35 (Android 6+), restoring previous default, because of kivys automatic version_code system
