@@ -15,7 +15,7 @@ All notable changes to this project will be documented in this file (tags: Added
 ### Changed
 - Custom version_code generation to be able to revert back to api 21
 - Replacing versiondat with vs.dat (faster, more reliable)
-- Settings page restructured 
+- Settings page restructured (because swiping between pages kept changing settings)
 - Reverting to api 21-35 (Android 5+) to have fewer branches
 
 ## [2.54-public] - 2025-10-08
