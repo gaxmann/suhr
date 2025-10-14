@@ -10,7 +10,7 @@ All notable changes to this project will be documented in this file (tags: Added
 ### Changed
 - Changes from 3.0-dev incorporated to give both versions the same basis
 
-## [2.56-public] - 2025-10-13 (16 kB preparation)
+## [2.56-public] - 2025-10-13 (Api cleanup)
 
 ### Changed
 - Self generation of version_code to be able to revert back to api 21
