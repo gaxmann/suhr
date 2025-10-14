@@ -9,7 +9,7 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 - Settings page reorganised  
 - Android 5+ support
 
-## [2.54] - 2025-10-13 (Bar handling)
+## [2.54] - 2025-10-08 (Bar handling)
 
 - Fixed handling of system bars on Android 15+  
 - Telescope design: smaller star symbols
