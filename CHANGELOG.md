@@ -77,7 +77,7 @@ All notable changes to this project will be documented in this file (tags: Added
 ## [2.46-public] - 2025-09-17 (Bar handling)
 
 ### Changed
-- Error corrections: bars hid content on Android 15+
+- Temporary error corrections: bars hid content on Android 15+
 - Moon image moved to design dir
 
 ## [2.45-public] - 2025-09-14
