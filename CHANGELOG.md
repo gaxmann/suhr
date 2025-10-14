@@ -10,7 +10,7 @@ All notable changes to this project will be documented in this file (tags: Added
 ### Changed
 - Changes from 3.0-dev incorporated to give both versions the same basis
 
-## [2.56-public] - 2025-10-13 
+## [2.56-public] - 2025-10-13 (16 kB preparation)
 
 ### Changed
 - Self generation of version_code to be able to revert back to api 21
@@ -18,7 +18,7 @@ All notable changes to this project will be documented in this file (tags: Added
 - Settings page restructured 
 - Reverting to api 21-35 (Android 5+) to have fewer branches
 
-## [2.54-public] - 2025-10-08 (16 kB preparation)
+## [2.54-public] - 2025-10-08
 
 ### Changed
 - Reverted API level back to 23-35 (Android 6+), restoring previous default, because of kivys automatic version_code system
