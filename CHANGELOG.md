@@ -10,7 +10,7 @@ All notable changes to this project will be documented in this file (tags: Added
 ### Changed
 - Changes from 3.0-dev (api 24+) incorporated to give both branches the same code basis
 
-## [2.56-public] - 2025-10-13 (api cleanup)
+## [2.56-public] - 2025-10-13 (Api cleanup)
 
 ### Changed
 - Custom version_code generation to be able to revert back to api 21
