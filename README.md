@@ -25,7 +25,7 @@ You are most welcome to...
 - 3.2. four design zones: (i) day (>6°) | (ii) civil twilight (-0.8333...-6°) | (iii) nautical twilight (-6...-12°) | (iv) night (<-12°) - the differences between nautical twilight and night should be almost imperceptible
 - 3.3. three design zones: (i) day (>-0.8333°) | (ii) twilight (-0.8333...-6°) | (iii) night (<-6°)
 
-You can find the compact changelog [here](./WHATSNEW.md) - and the detailed changelog [here](./CHANGELOG.md). Furthermore you will find a few of the files of the Sun Clock app. 
+You can find the compact changelog [here](./WHATSNEW.md) - and the detailed changelog [here](./CHANGELOG.md). Furthermore you will find some files of the Sun Clock app. 
 
 Enjoy using Sun Clock
 
