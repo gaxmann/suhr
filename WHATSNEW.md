@@ -41,9 +41,29 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 
 <!-- - Without atmospheric refraction and with poorer zoom capability-->
 - Optional display of Agnihotra times on the dial
-- Fifth page added with local data, bug fixes
+- Dial zoomable
+- Fifth page added with local data, bug fixes (time zone could not be changed)
 - Android 5+
-  
+
+## [2.21] - 2025-07-04 (Chinese language)
+
+- Chinese language added
+- Gradle dependencies reduced
+- Upgrade to Api 35 (resulting in Android 15+ bar problems up to 2.54)
+- Bad "unknown language" bug fixed and others
+
+## [2.18] - 2025-06-29 (Telescope design)
+
+- Telescope design added (to all languages)
+- French language added
+
+## [2.15] - 2025-06-24 (Initial publication)
+
+- Initial Android publication (on Play Store)
+- Google adds CHECK_LICENSE (which handicaped people on Aurora and Apkpure)
+- Android 5+
+
+
 ---
 ---
 <a name="future"></a>
