@@ -8,12 +8,12 @@ All notable changes to this project will be documented in this file (tags: Added
 ## [2.57] - 2025-10-xx
 
 ### Changed
-- Changes from 3.0-dev (api 24+) incorporated to give both branches the same code basis
+- Changes from 3.0-dev (api 24-35) incorporated to give both branches the same code basis
 
 ## [2.56-public] - 2025-10-13 (Api cleanup)
 
 ### Changed
-- Custom version_code generation to be able to revert back to api 21
+- Custom version_code generation to be able to revert back to min. api 21
 - Replacing versiondat with vs.dat (faster, more reliable)
 - Settings page restructured (because swiping between pages kept changing settings)
 - Reverting to api 21-35 (Android 5+) to have fewer branches
@@ -189,7 +189,7 @@ All notable changes to this project will be documented in this file (tags: Added
 - location update improved,
 - Update button also updates location,
 - "Display Agnihotra" use GPS instead of network for more location accuracy
-- Min. api 23 (Android 6+)
+- Api 23-35 (Android 6+)
 
 ## [2.29] - 2025-07-18
 
@@ -218,7 +218,7 @@ All notable changes to this project will be documented in this file (tags: Added
 
 ### Changed
 - Update button now also retrieves GPS (if active),
-- Min. api 24 (Android 7+)
+- Api 24-35 (Android 7+)
 
 ## [2.25-public] - 2025-07-11 (Agnihotra times)
 
@@ -470,7 +470,7 @@ All notable changes to this project will be documented in this file (tags: Added
 - Displays digital time
 - Added sun, moon and Sirius
 - Added coarse location query
-- Min. api 21 (Android 5+)
+- Api 21-34 (Android 5+)
 
 ## [1.0 - 1.73] - 2019-11..2025
 
@@ -484,9 +484,9 @@ All notable changes to this project will be documented in this file (tags: Added
 
 ### Changed
 - Navigation and status bars now transparent on Android 15+
-- Slightly slower performance on 4 kB devices
+- Background calculations take longer on 4 kB devices (25%)
 - Includes all features up to version 2.54
-- Min. api 24 (Android 7+) and arm64-v8a only, because of 16 kB memory pages and new numpy version 
+- Api 24-35 (Android 7+) and arm64-v8a only, because of 16 kB memory pages and new numpy version 
 
 
 
