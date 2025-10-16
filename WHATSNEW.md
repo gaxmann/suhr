@@ -38,19 +38,19 @@ Short summary of the latest changes. [Detailed changelog](./CHANGELOG.md) | [Fut
 - Zoomable dial, fifth page for local data
 - Bug fixes (time zone change issue)
 
-## [2.21] - 2025-07-04 (Chinese language)
-
-- Chinese language added
-- Api 35 upgrade (Android 15+ bar issues until 2.54)
-- Bug fixes(!) (unknown language error)
-
-## [2.18] - 2025-06-29 (Telescope design)
-
-- Telescope design added, French language added, bug fixes
-
-## [2.15] - 2025-06-24 (Initial release)
-
-- Initial Android release (on Play Store) with German, English and Spanish, Android 5+
+> ## [2.21] - 2025-07-04 (Chinese language)
+> 
+> - Chinese language added
+> - Api 35 upgrade (Android 15+ bar issues until 2.54)
+> - Bug fixes(!) (unknown language error)
+> 
+> ## [2.18] - 2025-06-29 (Telescope design)
+> 
+> - Telescope design added, French language added, bug fixes
+> 
+> ## [2.15] - 2025-06-24 (Initial release)
+> 
+> - Initial Android release (on Play Store) with German, English and Spanish, Android 5+
 
 ---
 
