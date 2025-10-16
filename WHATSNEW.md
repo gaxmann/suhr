@@ -5,20 +5,16 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 
 ## [2.56] - 2025-10-13 (Legacy support)
 
-- Code restructuring
-- Settings page reorganised  
-- Android 5+ support restored
+- Code restructuring, Android 5+ support restored
 
 ## [2.54] - 2025-10-08 (Bar handling)
 
 - Fixed handling of system bars on Android 15+  
-- Telescope design: smaller star symbols
-- Lots of bug fixes (max alt with bars, line spacing, GrapheneOS, Aurora & Apkpure, no attr clockscreen)
+- Lots of bug fixes (max alt and bars, line spacing, GrapheneOS, Aurora & Apkpure, no attr clockscreen)
 
 ## [2.42] - 2025-08-29 (Update prompt) 
 
-- "Update available" message shown on dial for devices running 24/7 (checked weekly)
-- Bug fixes (popup, duplicate hour on dial in NZ)
+- "Update available" message shown on dial for devices running 24/7, bug fixes
   
 ## [2.39] - 2025-08-10 (Smaller database) 
 
@@ -26,8 +22,7 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
   
 ## [2.35] - 2025-07-30 (Better zoom)
 
-- Zoom resolution doubled, triple-tap gesture added
-- Telescope design: planet size reduced, bug fixes
+- Dial zoom resolution doubled (triple-tap added), bug fixes
   
 ## [2.33] - 2025-07-22 (Atmospheric refraction)
 
@@ -37,9 +32,8 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 
 ## [2.25] - 2025-07-11 (Agnihotra times)
 
-<!-- - Without atmospheric refraction and with poorer zoom capability-->
-- Optional display of Agnihotra times
-- Dial zoomable, fifth page added (local data)
+- Agnihotra times can now be displayed
+- Dial zoomable, fifth page added for local data
 - Bug fixes (time zone could not be changed)
 
 ## [2.21] - 2025-07-04 (Chinese language)
@@ -50,13 +44,11 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 
 ## [2.18] - 2025-06-29 (Telescope design)
 
-- Telescope design added
-- French language added, bug fixes
+- Telescope design added, French language added, bug fixes
 
 ## [2.15] - 2025-06-24 (Initial release)
 
-- Initial Android release (on Play Store)
-- Android 5+
+- Initial Android release (on Play Store), Android 5+
 
 
 ---
