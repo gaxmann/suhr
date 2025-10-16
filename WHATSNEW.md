@@ -13,7 +13,7 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 
 - Fixed handling of system bars on Android 15+  
 - Telescope design: smaller star symbols
-- Bug fixes (max alt with bars, line spacing, GrapheneOS, Aurora & Apkpure, no attr clockscreen)
+- Lots of bug fixes (max alt with bars, line spacing, GrapheneOS, Aurora & Apkpure, no attr clockscreen)
 
 ## [2.42] - 2025-08-29 (Update prompt) 
 
