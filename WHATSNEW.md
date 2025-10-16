@@ -50,8 +50,7 @@ Short summary of the latest changes. [Detailed changelog](./CHANGELOG.md) | [Fut
 
 ## [2.15] - 2025-06-24 (Initial release)
 
-- Initial Android release (on Play Store) with support for German, English and Spanish
-- Android 5+
+- Initial Android release (on Play Store) featuring German, English and Spanish, Android 5+
 
 ---
 
