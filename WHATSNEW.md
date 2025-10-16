@@ -42,7 +42,7 @@ Short summary of the latest changes. [Detailed changelog](./CHANGELOG.md) | [Fut
 
 - Chinese language added
 - Api 35 upgrade (Android 15+ bar issues until 2.54)
-- Bug fixes ("unknown language" error)!
+- Bug fixes (severe "unknown language" error)
 
 ## [2.18] - 2025-06-29 (Telescope design)
 
