@@ -1,6 +1,6 @@
 # Gordon's Sun Clock
 
-![Sun Clock Preview](design/preview-day.jpg) *[oder ein anderes Design-Beispiel]*
+![Sun Clock Preview](res/icon.png) *[oder ein anderes Design-Beispiel]*
 
 **‘Gordon's Sun Clock’ is essentially a single-hand watch with a dial that changes daily, based on the rhythms of nature and the stars. It shows the position of the sun and the starry sky. It is a new way of displaying time that is not artificial like our normal clocks (with railway time and daylight saving time), but moves in harmony with the seasons.**
 
