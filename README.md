@@ -81,7 +81,7 @@ Create new images of celestial bodie or assets (if original or properly licensed
 
 If you enjoy Sun Clock, please consider:
 - Telling others about it
-- [Leaving a positive review](https://play.google.com/store/apps/details?id=de.ax12.zunclock)
+- Leaving a positive review
 
 Enjoy using Sun Clock ☀️
 
