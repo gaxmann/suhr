@@ -19,8 +19,7 @@ Short summary of the latest changes. [Here](./CHANGELOG.md) you'll find the deta
   
 ## [2.39] - 2025-08-10 (Smaller database) 
 
-- Reduced planetary data size
-- Improved moon, bug fixes 
+- Reduced planetary data size, improved moon, bug fixes 
   
 ## [2.35] - 2025-07-30 (Better zoom)
 
@@ -36,7 +35,7 @@ Short summary of the latest changes. [Here](./CHANGELOG.md) you'll find the deta
 
 - Agnihotra times now displayable
 - Zoomable dial, fifth page for local data
-- Bug fixes (time zone change issue), Android 5+
+- Bug fixes (time zone change issue), Android 5+ (Android 15+ bar issues until 2.54)
 
 <!-- > ## [2.21] - 2025-07-04 (Chinese language)
 > 
@@ -50,7 +49,7 @@ Short summary of the latest changes. [Here](./CHANGELOG.md) you'll find the deta
 > 
 > ## [2.15] - 2025-06-24 (Initial release)
 > 
-> - Initial Android release (on Play Store) with German, English and Spanish, Android 5+-->
+> - Initial Android release (on Play Store) with German, English and Spanish, Android 5+ (unknown language issue(!) until 2.21)-->
 
 ---
 
@@ -61,8 +60,9 @@ Short summary of the latest changes. [Here](./CHANGELOG.md) you'll find the deta
 
 ## [3.0-dev] - 2025-10-12 (Transparent bars) 
 - Navigation and status bars now transparent on Android 15+
-- Background calculations 25% slower on 4 kB devices
-- All features from 2.54, Android 7+, 16 kB page support, arm64-v8a only
+- Background calculations 25% slower on 4 kB devices, on 16 kB devices maybe faster
+- All features from 2.54
+- Android 7+, 16 kB page support, arm64-v8a only
 
 
 
