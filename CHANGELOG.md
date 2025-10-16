@@ -316,7 +316,7 @@ All notable changes to this project will be documented in this file (tags: Added
 - Designs cleaned up (added Telescope in 'de', removed test designs)
 
 ### Fixed
-- Timezone might not have been saved
+- Time zone might not have been saved
 
 ## [2.14] - 2025-06-23
 
