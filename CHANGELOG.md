@@ -200,7 +200,7 @@ All notable changes to this project will be documented in this file (tags: Added
 - White window fix Window.update_viewport,
 - Improved location request, 
 
-## [2.27+28] - 2025-07-17
+## [2.27/28] - 2025-07-17
 
 ### Changed
 - Painting of dial sped up (only one file),
