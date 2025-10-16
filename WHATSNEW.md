@@ -52,7 +52,7 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 
 ## [2.18] - 2025-06-29 (Telescope design)
 
-- Telescope design added (in all languages)
+- Telescope design added in every language
 - French language added, bug fixes
 
 ## [2.15] - 2025-06-24 (Initial release)
