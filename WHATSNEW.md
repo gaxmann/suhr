@@ -40,7 +40,7 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 ## [2.25] - 2025-07-11 (Agnihotra times)
 
 <!-- - Without atmospheric refraction and with poorer zoom capability-->
-- Optional display of Agnihotra times on the dial
+- Optional display of Agnihotra times
 - Dial now zoomable
 - Fifth page added with local data, bug fixes (time zone could not be changed)
 
