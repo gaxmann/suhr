@@ -5,7 +5,7 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 
 ## [2.56] - 2025-10-13 (Legacy support)
 
-- Code restructuring (anticipating 16 kB requirements)
+- Code restructuring (anticipating new library requirements)
 - Android 5+ support restored
 
 ## [2.54] - 2025-10-08 (Bar handling)
