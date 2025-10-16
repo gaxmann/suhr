@@ -41,7 +41,7 @@ The dictionary also contains entries to help with correct word separation in you
         "nü",
     ],
     "graph_dontseparateafter": [
-        "nb"
+        "nb",
     ],
     "graph_separateafter": [],
 
