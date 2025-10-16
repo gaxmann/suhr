@@ -46,14 +46,14 @@ The app is also known as: astronomical clock, astronomy app, horologium, horolog
 
 ## Contributing
 
-You're welcome to contribute in these areas:
+The source code is not (yet) public, but you're welcome to contribute in these areas:
 
 ### 1. Design Proposals
 Submit new visual designs for the dial. A design consists of either:
 - **(a)** Three to five hex RGB color codes, or
 - **(b)** Three to five stacked images (ideally, the two large images are ~1000 × 1000 px)
 
-I love art that preserves values and uplifts the spirit (e.g., Monet, Turner, Klee, van Gogh, Brueghel, Macke, Liebermann, Gauguin, Cézanne, Rousseau, Courbet). Please ensure any submissions are original work or properly licensed.
+I love art that preserves values and uplifts the spirit (e.g., Monet, Turner, Klee, van Gogh, Brueghel, Macke, Liebermann, Gauguin, Cézanne, Rousseau, Courbet), but I don't dare to use other people's photos of it.
 
 **Design zones guide:**
 - **5 zones**: day (>6°) | sunset (6...–0.8333°) | civil twilight (–0.8333...–6°) | nautical twilight (–6...–12°) | night (<–12°)
