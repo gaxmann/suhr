@@ -1,5 +1,5 @@
 # What is new?
-Short summary of the latest changes. [Here](./CHANGELOG.md) you'll find the detailed changelog. See [future versions](#future) (16 kB) below.
+Short summary of the latest changes. – [Here](./CHANGELOG.md) you'll find the detailed changelog. See [future versions](#future) (16 kB) below.
 
 ---
 
