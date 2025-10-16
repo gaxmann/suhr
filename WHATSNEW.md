@@ -59,7 +59,6 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 ## [2.15] - 2025-06-24 (Initial release)
 
 - Initial Android release (on Play Store)
-- Google adds CHECK_LICENSE up to 2.54 (which handicapped users on Aurora and APKPure)
 - Android 5+
 
 
