@@ -4,7 +4,7 @@
 
 ## Why?
 
-I was dissatisfied with standard time, recurring time changes, and the fact that 12 o'clock is usually not noon. My solution: an organic dial that shows the sun's actual position and path, when it's truly noon, and when the sun disappears below the horizon – all calculated for your individual location.
+I was dissatisfied with standard time, the recurring time changes and the fact that 12 o'clock is usually not noon. My solution: an organic dial that shows the sun's actual position and path, when it's truly noon, and when the sun disappears below the horizon – all calculated for your individual location.
 
 **Reconnect to your local, natural time.**
 
