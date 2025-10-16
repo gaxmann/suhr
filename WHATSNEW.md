@@ -47,7 +47,6 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 ## [2.21] - 2025-07-04 (Chinese language)
 
 - Chinese language added
-- Gradle dependencies reduced
 - Upgraded to API 35 (causing Android 15+ bar issues up to 2.54)
 - Bug fixes (bad "unknown language" error)
 
