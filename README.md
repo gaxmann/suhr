@@ -21,7 +21,7 @@ The app is free, shows no ads, and collects no data. It's simply a gift from me 
 
 - **Accurate solar positioning**: Calculations match astronomical almanac to 0.0005 arc seconds (powered by Skyfield)
 - **Single-hand design**: Simple, elegant, intuitive
-- **Location-based**: Automatically adjusts to your coordinates (enter them or use location determination)
+- **Location-based**: Automatically adjusts to your coordinates (manual input or location detection)
 - **Offline capable**: No internet required after first setup
 - **Tablet mode**: Hang on your wall as a living clock
 - **Free & open**: No ads, no tracking, no data collection
