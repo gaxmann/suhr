@@ -5,13 +5,13 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 
 ## [2.56] - 2025-10-13 (Legacy support)
 
-- Code restructuring
+- Code restructuring (for future requirements)
 - Android 5+ support restored
 
 ## [2.54] - 2025-10-08 (Bar handling)
 
 - Fixed handling of system bars on Android 15+  
-- Lots of bug fixes (max alt and bars, line spacing, GrapheneOS, Aurora & Apkpure, no attr clockscreen)
+- Bug fixes (line spacing, GrapheneOS, Aurora & Apkpure, max alt and bars, no attr clockscreen)
 
 ## [2.42] - 2025-08-29 (Update prompt) 
 
@@ -24,7 +24,7 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
   
 ## [2.35] - 2025-07-30 (Better zoom)
 
-- Dial zoom resolution doubled (triple-tap added), bug fixes
+- Zoom resolution doubled (triple-tap added), bug fixes
   
 ## [2.33] - 2025-07-22 (Atmospheric refraction)
 
