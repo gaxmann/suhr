@@ -5,7 +5,8 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 
 ## [2.56] - 2025-10-13 (Legacy support)
 
-- Code restructuring, Android 5+ support restored
+- Code restructuring
+- Android 5+ support restored
 
 ## [2.54] - 2025-10-08 (Bar handling)
 
@@ -18,7 +19,8 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
   
 ## [2.39] - 2025-08-10 (Smaller database) 
 
-- Reduced planetary data size, improved moon, bug fixes 
+- Reduced planetary data size
+- Improved moon, bug fixes 
   
 ## [2.35] - 2025-07-30 (Better zoom)
 
