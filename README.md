@@ -1,12 +1,12 @@
 # Gordon's Sun Clock
 
-**A single-hand watch with a dial that changes daily, based on the rhythms of nature and the stars. It shows the position of the sun and the starry sky – a new way of displaying time that moves in harmony with the seasons.**
+<img src="res/icon.png" width="48" height="48" align="right">**A single-hand watch with a dial that changes daily, based on the rhythms of nature and the stars. It shows the position of the sun and the starry sky – a new way of displaying time that moves in harmony with the seasons.**
 
 ## Why?
 
 I was dissatisfied with standard time, recurring time changes, and the fact that 12 o'clock is usually not noon. My solution: an organic dial that shows the sun's actual position and path, when it's truly noon, and when the sun disappears below the horizon – all calculated for your individual location.
 
-<img src="res/icon.png" width="48" height="48" align="right">**Reconnect to your local, natural time.**
+**Reconnect to your local, natural time.**
 
 The app is free, shows no ads, and collects no data. It's simply a gift from me to the world.
 
