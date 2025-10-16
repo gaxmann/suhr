@@ -52,9 +52,8 @@ Short summary of the latest changes. [Detailed changelog](./CHANGELOG.md) | [Fut
 
 - Initial Android release (on Play Store), Android 5+
 
+---
 
----
----
 <a name="future"></a>
 # Future versions
 
