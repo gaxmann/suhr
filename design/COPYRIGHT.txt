@@ -73,7 +73,11 @@ File(s): sf.jpg
 Notes: Original own work, no redistribution without permission
 
 
-
+Processing Animation
+--------------------
+License: Public Domain / Free to use
+File(s): processing.gif
+Notes: No attribution required
 
 
 ================================================================================
