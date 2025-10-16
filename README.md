@@ -13,7 +13,7 @@ The app is free, shows no ads, and collects no data. It's simply a gift from me 
 ## Download
 
 - **[Google Play store](https://play.google.com/store/apps/details?id=de.ax12.zunclock)** (with automatic updates)
-- **_Aurora store]_** (with automatic updates - no link possible, please search for Gordon's Sun Clock)
+- **_Aurora store_** (with automatic updates - search for "Gordon's Sun Clock" as direct linking is not available)
 - **[GitHub releases](https://github.com/gaxmann/suhr/releases/tag/v2.xxx)** (apk downloads)
 - **[APKPure](https://apkpure.com/de/gordon%E2%80%99s-sun-clock/de.ax12.zunclock)** (alternative)
 
