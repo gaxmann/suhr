@@ -7,7 +7,7 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 
 - Code restructuring
 - Settings page reorganised  
-- Android 5+ support
+- Android 5+ support restored
 
 ## [2.54] - 2025-10-08 (Bar handling)
 
