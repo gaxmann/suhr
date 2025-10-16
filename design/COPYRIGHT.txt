@@ -53,16 +53,6 @@ License: Public Domain
 Notes: Public domain images from government and international space agencies
 
 
-Own Artwork
---------------------
-Title: Watercolor painting (sf.jpg)
-Author: Gordon's Sun Clock
-Source: Original artwork - hand-painted watercolor, scanned
-License: Copyright © - All rights reserved
-File(s): sf.jpg
-Notes: Original own work, no redistribution without permission
-
-
 Planetary Symbols
 --------------------
 Title: Planetary symbols
@@ -77,6 +67,27 @@ Processing Animation
 License: Public Domain / Free to use
 File(s): processing.gif
 Notes: No attribution required
+
+
+Own Artwork
+--------------------
+Title: Watercolor painting (sf.jpg)
+Author: Gordon's Sun Clock
+Source: Original artwork - hand-painted watercolor, scanned
+License: Copyright © - All rights reserved
+File(s): sf.jpg
+Notes: Original own work, no redistribution without permission
+
+
+Code (baby-lights)
+--------------------
+Title: baby-lights (Code snippet ~150 lines, slightly modified)
+Author: Filipe March
+Source: https://github.com/FilipeMarch/baby-lights
+License: MIT License
+License URL: https://opensource.org/licenses/MIT
+Notes: Original code adapted and modified for this project
+Copyright: Filipe March
 
 
 ================================================================================
