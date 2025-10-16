@@ -60,8 +60,8 @@ Short summary of the latest changes. [Here](./CHANGELOG.md) you'll find the deta
 
 ## [3.0-dev] - 2025-10-12 (Transparent bars) 
 - Navigation and status bars now transparent on Android 15+
-- Background calculations 25% slower on 4 kB devices, on 16 kB devices maybe faster
 - All features from 2.54
+- Background calculations 25% slower on 4 kB devices, on 16 kB devices maybe faster
 - Android 7+, 16 kB page support, arm64-v8a only
 
 
