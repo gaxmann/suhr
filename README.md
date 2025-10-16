@@ -17,11 +17,13 @@ Calculations for your location should match the positions in the astronomical al
 P.S. If you like the clock, I would be happy if you would tell others about it - or leave a [positive review](https://play.google.com/store/apps/details?id=de.ax12.zunclock).
 
 ---
+
 <p float="left">
   <img src="/__gitdesign/sunclock_0.png" width="250" />
   <img src="/__gitdesign/tablet.jpg" width="250" />
   <img src="/__gitdesign/eink.jpg" width="250" />
 </p>
+
 ---
 
 You are most welcome to... 
