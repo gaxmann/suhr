@@ -310,7 +310,7 @@ All notable changes to this project will be documented in this file (tags: Added
 - Size ratio in telescope changed
 - Darker gray for below-horizon area in telescope
 
-## [2.15-public] - 2025-06-24 (Initial publication)
+## [2.15-public] - 2025-06-24 (Initial release)
 
 ### Added/Removed
 - Designs cleaned up (added Telescope in 'de', removed test designs)
