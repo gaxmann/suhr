@@ -47,7 +47,7 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 ## [2.21] - 2025-07-04 (Chinese language)
 
 - Chinese language added
-- Upgraded to API 35 (causing Android 15+ bar issues up to 2.54)
+- Upgraded to api 35 (causing Android 15+ bar issues up to 2.54)
 - Bug fixes (bad "unknown language" error)
 
 ## [2.18] - 2025-06-29 (Telescope design)
