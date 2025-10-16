@@ -20,8 +20,8 @@ P.S. If you like the clock, I would be happy if you would tell others about it -
 
 <p float="left">
   <img src="/__gitdesign/sunclock_0.png" width="250" />
-  <img src="/__gitdesign/tablet.jpg" width="250" />
   <img src="/__gitdesign/eink.jpg" width="250" />
+  <img src="/__gitdesign/tablet.jpg" width="250" />
 </p>
 
 ---
