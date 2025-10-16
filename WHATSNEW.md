@@ -41,8 +41,8 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 
 <!-- - Without atmospheric refraction and with poorer zoom capability-->
 - Optional display of Agnihotra times
-- Dial zoomable
-- Fifth page added with local data, bug fixes (time zone could not be changed)
+- Dial zoomable, fifth page added (local data)
+- Bug fixes (time zone could not be changed)
 
 ## [2.21] - 2025-07-04 (Chinese language)
 
