@@ -37,9 +37,9 @@ The app is also known as: astronomical clock, astronomy app, horologium, horolog
 ---
 
 <p float="left">
-  <img src="/__gitdesign/sunclock_0.png" width="250" />
-  <img src="/__gitdesign/tablet.jpg" width="250" />
-  <!-- <img src="/__gitdesign/eink.jpg" width="250" /> -->
+  <img src="__gitdesign/sunclock_0.png" width="250" />
+  <img src="__gitdesign/tablet.jpg" width="250" />
+  <!-- <img src="__gitdesign/eink.jpg" width="250" /> -->
 </p>
 
 ---
@@ -51,7 +51,7 @@ You're welcome to contribute in these areas:
 ### 1. Design Proposals
 Submit new visual designs for the dial. A design consists of either:
 - **(a)** Three to five hex RGB color codes, or
-- **(b)** Three to five stacked images (ideally ideally, the two larger images are ~1000 × 1000 px)
+- **(b)** Three to five stacked images (ideally, the two larger images are ~1000 × 1000 px)
 
 I love art that preserves values and uplifts the spirit (e.g., Monet, Turner, Klee, van Gogh, Brueghel, Macke, Liebermann, Gauguin, Cézanne, Rousseau, Courbet).
 
@@ -112,9 +112,9 @@ P.S. If you like the clock, I would be happy if you would tell others about it -
 ---
 
 <p float="left">
-  <img src="/__gitdesign/sunclock_0.png" width="250" />
-  <img src="/__gitdesign/tablet.jpg" width="250" />
-  <!-- <img src="/__gitdesign/eink.jpg" width="250" /> -->
+  <img src="__gitdesign/sunclock_0.png" width="250" />
+  <img src="__gitdesign/tablet.jpg" width="250" />
+  <!-- <img src="__gitdesign/eink.jpg" width="250" /> -->
 </p>
 
 ---
