@@ -23,8 +23,7 @@ This is a short summary of the latest changes. [Here](./CHANGELOG.md) you'll fin
 ## [2.39] - 2025-08-10 (Smaller database) 
 
 - Reduced planetary data size
-- Improved moon rendering
-- Bug fixes (Agnihotra rectangle disappearing after midnight)
+- Improved moon, bug fixes 
   
 ## [2.35] - 2025-07-30 (Better zoom)
 
