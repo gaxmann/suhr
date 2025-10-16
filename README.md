@@ -66,7 +66,7 @@ I love art that preserves values and uplifts the spirit (e.g., Monet, Turner, Kl
 Contribute translations into new languages or improve existing ones (German is the original).
 
 ### 3. Resources
-Create new images or assets (if original or properly licensed).
+Create new images of celestial bodie or assets (if original or properly licensed).
 
 ---
 
