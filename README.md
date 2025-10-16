@@ -1,6 +1,6 @@
 # Gordon's Sun Clock
 
-**‘Gordon's Sun Clock’ is essentially a single-hand watch with a dial that changes daily, based on the rhythms of nature and the stars. It shows the position of the sun and the starry sky. It is a new way of displaying time that is not artificial like our normal clocks (with railway time and daylight saving time), but moves in harmony with the seasons.**
+<img src="res/icon.png" width="250" height="250" align="left">**‘Gordon's Sun Clock’ is essentially a single-hand watch with a dial that changes daily, based on the rhythms of nature and the stars. It shows the position of the sun and the starry sky. It is a new way of displaying time that is not artificial like our normal clocks (with railway time and daylight saving time), but moves in harmony with the seasons.**
 
 I was quite dissatisfied with standard time, the recurring time changes and the fact that 12 o'clock is usually not noon. My solution: an organic dial. It shows the position and path of the sun, when it is actually noon and when the sun disappears behind the horizon. And it does so for your individual location. Reconnect to your local, natural time.
 
