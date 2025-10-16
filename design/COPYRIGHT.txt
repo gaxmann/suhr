@@ -44,16 +44,6 @@ Notes: Derivative of Bitstream Vera Fonts
 IMAGES & GRAPHICS
 ================================================================================
 
-Planetary Symbols
---------------------
-Title: Planetary symbols
-Author: Gordon's Sun Clock
-Source: Own work, historical astronomical symbols
-License: Public Domain
-File(s): Mercury_symbol.png, Mars_symbol.png, Saturn_symbol.png, Venus_symbol.png, Merkur_symbol.png
-Notes: Resized to 250x250px
-
-
 Images of Celestial Bodies
 --------------------
 Title: Various planetary and solar images
@@ -71,6 +61,15 @@ Source: Original artwork - hand-painted watercolor, scanned
 License: Copyright © - All rights reserved
 File(s): sf.jpg
 Notes: Original own work, no redistribution without permission
+
+
+Planetary Symbols
+--------------------
+Title: Planetary symbols
+Author: Gordon's Sun Clock
+Source: AI-generated / Historical astronomical symbols
+License: Public Domain
+File(s): Mercury_symbol.png, Mars_symbol.png, Saturn_symbol.png, Venus_symbol.png, Merkur_symbol.png
 
 
 Processing Animation
