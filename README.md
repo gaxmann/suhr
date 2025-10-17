@@ -56,7 +56,7 @@ Submit new visual designs for the dial. A design consists of either:
 I love art that preserves values and uplifts the spirit (e.g., Monet, Turner, Klee, van Gogh, Brueghel, Macke, Liebermann, Gauguin, Cézanne, Rousseau, Courbet), but I don't dare to use other people's photos of it.
 
 **Design zones guide:**
-- **5 zones**: day (>6°) | sunset (6...–0.8333°) | civil twilight (–0.8333...–6°) | nautical twilight (–6...–12°) | night (<–12°)
+- **5 zones**: day (>6°) | sunset (6...−0.8333°) | civil twilight (–0.8333...–6°) | nautical twilight (–6...–12°) | night (<–12°)
 - **4 zones**: day (>–0.8333°) | civil twilight (–0.8333...–6°) | nautical twilight (–6...–12°) | night (<–12°)
 - **3 zones**: day (>–0.8333°) | twilight (–0.8333...–6°) | night (<–6°)
 
