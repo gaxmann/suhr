@@ -80,7 +80,7 @@ Create new images of celestial bodies or assets (if original or properly license
 
 ## License
 
-This project is proprietary. See `design/COPYRIGHT.txt` for third-party  licenses and attributions.
+This project currently is proprietary. See `design/COPYRIGHT.txt` for third-party licenses and attributions.
 
 ---
 
