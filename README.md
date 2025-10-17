@@ -71,16 +71,16 @@ Create new images of celestial bodies or assets (if original or properly license
 
 ---
 
+## License
+
+This project currently is proprietary. See `design/COPYRIGHT.txt` for third-party licenses and attributions.
+
+---
+
 ## Changelog
 
 - [Compact changelog](./WHATSNEW.md)
 - [Detailed changelog](./CHANGELOG.md)
-
----
-
-## License
-
-This project currently is proprietary. See `design/COPYRIGHT.txt` for third-party licenses and attributions.
 
 ---
 
