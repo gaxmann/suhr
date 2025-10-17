@@ -46,7 +46,7 @@ The app is also known as: astronomical clock, astronomy app, horologium, horolog
 
 ## Contributing
 
-You're welcome to contribute in these areas:
+The source code is not yet public, but you're welcome to contribute in these areas:
 
 ### 1. Design Proposals
 Submit new visual designs for the dial. A design consists of either:
