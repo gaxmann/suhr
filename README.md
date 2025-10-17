@@ -51,7 +51,7 @@ The source code is not yet public, but you're welcome to contribute in these are
 ### 1. Design Proposals
 Submit new visual designs for the dial. A design consists of either:
 - **(a)** Three to five hex RGB color codes, or
-- **(b)** Three to five stacked images (ideally, the two large images "day  & night" are min. ~1024 × 1024 px if possible)
+- **(b)** Three to five stacked images (ideally, the two large images "day  & night" are min. ~1080 × 1080 px if possible)
 
 I love art that preserves values and uplifts the spirit (e.g., Monet, Turner, Klee, van Gogh, Brueghel, Macke, Liebermann, Gauguin, Cézanne, Rousseau, Courbet), but I don't dare to use other people's photos of it.
 
