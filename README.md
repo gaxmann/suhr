@@ -78,6 +78,12 @@ Create new images of celestial bodies or assets (if original or properly license
 
 ---
 
+## License
+
+This project is proprietary. See `design/COPYRIGHT.txt` for third-party  licenses and attributions.
+
+---
+
 ## Like it?
 
 If you enjoy Sun Clock, please consider:
