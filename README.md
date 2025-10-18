@@ -61,7 +61,7 @@ The differences between nautical twilight and night should be almost imperceptib
 - **4 zones**: day (>–0.8333°) | civil twilight (–0.8333...–6°) | nautical twilight (–6...–12°) | night (<–12°)
 - **3 zones**: day (>–0.8333°) | twilight (–0.8333...–6°) | night (<–6°)
 
-*Note: Send an email before submitting (see last page of the app) – I may not accept all suggestions.*
+*Note: Send an email (see last page of the app) before submitting – I may not accept all suggestions.*
 
 ### 2. Translations
 Contribute translations into new languages or improve existing ones (German is the original).
