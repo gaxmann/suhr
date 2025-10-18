@@ -54,7 +54,7 @@ Short summary of the latest changes. – You'll find the [detailed changelog](./
 ---
 
 <a name="future"></a>
-# Future versions
+# Preview versions
 
 ### *Android 7+ (arm64-v8a only)*
 
