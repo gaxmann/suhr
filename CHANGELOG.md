@@ -18,7 +18,7 @@ All notable changes to this project will be documented in this file (tags: Added
 - Custom version_code generation to be able to revert back to min. api 21
 - Replacing versiondat with vs.dat (faster, more reliable)
 - Settings page restructured (because swiping between pages kept changing settings)
-- Reverting to api 21-35 (Android 5+) to have fewer branches
+- Reverting to api 21-35 (Android 5+) to have fewer branches (which made special version 2.53 redundant)
 
 ## [2.54-public] - 2025-10-08
 
@@ -32,7 +32,7 @@ All notable changes to this project will be documented in this file (tags: Added
 ## [2.53-android5] - 2025-10-08 (Special legacy version)
 
 ### Changed
-- Special build **(not for Play Store)** for api 21-34 ([Android 5+](https://github.com/gaxmann/suhr/releases/tag/v2.xxx)) due to the unavoidable, upcoming Android 7+ requirement 
+- Special build (not for Play Store) for api 21-34 ([Android 5+](https://github.com/gaxmann/suhr/releases/tag/v2.xxx)) due to the unavoidable, upcoming Android 7+ requirement 
 
 ### Fixed
 - KeyError font10
