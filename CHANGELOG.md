@@ -10,6 +10,7 @@ All notable changes to this project will be documented in this file (tags: Added
 ### Changed
 - Changes from 3.0-dev incorporated to give both branches the same code basis
 - Graphical function library tidied up, directories tidied up
+- Copyright file embellished
 
 ## [2.56-public] - 2025-10-13 (Api cleanup)
 
