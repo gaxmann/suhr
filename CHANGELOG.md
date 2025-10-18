@@ -5,10 +5,11 @@ All notable changes to this project will be documented in this file (tags: Added
 
 ---
 
-## [2.57] - 2025-10-xx
+## [2.58] - 2025-10-xx
 
 ### Changed
 - Changes from 3.0-dev incorporated to give both branches the same code basis
+- Graphical function library tidied up, directories tidied up
 
 ## [2.56-public] - 2025-10-13 (Api cleanup)
 
