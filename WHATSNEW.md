@@ -1,5 +1,5 @@
 # What is new?
-Short summary of the latest changes. – You'll find the [detailed changelog](./CHANGELOG.md) here. See [future versions](#future) (16 kB) below.
+Short summary of the latest changes. – You'll find the [detailed changelog](./CHANGELOG.md) here. See [preview versions](#future) (16 kB) below.
 
 ---
 
@@ -58,7 +58,7 @@ Short summary of the latest changes. – You'll find the [detailed changelog](./
 
 ### *Android 7+ (arm64-v8a only)*
 
-## [3.0-dev] - 2025-10-12 (Transparent bars) 
+## [3.0-preview] - 2025-10-12 (Transparent bars) 
 - Navigation and status bars now transparent on Android 15+
 - All features from 2.54
 - Background calculations 25% slower on 4 kB devices, on 16 kB devices maybe faster
