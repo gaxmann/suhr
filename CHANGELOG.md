@@ -9,7 +9,7 @@ All notable changes to this project will be documented in this file (tags: Added
 
 ### Changed
 - Changes from 3.0 incorporated to give both branches the same code basis
-- Graphical function library tidied up, directories tidied up
+- Graphical function library tidied up (GSM), directories tidied up
 - Copyright file polished
 
 ## [2.56-public] - 2025-10-13 (Api cleanup)
