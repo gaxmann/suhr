@@ -1,6 +1,6 @@
 # Kivy Prototype – Historical Reference
 
-**This is an archived prototype from 2025 (v2.0.0-alpha.0.1) and is NOT part of the current Sun Clock.**
+**This is an archived PROTOTYPE from 2025 (v2.0.0-alpha.0.1) and is NOT part of the current Sun Clock.**
 
 ## What is this?
 
@@ -22,7 +22,16 @@ This prototype serves as a **reference for developers** interested in:
 - ❌ Single-hand clock design
 - ❌ The real Sun Clock concept
 
-## The Real Sun Clock
+## How to run it?
+
+- Install kivy pyjnius pillow pytz skyfield numpy jplephem sgp4 olefile via pip(3)
+- Download de421.bsp and put it in the same directory, e.g. from [here](https://naif.jpl.nasa.gov/pub/naif/generic_kernels/spk/planets/a_old_versions/de421.bsp)
+- Download DejaVuSans.ttf and put it in the same directory
+- Run the programme with python(3) main.py
+
+---
+
+## The REAL Sun Clock
 
 The **current production version (V2+)** is available at:
 - **[Play Store](https://play.google.com/store/apps/details?id=de.ax12.zunclock)**
