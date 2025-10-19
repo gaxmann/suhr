@@ -24,7 +24,7 @@ The app is free, shows no ads, and collects no data. It's simply a gift from me 
 - **Location-based**: Automatically adjusts to your coordinates (manual input or location detection)
 - **Offline capable**: No internet required after first setup
 - **Tablet mode**: Hang on your wall as a living clock
-- **Free & open**: No ads, no tracking, no data collection
+- **Free & private**: No ads, no tracking, no data collection
 - **Agnihotra support**: Display precise Agnihotra times with countdown
 - **Multi-language**: Deutsch, English, Español, Français, 中文 - (translations welcome)
 
@@ -46,11 +46,11 @@ Since June 2025 Sun Clock is available as an Android app. The app is also known 
 
 ## Contributing
 
-This repository is used as a content hub for design proposals, asset exchange and apk distribution. The apk files are available under Releases. The main app source is not stored here as a fully public tree yet, but you're welcome to contribute in the following areas:
+This repository is used as a content hub for design proposals, asset exchange and apk distribution. The apk files are available under Releases. The main app source is not publicly available at this time, but you're welcome to contribute in the following areas:
 
 ### 1. Design Proposals
 Submit new visual designs for the dial. A design consists of either:
-- **(a)** Three to five hex RGB color codes, or
+- **(a)** Three to five hex RGB colour codes, or
 - **(b)** Three to five stacked images (ideally, the two large images "day & night" are ~1080×1080 px if possible)
 
 I love art that preserves values and uplifts the spirit (e.g., Claude Monet, J. M. William Turner, Paul Klee, Vincent van Gogh, Pieter Brueghel, August Macke, Max Liebermann, Paul Gauguin, Paul Cézanne, Henri Rousseau, Gustave Courbet), but I don't dare to use other people's photos of it.
@@ -71,11 +71,9 @@ Create new images of celestial bodies or assets (if original or properly license
 
 ---
 
-## License
+## License & Source Code
 
-This project currently is proprietary. See `design/COPYRIGHT.txt` for third-party licenses and attributions. 
-
-However, the `_archive/kivy-prototype` folder contains an early Kivy prototype – an educational reference that predates the current Sun Clock.
+This project is proprietary. See `design/COPYRIGHT.txt` for third-party licenses and attributions. The `_archive/kivy-prototype` folder contains an early Kivy prototype – an educational reference that predates the current Sun Clock.
 
 ---
 
