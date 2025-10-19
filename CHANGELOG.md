@@ -486,8 +486,8 @@ All notable changes to this project will be documented in this file (tags: Added
 
 ### Changed
 - Navigation and status bars now transparent on Android 15+
-- Background calculations take longer on 4 kB devices (25%)
 - Includes all features up to version 2.54
+- Background calculations take longer on 4 kB devices (25%); 16 kB devices may perform faster
 - Api 24-35 (Android 7+) and arm64-v8a only, because of 16 kB memory pages and new numpy version 
 
 
