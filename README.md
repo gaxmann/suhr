@@ -37,9 +37,9 @@ Since June 2025 Sun Clock is available as an Android app. The app is also known 
 ---
 
 <p float="left">
-  <img src="__gitdesign/sunclock_0.png" width="250" />
-  <img src="__gitdesign/tablet.jpg" width="250" />
-  <!-- <img src="__gitdesign/eink.jpg" width="250" /> -->
+  <img src="_gitdesign/sunclock_0.png" width="250" />
+  <img src="_gitdesign/tablet.jpg" width="250" />
+  <!-- <img src="_gitdesign/eink.jpg" width="250" /> -->
 </p>
 
 ---
@@ -73,7 +73,9 @@ Create new images of celestial bodies or assets (if original or properly license
 
 ## License
 
-This project currently is proprietary. See `design/COPYRIGHT.txt` for third-party licenses and attributions.
+This project currently is proprietary. See `design/COPYRIGHT.txt` for third-party licenses and attributions. 
+
+However, the `_archive/kivy-prototype` folder contains an early Kivy prototype – an educational reference that predates the current Sun Clock.
 
 ---
 
