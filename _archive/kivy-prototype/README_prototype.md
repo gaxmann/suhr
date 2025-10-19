@@ -37,4 +37,4 @@ The **current production version (V2+)** is available at:
 - **[Play Store](https://play.google.com/store/apps/details?id=de.ax12.zunclock)**
 - **[GitHub Releases](https://github.com/gaxmann/suhr/releases)** (apk downloads)
 
-**For questions about the actual Sun Clock, please refer to the main [README](https://github.com/gaxmann/suhr/tree/main).**
+For questions about the actual Sun Clock, please refer to **the main [README](https://github.com/gaxmann/suhr/tree/main)**
