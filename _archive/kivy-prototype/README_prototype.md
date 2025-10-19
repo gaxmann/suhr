@@ -12,7 +12,7 @@ This folder contains the very first working proof-of-concept of Sun Clock as a m
 ## Why is it here?
 
 This prototype serves as a **reference for developers** interested in:
-- How to structure a Kivy project
+- How to structure a basic Kivy project
 - Setting up Buildozer for Android builds
 - Understanding early development iterations
 
