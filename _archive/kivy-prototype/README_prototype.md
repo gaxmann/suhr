@@ -20,7 +20,7 @@ This prototype serves as a **reference for developers** interested in:
 
 - ❌ NO display of a meaningful sun position
 - ❌ NO single-hand clock design
-- ❌ NOT the CURRENT Sun Clock concept
+- ❌ NOT yet the CURRENT Sun Clock concept in all its beauty
 
 ## How to run this prototype?
 
