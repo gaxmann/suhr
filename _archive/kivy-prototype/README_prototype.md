@@ -1,6 +1,6 @@
 # Kivy Prototype – Historical Reference
 
-**This is an archived PROTOTYPE v2.0.0-alpha.0.1 from 2025. This is NOT part of the current Sun Clock code**
+**This is an archived PROTOTYPE v2.0.0-alpha.0.1 from May 2025. This is NOT part of the current Sun Clock code**
 
 ## What is this?
 
