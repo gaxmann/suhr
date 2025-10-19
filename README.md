@@ -46,7 +46,7 @@ Since June 2025 Sun Clock is available as an Android app. The app is also known 
 
 ## Contributing
 
-The source code is not yet public, but you're welcome to contribute in these areas and will find the relevant files in this repository:
+This repository is used as a content hub for design proposals, asset exchange and apk distribution. The apk files are available under Releases. The main app source is not stored here as a fully public tree yet, but you're welcome to contribute in the following areas:
 
 ### 1. Design Proposals
 Submit new visual designs for the dial. A design consists of either:
