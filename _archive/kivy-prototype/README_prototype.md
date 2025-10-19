@@ -24,10 +24,10 @@ This prototype serves as a **reference for developers** interested in:
 
 ## How to run this prototype?
 
-- Install kivy pyjnius pillow pytz skyfield numpy jplephem sgp4 olefile via pip(3)
+- Install all modules: `pip(3) install kivy pyjnius pillow pytz skyfield numpy jplephem sgp4 olefile`
 - Download de421.bsp and put it in the same directory (e.g. from [here](https://naif.jpl.nasa.gov/pub/naif/generic_kernels/spk/planets/a_old_versions/de421.bsp))
 - Download DejaVuSans.ttf and put it in the same directory
-- Run the programme with python(3) main.py
+- Run the programme with: `python(3) main.py`
 
 ---
 
