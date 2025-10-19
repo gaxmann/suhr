@@ -4,7 +4,7 @@
 
 ## What is this?
 
-This folder contains the very first working proof-of-concept of Sun Clock as a mobile Kivy application. It demonstrates:
+This folder contains the very first working proof-of-concept of Sun Clock as a mobile Kivy application. These files are a small, very early Kivy demo. They are included for educational purposes only and demonstrate:
 - Basic Kivy app structure
 - Two (strangely) rotating visual elements around a digital clock display (Sun and Sirius)
 - Buildozer configuration for Android apk building
