@@ -22,7 +22,7 @@ This prototype serves as a **reference for developers** interested in:
 - ❌ NO single-hand clock design
 - ❌ NOT yet the CURRENT Sun Clock concept in all its beauty
 
-## How to run this prototype?
+## How to run this prototype
 
 - Install all modules: `pip(3) install buildozer kivy pyjnius pillow pytz skyfield numpy jplephem sgp4 olefile`
 - Download `de421.bsp` and put it in the same directory (e.g. from [here](https://naif.jpl.nasa.gov/pub/naif/generic_kernels/spk/planets/a_old_versions/de421.bsp))
