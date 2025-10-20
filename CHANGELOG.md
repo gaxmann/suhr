@@ -9,7 +9,7 @@ All notable changes to this project will be documented in this file (tags: Added
 
 ### Changed
 - Changes from 3.0 incorporated to give both branches the same code basis
-- Graphical function library tidied up (GSm), directories tidied up
+- Graf function library tidied up, files re-sorted
 - Copyright file polished
 - Page navigation buttons rearranged
 
