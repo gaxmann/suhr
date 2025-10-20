@@ -9,6 +9,7 @@ All notable changes to this project will be documented in this file (tags: Added
 
 ### Fixed
 - Font size bug (since 2.57) corrected
+- Navigation button on last page greyed out
 
 ## [2.58] - 2025-10-20
 
