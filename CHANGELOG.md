@@ -5,6 +5,11 @@ All notable changes to this project will be documented in this file (tags: Added
 
 ---
 
+## [2.59] - 2025-10-21
+
+### Fixed
+- Font size bug (since 2.57) corrected
+
 ## [2.58] - 2025-10-20
 
 ### Changed
