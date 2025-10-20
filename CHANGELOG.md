@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file (tags: Added
 
 ---
 
-## [2.58] - 2025-10-xx
+## [2.58] - 2025-10-20
 
 ### Changed
 - Changes from 3.0 incorporated to give both branches the same code basis
