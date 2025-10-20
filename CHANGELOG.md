@@ -9,6 +9,7 @@ All notable changes to this project will be documented in this file (tags: Added
 
 ### Fixed
 - Font size bug (since 2.57) corrected
+- Corrections for 3.0 incorporated into the shared code
 
 ### Changed
 - Navigation button on last page greyed out
@@ -491,7 +492,13 @@ All notable changes to this project will be documented in this file (tags: Added
 ---
 ---
 <a name="dev"></a>
-## [3.0-preview] - 2025-10-12 (Transparent bars)
+## [3.1] - 2025-10-21
+
+### Changed
+- Slower background calculations no longer detectable
+- Fixes for font size of time in Android 15+
+
+## [3.0] - 2025-10-12 (Transparent bars)
 
 ### Changed
 - Navigation and status bars now transparent on Android 15+
