@@ -9,7 +9,7 @@ All notable changes to this project will be documented in this file (tags: Added
 
 ### Changed
 - Changes from 3.0 incorporated to give both branches the same code basis
-- Graf function library tidied up, files re-sorted
+- Graph module tidied up, files re-sorted
 - Copyright file polished
 - Page navigation buttons rearranged
 
