@@ -24,7 +24,7 @@ This prototype serves as a reference for developers interested in:
 
 ## How to run this prototype
 
-1. Install all modules: `pip(3) install buildozer kivy pyjnius pillow pytz skyfield numpy jplephem sgp4 olefile`
+1. Install all modules: `pip(3) install buildozer kivy pyjnius plyer pillow pytz skyfield numpy jplephem sgp4`
 2. Download `de421.bsp` (e.g. from [here](https://naif.jpl.nasa.gov/pub/naif/generic_kernels/spk/planets/a_old_versions/de421.bsp)) and place it in the same directory
 3. Download `DejaVuSans.ttf` and place it in the same directory
 4. Run with: `python(3) main.py`
