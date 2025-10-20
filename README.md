@@ -51,7 +51,7 @@ This repository is used as a content hub for design proposals, asset exchange an
 ### 1. Design Proposals
 Submit new visual designs for the dial. A design consists of either:
 - **(a)** Three to five hex RGB colour codes, or
-- **(b)** Three to five stacked images (ideally, the two large images "day & night" are ~1080×1080 px if possible)
+- **(b)** Three to five stacked images (ideally, the two large images "day & night" are about 1080×1080 px if possible)
 
 I love art that preserves values and uplifts the spirit (e.g., Claude Monet, J. M. William Turner, Paul Klee, Vincent van Gogh, Pieter Brueghel, August Macke, Max Liebermann, Paul Gauguin, Paul Cézanne, Henri Rousseau, Gustave Courbet), but I don't dare to use other people's photos of it.
 
