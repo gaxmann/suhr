@@ -34,7 +34,7 @@ This prototype serves as a reference for developers interested in:
 
 ## The CURRENT Sun Clock
 
-The current production version (V2+) is available at:
+The current production version is available at:
 - **[Play Store](https://play.google.com/store/apps/details?id=de.ax12.zunclock)**
 - **[GitHub Releases](https://github.com/gaxmann/suhr/releases)** (apk downloads)
 
