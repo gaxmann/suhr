@@ -8,9 +8,10 @@ Short summary of the latest changes. – You'll find the [detailed changelog](./
 - Android 5+ support restored (enables legacy devices as wall clocks; long startup on Android 5–7)
 - Code restructuring, tidying, and bug fixes (V2+3 branches combined)
  
-## [2.54] - 2025-10-08 (Bar fixes)
+## [2.54-stable] - 2025-10-08 (Bar fixes)
 
 - Fixed system bars on Android 15+
+- Exceptionally stable version
 - Bug fixes (line spacing, GrapheneOS, Aurora & Apkpure downloads, max alt and bars, no attr clockscr)
 
 ## [2.42] - 2025-08-29 (Update prompt) 
