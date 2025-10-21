@@ -18,9 +18,9 @@ This prototype serves as a reference for developers interested in:
 
 ## What's NOT in this prototype?
 
-- ❌ No meaningful Sun position display
-- ❌ No single-hand clock design
-- ❌ Not the current Sun Clock concept in its full form
+- No meaningful Sun position display
+- No single-hand clock design
+- Not the current Sun Clock concept in its full form
 
 ## How to run this prototype
 
