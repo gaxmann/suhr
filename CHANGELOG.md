@@ -5,6 +5,8 @@ All notable changes to this project will be documented in this file (tags: Added
 
 ---
 
+# Current version V2 (arm64-v8a & armeabi-v7a)
+
 ## [2.59-public] - 2025-10-21
 
 ### Fixed
@@ -492,6 +494,8 @@ All notable changes to this project will be documented in this file (tags: Added
 ---
 ---
 <a name="dev"></a>
+# Preview version V3 (arm64-v8a only, 16 kB page)
+
 ## [3.1] - 2025-10-21
 
 ### Changed
