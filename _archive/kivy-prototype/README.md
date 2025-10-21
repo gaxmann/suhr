@@ -30,6 +30,7 @@ This prototype serves as a reference for developers interested in:
 4. Run with: `python(3) main.py`
 
 ---
+---
 
 ## The CURRENT Sun Clock
 
