@@ -5,6 +5,11 @@ All notable changes to this project will be documented in this file (tags: Added
 
 ---
 
+## [2.60] - 2025-10-xx
+
+### Changed
+- Versioncode on dial shortened
+
 ## [2.59-public] - 2025-10-21
 
 ### Fixed
