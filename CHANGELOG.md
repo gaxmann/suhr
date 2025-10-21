@@ -14,6 +14,7 @@ All notable changes to this project will be documented in this file (tags: Added
 
 ### Fixed
 - Font size bug (since 2.57) corrected
+- Fullscreen on startup is now centered
 - Fixes (3.1) incorporated into the shared code
 
 ### Changed
