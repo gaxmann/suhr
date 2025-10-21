@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file (tags: Added
 
 ---
 
-### Version V2 (Android 5+, arm64-v8a & armeabi-v7a)
+### Current V2
 
 ## [2.59-public] - 2025-10-21
 
@@ -494,7 +494,7 @@ All notable changes to this project will be documented in this file (tags: Added
 ---
 ---
 <a name="dev"></a>
-# Preview V3 (Android 7+, arm64-v8a only)
+# Preview versions
 
 ## [3.1] - 2025-10-21
 
