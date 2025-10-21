@@ -6,7 +6,7 @@ Short summary of the latest changes. – You'll find the [detailed changelog](./
 ## [2.59] - 2025-10-21 (Legacy support)
 
 - Android 5+ support restored (enables legacy devices as wall clocks; long startup on Android 5–7)
-- Code restructuring, tidying, and bug fixes (V2+3 branches combined)
+- Code restructuring, tidying, bug fixes (V2 & V3 branches combined)
  
 ## [2.54-stable] - 2025-10-08 (Bar fixes)
 
