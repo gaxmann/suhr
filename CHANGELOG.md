@@ -496,6 +496,7 @@ All notable changes to this project will be documented in this file (tags: Added
 
 ### Changed
 - Background calculations now match current version 2
+- Includes all features up to version 2.59
 - Fixes for font size of time in Android 15+
 
 ## [3.0] - 2025-10-12 (Transparent bars)
