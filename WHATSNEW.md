@@ -28,13 +28,11 @@ Short summary of the latest changes. – You'll find the [detailed changelog](./
 ## [2.33] - 2025-07-22 (Atmospheric refraction)
 
 - Atmospheric refraction added (altitude & temperature support)
-- Improved location detection (Agnihotra)
-- Faster dial rendering, bug fixes, Android 6+
+- Improved location detection (Agnihotra), faster dial rendering, bug fixes, Android 6+
 
 ## [2.25] - 2025-07-11 (Agnihotra times)
 
-- Agnihotra times now displayable
-- Zoomable dial, fifth page for local data
+- Agnihotra times now displayable, zoomable dial, fifth page for local data
 - Bug fixes (time zone change issue), Android 5+ (Android 15+ bar issues until 2.54)
 
 <!-- > ## [2.21] - 2025-07-04 (Chinese language)
