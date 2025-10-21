@@ -274,7 +274,7 @@ All notable changes to this project will be documented in this file (tags: Added
 ## [2.21-public] - 2025-07-04 (Chinese language)
 
 ### Fixed
-- (!)"Unknown language" error fixed,
+- Bad "Unknown language" error fixed(!)
 
 ## [2.20] - 2025-07-04
 
