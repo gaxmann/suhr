@@ -9,7 +9,7 @@ All notable changes to this project will be documented in this file (tags: Added
 
 ### Fixed
 - Font size bug (since 2.57) corrected
-- V3.1 fixes incorporated into the shared code
+- Fixes (3.1) incorporated into the shared code
 
 ### Changed
 - Navigation button on last page greyed out
