@@ -5,11 +5,11 @@ All notable changes to this project will be documented in this file (tags: Added
 
 ---
 
-## [2.59] - 2025-10-21
+## [2.59-public] - 2025-10-21
 
 ### Fixed
 - Font size bug (since 2.57) corrected
-- 3.1 corrections incorporated into the shared code
+- V3.1 fixes incorporated into the shared code
 
 ### Changed
 - Navigation button on last page greyed out
