@@ -5,8 +5,6 @@ All notable changes to this project will be documented in this file (tags: Added
 
 ---
 
-### Current V2
-
 ## [2.59-public] - 2025-10-21
 
 ### Fixed
