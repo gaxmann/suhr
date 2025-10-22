@@ -58,6 +58,7 @@ Short summary of the latest changes. – You'll find the [detailed changelog](./
 
 ## [3.1] - 2025-10-21 (Transparent bars) 
 - Navigation and status bars now transparent on Android 15+
+- Slightly faster UI
 - Android 7+, 16 kB page support, arm64-v8a only
 
 
