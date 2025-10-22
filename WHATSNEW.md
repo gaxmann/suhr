@@ -1,5 +1,5 @@
 # What is new?
-Short summary of the latest changes. – You'll find the [detailed changelog](./CHANGELOG.md) here. See [preview versions](#future) (16 kB) below.
+Short summary of the latest changes. – You'll find the [detailed changelog](./CHANGELOG.md) here. See [preview versions](#future) below (both branches are built from the same source code).
 
 ---
 
@@ -58,7 +58,7 @@ Short summary of the latest changes. – You'll find the [detailed changelog](./
 
 ## [3.1] - 2025-10-21 (Transparent bars) 
 - Navigation and status bars now transparent on Android 15+
-- All features from 2.59, Android 7+, 16 kB page support, arm64-v8a only
+- Android 7+, 16 kB page support, arm64-v8a only
 
 
 
