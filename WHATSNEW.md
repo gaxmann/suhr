@@ -47,7 +47,7 @@ Short summary of the latest changes. – You'll find the [detailed changelog](./
 > 
 > ## [2.15] - 2025-06-24 (Initial release)
 > 
-> - Initial Android release (on Play Store) with German, English and Spanish, Android 5+ (unknown language issue(!) until 2.21)-->
+> - Initial Android release (on Play Store) with German, English and Spanish, Android 5+ ("unknown language" issue until 2.21)-->
 
 ---
 
