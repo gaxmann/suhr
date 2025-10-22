@@ -499,12 +499,12 @@ All notable changes to this project will be documented in this file (tags: Added
 <a name="dev"></a>
 # Preview versions
 
-V3 and V2 share the same codebase, only differing in build settings (Android 7+, arm64-v8a only, 16 kB memory pages).
+V3 and V2 share the same codebase (use release date to compare features).
 
 ## [3.1] - 2025-10-21
 
 ### Changed
-- Faster background calculations (match V2)
+- Faster background calculations (matches V2)
 - V2 and V3 now share the same code
 
 ## [3.0] - 2025-10-12 (Transparent bars)
