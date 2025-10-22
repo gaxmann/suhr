@@ -14,8 +14,7 @@ All notable changes to this project will be documented in this file (tags: Added
 
 ### Fixed
 - Font size bug (since 2.57) corrected
-- Fullscreen on startup is now centered
-- Fixes (3.1) incorporated into the shared code
+- Fullscreen on startup now gets autocentered (Android 5-14)  
 
 ### Changed
 - Navigation button on last page greyed out
@@ -23,8 +22,8 @@ All notable changes to this project will be documented in this file (tags: Added
 ## [2.58] - 2025-10-20
 
 ### Changed
-- Changes from 3.0 incorporated to give both branches the same code basis
-- Graph module tidied up, files re-sorted
+- Changes from V3 incorporated to give both branches the same code basis
+- Graf module tidied up, files re-sorted
 - Copyright file polished
 - Page navigation buttons rearranged
 
@@ -490,7 +489,7 @@ All notable changes to this project will be documented in this file (tags: Added
 - Added coarse location query
 - Api 21-34 (Android 5+)
 
-## [1.0 - 1.73] - 2019-11..2025
+## [1.0 - 1.73] - 2019-11..2025-05
 
 ### Added
 - First version on Raspberry Pi with an e-paper display
@@ -500,20 +499,20 @@ All notable changes to this project will be documented in this file (tags: Added
 <a name="dev"></a>
 # Preview versions
 
+V3 and V2 share the same codebase, only differing in build settings (Android 7+, arm64-v8a only, 16 kB memory pages).
+
 ## [3.1] - 2025-10-21
 
 ### Changed
-- Background calculations now match current version 2
-- Includes all features up to version 2.59
-- Fixes for font size of time in Android 15+
+- Faster background calculations (match V2)
+- V2 and V3 now share the same code
 
 ## [3.0] - 2025-10-12 (Transparent bars)
 
 ### Changed
 - Navigation and status bars now transparent on Android 15+
-- Includes all features up to version 2.54
-- Background calculations take longer on 4 kB devices (25%); 16 kB devices may perform faster
-- Api 24-35 (Android 7+) and arm64-v8a only, because of 16 kB memory pages and new numpy version 
+- Background calculations take longer (25%)
+- Api 24-35 (Android 7+) because of new numpy version, arm64-v8a only, 16 kB page memory  
 
 
 
