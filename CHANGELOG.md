@@ -511,7 +511,7 @@ V3 and V2 share the same source code (use release date to compare features).
 
 ### Changed
 - Navigation and status bars now transparent on Android 15+
-- Background calculations take longer (25%), UI is faster
+- Background calculations take longer (25%), UI feels faster
 - Api 24-35 (Android 7+) because of new numpy version, arm64-v8a only, 16 kB page memory  
 
 
