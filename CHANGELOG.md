@@ -499,7 +499,7 @@ All notable changes to this project will be documented in this file (tags: Added
 <a name="dev"></a>
 # Preview versions
 
-V3 and V2 share the same codebase (use release date to compare features).
+V3 and V2 share the same source code (use release date to compare features).
 
 ## [3.1] - 2025-10-21
 
