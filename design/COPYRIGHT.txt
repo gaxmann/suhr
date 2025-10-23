@@ -59,7 +59,8 @@ Title: Planetary symbols
 Author: Gordon's Sun Clock
 Source: AI-generated / Historical astronomical symbols
 License: Public Domain
-File(s): Mercury_symbol.png, Mars_symbol.png, Saturn_symbol.png, Venus_symbol.png, Merkur_symbol.png
+File(s): Jupiter_symbol.png, Mars_symbol.png, Saturn_symbol.png, Venus_symbol.png, Merkur_symbol.png
+Notes: Resized
 
 
 Processing Animation
@@ -72,10 +73,10 @@ Notes: No attribution required
 Own Artwork
 --------------------
 Title: Watercolor painting (sf.jpg)
-Author: Gordon's Sun Clock
+Author: Gordon Axmann
 Source: Original artwork - hand-painted watercolor, scanned
 License: Copyright © - All rights reserved
-File(s): sf.jpg
+File(s): sf.jpg, icon.png
 Notes: Original own work, no redistribution without permission
 
 
@@ -88,6 +89,56 @@ License: MIT License
 License URL: https://opensource.org/licenses/MIT
 Notes: Original code adapted and modified for this project
 Copyright: Filipe March
+
+
+Ephemeris Data (de421.bsp)
+--------------------
+Title: DE421 Planetary Ephemeris
+Author: Jet Propulsion Laboratory (JPL), NASA
+Source: https://naif.jpl.nasa.gov/pub/naif/generic_kernels/spk/planets/
+License: Public Domain
+Notes: JPL ephemeris data for planetary positions, subset for years 2025-2040
+File(s): de421_2025-40.bsp
+
+
+================================================================================
+PYTHON LIBRARIES
+================================================================================
+
+Library: Kivy
+License: MIT License
+Source: https://github.com/kivy/kivy
+Notes: GUI framework
+
+Library: Skyfield
+License: MIT License
+Source: https://github.com/skyfieldhq/python-skyfield
+Notes: Astronomical calculations
+
+Library: NumPy
+License: BSD 3-Clause License
+Source: https://github.com/numpy/numpy
+Notes: Numerical computing
+
+Library: PyTZ
+License: MIT License
+Source: https://github.com/stub/pytz
+Notes: Timezone database
+
+Library: Pillow
+License: HPND License (Historical Permission Notice and Disclaimer)
+Source: https://github.com/python-pillow/Pillow
+Notes: Image processing
+
+Library: sgp4
+License: BSD License
+Source: https://github.com/brandon-rhodes/python-sgp4
+Notes: Satellite orbit calculations
+
+Library: timezonefinder
+License: MIT License
+Source: https://github.com/jannikmi/timezonefinder
+Notes: Timezone detection from coordinates
 
 
 ================================================================================
