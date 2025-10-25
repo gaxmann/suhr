@@ -65,9 +65,11 @@ Notes: Resized
 
 Processing Animation
 --------------------
-License: Public Domain / Free to use
+Title: Process, Factory, Circle GIF
+Source: Pixabay (Ha_Nguyen_Monslide365)
+License: Pixabay Content License (free for use, no attribution required)
 File(s): processing.gif
-Notes: No attribution required
+Notes: Edited using https://ezgif.com/effects
 
 
 Own Artwork
@@ -164,5 +166,5 @@ respective licenses. This file serves as the definitive attribution record.
 For questions about specific assets, refer to the URLs listed above or
 contact the original copyright holders.
 
-Last updated: 2025-10-24 (or: see date of file)
+Last updated: 2025-10-25 (or: see date of file)
 ================================================================================
