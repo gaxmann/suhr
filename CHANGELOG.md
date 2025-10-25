@@ -501,11 +501,12 @@ All notable changes to this project will be documented in this file (tags: Added
 
 V3 and V2 share the same source code (use release date to compare features).
 
-## [3.1] - 2025-10-21
+## [3.1] - 2025-10-25
 
 ### Changed
-- Faster background calculations (now matches V2; interesting)
+- Faster background calculations (now nearly matches V2; interesting)
 - V2 and V3 now share the same code
+- Data on dial printed on bottom left if bars are transparent
 
 ## [3.0] - 2025-10-12 (Transparent bars)
 
