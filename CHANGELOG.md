@@ -9,6 +9,7 @@ All notable changes to this project will be documented in this file (tags: Added
 
 ### Changed
 - Versioncode on dial shortened
+- Moon size decreased a bit (even though it should be the same size as the sun)
 
 ## [2.59-public] - 2025-10-21
 
