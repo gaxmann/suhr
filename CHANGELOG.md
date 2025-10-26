@@ -10,6 +10,7 @@ All notable changes to this project will be documented in this file (tags: Added
 ### Changed
 - Versioncode on dial shortened
 - Telescope 1: Moon size decreased a bit (even though it should be the same size as the sun)
+- Bug fixes (keyerror 6+8)
 
 ## [2.59-public] - 2025-10-21
 
