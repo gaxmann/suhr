@@ -8,7 +8,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ## [2.60] - 2025-10-xx
 
 ### Changed
-- Canonical hours added
+- Added time display in temporal hours
 - 1x location button now accesses GPS and network
 - Versioncode on dial shortened
 - Telescope design: moon size decreased (though sun and moon appear the same size in reality); Greyscale design: planet symbols' size decreased
