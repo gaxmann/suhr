@@ -3,6 +3,10 @@ Short summary of the latest changes. – You'll find the [detailed changelog](./
 
 ---
 
+## [2.60] - 2025-10-xx
+
+- Added time display in temporal hours (text positions redesigned)
+
 ## [2.59] - 2025-10-21 (Legacy support)
 
 - Code restructuring, tidying, bug fixes (branches V2 & V3 combined)
