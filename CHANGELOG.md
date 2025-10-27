@@ -9,7 +9,8 @@ All notable changes to this project will be documented in this file (tags: Added
 
 ### Changed
 - Versioncode on dial shortened
-- Telescope design: moon size decreased (even though sun and moon are in reality the same size)
+- Telescope design: moon size decreased (although sun and moon appear the same size in reality); Greyscale design: planet symbols' size decreased
+- Telescope design: Moon size decreased (although the Sun and the Moon appear the same size in reality); Greyscale design: Planet symbol sizes decreased.
 - Bug fixes (keyerror)
 - 1x location button now accesses GPS and network
 
