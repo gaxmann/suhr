@@ -11,6 +11,7 @@ All notable changes to this project will be documented in this file (tags: Added
 - Versioncode on dial shortened
 - Telescope design: moon size decreased (even though sun and moon are in reality the same size)
 - Bug fixes (keyerror)
+- 1x location button now also accesses GPS
 
 ## [2.59-public] - 2025-10-21
 
@@ -508,7 +509,8 @@ V3 and V2 share the same source code (use release date to compare features).
 ### Changed
 - Faster background calculations (now nearly matches V2; interesting)
 - V2 and V3 now share the same code
-- Data on dial printed on bottom left if bars are transparent
+- New positions for text on dial, if bars are transparent
+- 1x location button now also accesses GPS
 
 ## [3.0] - 2025-10-12 (Transparent bars)
 
