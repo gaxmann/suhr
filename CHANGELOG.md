@@ -502,7 +502,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 <a name="dev"></a>
 # Preview versions
 
-V3 and V2 share the same source code (use release date to compare features).
+V3 and V2 share the same source code (use release date to compare features). Below, you will only find the changes specific to V3.
 
 ## [3.1] - 2025-10-25
 
