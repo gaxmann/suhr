@@ -11,7 +11,7 @@ All notable changes to this project will be documented in this file (tags: Added
 - Versioncode on dial shortened
 - Telescope design: moon size decreased (even though sun and moon are in reality the same size)
 - Bug fixes (keyerror)
-- 1x location button now also accesses GPS
+- 1x location button now accesses GPS and network
 
 ## [2.59-public] - 2025-10-21
 
