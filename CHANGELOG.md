@@ -1,7 +1,7 @@
 # Changelog
 All notable changes to this project will be documented in this file (tags: Added, Changed, Deprecated, Removed, Fixed, Security). The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html). 
 
-[Here](./WHATSNEW.md) you'll find a short summary of the latest changes. Below you'll find [preview versions](#dev) of the app (supporting 16 kB and Android 15+ transparent bars).
+You'll find a short summary of the [latest changes](./WHATSNEW.md) here. Below you'll find [preview versions](#dev) of the app (supporting 16 kB and Android 15+ transparent bars).
 
 ---
 
