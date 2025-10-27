@@ -504,7 +504,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 V3 and V2 share the same source code (use release date to compare features). Below, you will only find the changes specific to V3.
 
-## [3.1] - 2025-10-25
+## [3.1] - 2025-10-27
 
 ### Changed
 - Faster background calculations (now nearly matches V2; interesting)
