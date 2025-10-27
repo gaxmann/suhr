@@ -8,10 +8,10 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ## [2.60] - 2025-10-xx
 
 ### Changed
+- 1x location button now accesses GPS and network
 - Versioncode on dial shortened
 - Telescope design: moon size decreased (though sun and moon appear the same size in reality); Greyscale design: planet symbols' size decreased
 - Bug fixes (keyerror)
-- 1x location button now accesses GPS and network
 
 ## [2.59-public] - 2025-10-21
 
@@ -509,7 +509,7 @@ V3 and V2 share the same source code (use release date to compare features). Bel
 ### Changed
 - Faster background calculations (now nearly matches V2; interesting)
 - V2 and V3 now share the same code
-- New positions for text on dial, if bars are transparent
+- New positions for text on dial (if bars are transparent)
 - 1x location button now also accesses GPS
 
 ## [3.0] - 2025-10-12 (Transparent bars)
