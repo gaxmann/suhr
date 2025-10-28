@@ -8,7 +8,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ## [2.60] - 2025-10-xx (Temporal hours)
 
 ### Changed
-- Added time display in temporal hours (text positions redesigned, because of changes in V3)
+- Added time display in unequal, temporal hours (text positions redesigned, because of changes in V3)
 - 1x location button now accesses network and GPS
 - Telescope design: moon size decreased (though sun and moon appear the same size in reality); Greyscale design: planet symbols' size decreased
 - Versioncode on dial shortened
@@ -508,9 +508,8 @@ V3 and V2 share the same source code (use release date to compare features). Bel
 ## [3.1] - 2025-10-28
 
 ### Changed
-- Added time display in temporal hours (text positions on dial redesigned)
-- Faster background calculations (now nearly matches V2; interesting)
 - V2 and V3 now share the same code
+- Faster background calculations (now nearly matches V2; interesting)
 - New positions for text on dial (if bars are transparent)
 - 1x location button now also accesses GPS
 
@@ -520,6 +519,5 @@ V3 and V2 share the same source code (use release date to compare features). Bel
 - Navigation and status bars now transparent on Android 15+
 - Background calculations take longer (25%), UI feels faster
 - Api 24-35 (Android 7+) because of new numpy version, arm64-v8a only, 16 kB page memory  
-
 
 
