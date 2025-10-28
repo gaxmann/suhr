@@ -505,9 +505,10 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 V3 and V2 share the same source code (use release date to compare features). Below, you will only find the changes specific to V3.
 
-## [3.1] - 2025-10-27
+## [3.1] - 2025-10-28
 
 ### Changed
+- Added time display in temporal hours (text positions on dial redesigned)
 - Faster background calculations (now nearly matches V2; interesting)
 - V2 and V3 now share the same code
 - New positions for text on dial (if bars are transparent)
