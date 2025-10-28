@@ -3,7 +3,7 @@ Short summary of the latest changes. – You'll find the [detailed changelog](./
 
 ---
 
-## [2.60] - 2025-10-xx
+## [2.60] - 2025-10-xx (Temporal hours)
 
 - Added time display in temporal hours (text positions redesigned)
 
