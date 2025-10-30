@@ -23,6 +23,7 @@ The app is free, shows no ads, and collects no data. It's simply a gift from me 
 - **Single-hand design**: Simple, elegant, intuitive
 - **Location-based**: Automatically adjusts to your coordinates (manual input or location detection)
 - **Offline capable**: No internet required after first setup
+- **Temporal hours**: Display of ancient unequal hours (12 day hours & 4 night watches) – e.g. for historians and those seeking an alternative sense of time
 - **Tablet mode**: Hang on your wall as a living clock
 - **Free & private**: No ads, no tracking, no data collection
 - **Agnihotra support**: Display precise Agnihotra times with countdown
@@ -33,6 +34,10 @@ The app is free, shows no ads, and collects no data. It's simply a gift from me 
 I've been living with this clock for seven years, and it has taught me a lot. It helps reconnect with natural rhythms – not just daily, but seasonally. It's also fascinating for children to understand the movements of the stars intuitively.
 
 Since June 2025 Sun Clock is available as an Android app. The app is also known as: astronomical clock, astronomy app, horologium, horologion, orloj, astrolabe, star clock, sky clock, single-hand clock, solar clock.
+
+## What are Temporal Hours?
+
+Temporal hours (also called unequal hours) divide the day and night into 12 hours each – but unlike modern equal hours, these hours change length with the seasons: This ancient time system was used throughout history until mechanical clocks standardized hours. Sun Clock offers a window into how our ancestors experienced time.
 
 ---
 
