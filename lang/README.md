@@ -5,7 +5,7 @@ The German language file ("de.json") IS THE ORIGINAL LANGUAGE. It is best to sta
 If you translate languages, please leave all control codes unchanged: 
 
 - [XXXXXX] and {xxxxxx} are variables that will be replaced during run time
-- [-LF-] are linefeeds (as in "\n"). You can replace them with real linefeeds
+- [:LF] are linefeeds (as in "\n"). You can replace them with real linefeeds
 - [DF] and [SP] are control codes for distances in the design
 
 
