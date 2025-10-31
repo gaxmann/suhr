@@ -62,7 +62,6 @@ Short summary of the latest changes. – You'll find the [detailed changelog](./
 
 ## [3.1] - 2025-10-28 (Transparent bars) 
 - Transparent navigation and status bars on Android 15+ (new positions for text on dial)
-- 1x location button improved
 - Android 7+, 16 kB page support, arm64-v8a only
 
 
