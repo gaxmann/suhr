@@ -5,7 +5,12 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ---
 
-## [2.60] - 2025-10-xx (Temporal hours)
+## [2.61] - 2025-10-xx (Temporal hours)
+
+### Changed
+- Code optimized (im.copy, imgcc.close)
+
+## [2.60] - 2025-10-31 (Temporal hours)
 
 ### Changed
 - Time display in unequal, temporal hours added (text positions redesigned, because of changes in V3)
