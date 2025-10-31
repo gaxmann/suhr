@@ -8,7 +8,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ## [2.60] - 2025-10-xx (Temporal hours)
 
 ### Changed
-- Added time display in unequal, temporal hours (text positions redesigned, because of changes in V3)
+- Time display in unequal, temporal hours added (text positions redesigned, because of changes in V3)
 - 1x location button now accesses network and GPS
 - Telescope design: moon size decreased (though sun and moon appear the same size in reality); Greyscale design: planet symbols' size decreased
 - Versioncode on dial shortened
