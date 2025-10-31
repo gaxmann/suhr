@@ -78,7 +78,7 @@ Create new images of celestial bodies or assets (if original or properly license
 
 ## License & Source Code
 
-This project is proprietary. See `design/COPYRIGHT.txt` for third-party licenses and attributions. The `_archive/kivy-prototype` folder contains an early Kivy prototype – an educational reference that predates the current Sun Clock.
+This project is proprietary (which may change in the future). See `design/COPYRIGHT.txt` for third-party licenses and attributions. The `_archive/kivy-prototype` folder contains an early Kivy prototype – an educational reference that predates the current Sun Clock.
 
 ---
 
