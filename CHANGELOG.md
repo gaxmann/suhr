@@ -515,7 +515,8 @@ V3 and V2 share the same source code (use release date to compare features). Bel
 ## [3.2] - 2025-10-xx (Temporal hours)
 
 ### Changed
-- Time display in unequal, temporal hours added, bug fixes (slightly faster)
+- Time display in unequal, temporal hours added (text updated)
+- Code optimised, bug fixes (slightly faster) 
 
 ## [3.1] - 2025-10-28
 
