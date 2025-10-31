@@ -5,7 +5,7 @@ Short summary of the latest changes. – You'll find the [detailed changelog](./
 
 ## [2.60] - 2025-10-xx (Temporal hours)
 
-- Time display in unequal, temporal hours added (text positions on dial redesigned)
+- Time display in unequal, temporal hours added, bug fixes
 
 ## [2.59] - 2025-10-21 (Legacy support)
 
