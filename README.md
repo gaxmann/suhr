@@ -37,7 +37,7 @@ Since June 2025 Sun Clock is available as an Android app. The app is also known 
 
 ## Newest update: What are Temporal Hours?
 
-Temporal hours (also called unequal hours) divide the day and night into 12 hours each (or 4 night watches) – but unlike modern equal hours, these hours change length with the seasons: This ancient time system was used throughout history until mechanical clocks standardized hours. Sun Clock offers a window into how our ancestors experienced time.
+Temporal hours, or unequal hours, divided both day and night into twelve parts — though the night was often reckoned instead by four watches. Unlike our modern, fixed hours, their duration shifted with the seasons. This ancient time system was used throughout history until mechanical clocks standardized hours. Sun Clock offers a window into how our ancestors experienced time.
 
 ---
 
