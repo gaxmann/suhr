@@ -8,7 +8,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ## [2.61] - 2025-10-xx
 
 ### Changed
-- Code optimized (im.copy, imgcc.close)
+- Code optimized (im.copy, imgcc.close, language files)
 - Bug fixes (icon[2])
 
 ## [2.60] - 2025-10-31 (Temporal hours)
