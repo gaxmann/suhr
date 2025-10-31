@@ -2,9 +2,9 @@
 
 ## Language Files
 
-The **German language file (`de.json`) is the original language**. It is recommended to start translations from German if possible. 
+The German language file (`de.json`) is the **original language**. It is recommended to start translations from German if possible. 
 
-**English is the fallback language** and will be used if your local translation does not exist.
+English is the fallback language and will be used if your local translation does not exist.
 
 ---
 
@@ -12,9 +12,9 @@ The **German language file (`de.json`) is the original language**. It is recomme
 
 When translating, please **keep all control codes unchanged**:
 
-- **`[XXXXXX]` and `{xxxxxx}`** are variables that will be replaced at runtime
-- **`[:LF]`** represents linefeeds (like `\n`). You can replace them with actual linefeeds if needed
-- **`[DF]` and `[SP]`** are control codes for design layout
+- `[XXXXXX]` and `{xxxxxx}` are variables that will be replaced at runtime
+- `[:LF]` represents linefeeds (like `\n`). You can replace them with actual linefeeds if needed
+- `[DF]` and `[SP]` are control codes for design layout
 
 ---
 
@@ -22,13 +22,13 @@ When translating, please **keep all control codes unchanged**:
 
 ### Quotation Marks
 The `"quotes"` entry defines the local quotation marks used in your language:
-- German: `„Hello"`
-- French: `«Hello»`
-- English: `"Hello"`
+- German: „Hello“  
+- French: «Hello»
+- English: ‘Hello’
 
 ### Word Separation Rules
 
-The language dictionary contains entries to help with correct word separation in your language. **If you're unsure what to enter, leave them empty `[]`**.
+The language dictionary contains entries to help with correct word separation in your language. If you're unsure what to enter, leave them empty `[]`.
 
 Example entries:
 
