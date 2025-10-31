@@ -35,7 +35,7 @@ I've been living with this clock for seven years, and it has taught me a lot. It
 
 Since June 2025 Sun Clock is available as an Android app. The app is also known as: astronomical clock, astronomy app, horologium, horologion, orloj, astrolabe, star clock, sky clock, single-hand clock, solar clock, temporal hour clock.
 
-## Newest update: What are Temporal Hours?
+## Newest update: Temporal Hours?
 
 Temporal hours, or unequal hours, divided both day and night into twelve parts — though the night was often reckoned instead by four watches. Unlike our modern, fixed hours, their duration shifted with the seasons. This ancient time system was used throughout history until mechanical clocks standardized hours. Sun Clock offers a window into how our ancestors experienced time.
 
