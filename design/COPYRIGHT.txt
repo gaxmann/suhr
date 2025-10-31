@@ -166,5 +166,5 @@ respective licenses. This file serves as the definitive attribution record.
 For questions about specific assets, refer to the URLs listed above or
 contact the original copyright holders.
 
-Last updated: 2025-10-25 (or: see date of file)
+Last updated: 2025-10-25 (or see date of file)
 ================================================================================
