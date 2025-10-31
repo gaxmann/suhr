@@ -1,49 +1,77 @@
-# Gordon's Sun Clock
+# Gordon's Sun Clock - Translation Guide
 
-The German language file ("de.json") IS THE ORIGINAL LANGUAGE. It is best to start a translation from German (if possible). The English language is the fallback language, that will be chosen if your local translation does not exist. 
+## Language Files
 
-If you translate languages, please leave all control codes unchanged: 
+The **German language file (`de.json`) is the original language**. It is recommended to start translations from German if possible. 
 
-- [XXXXXX] and {xxxxxx} are variables that will be replaced during run time
-- [:LF] are linefeeds (as in "\n"). You can replace them with real linefeeds
-- [DF] and [SP] are control codes for distances in the design
+**English is the fallback language** and will be used if your local translation does not exist.
 
+---
 
-About the entries in the local language dictionary:
+## Translation Guidelines
 
-- "quotes" are the local quotes, as in: „Hello“ or «Hello»
+When translating, please **keep all control codes unchanged**:
 
+- **`[XXXXXX]` and `{xxxxxx}`** are variables that will be replaced at runtime
+- **`[:LF]`** represents linefeeds (like `\n`). You can replace them with actual linefeeds if needed
+- **`[DF]` and `[SP]`** are control codes for design layout
 
-In the local language dictionary, you will find entries that help you to correctly separate words in the local language. These are listed below. If you don't know what to enter, just leave them empty "[]".
+---
 
-    "char_vowels": "aeiouyäöüáéíóúÄÖÜÁÉÍÓÚ",
-    "char_consonants": "bcdfghjklmnpqrstvwxyzñÑ",
-    "char_splitafter": ".,;:!?“‘”-—)]}%&*+=/\\|>@#_×÷≈≠≤≥°¶•…”’»`",
-    "char_splitbefore": "„‚([{<$~^€£¥±©®™§†‡“”‘«¿¡",
-    "graph_dontseparatebetween": [
-        "sch",
-        "ch",
-        "ck",
-        "tz",
-        "pf",
-        "qu",
-    ],
-    "graph_dontseparatebefore": [
-        "nd",
-        "hn",
-        "rn",
-        "rg",
-        "nb",
-        "sz",
-        "sw",
-        "rd",
-        "lg",
-        "nü",
-    ],
-    "graph_dontseparateafter": [
-        "nb"
-    ],
-    "graph_separateafter": [],
+## Dictionary Entries
 
+### Quotation Marks
+The `"quotes"` entry defines the local quotation marks used in your language:
+- German: `„Hello"`
+- French: `«Hello»`
+- English: `"Hello"`
 
+### Word Separation Rules
 
+The language dictionary contains entries to help with correct word separation in your language. **If you're unsure what to enter, leave them empty `[]`**.
+
+Example entries:
+
+```json
+"char_vowels": "aeiouyäöüáéíóúÄÖÜÁÉÍÓÚ",
+"char_consonants": "bcdfghjklmnpqrstvwxyzñÑ",
+"char_splitafter": ".,;:!?"'"-—)]}%&*+=/\\|>@#_×÷≈≠≤≥°¶•…"'»`",
+"char_splitbefore": "„‚([{<$~^€£¥±©®™§†‡""'«¿¡",
+"graph_dontseparatebetween": [
+    "sch",
+    "ch",
+    "ck",
+    "tz",
+    "pf",
+    "qu"
+],
+"graph_dontseparatebefore": [
+    "nd",
+    "hn",
+    "rn",
+    "rg",
+    "nb",
+    "sz",
+    "sw",
+    "rd",
+    "lg",
+    "nü"
+],
+"graph_dontseparateafter": [
+    "nb"
+],
+"graph_separateafter": []
+```
+
+---
+
+## Contributing
+
+If you'd like to contribute a translation:
+
+1. Copy `de.json` or `en.json` as a starting point
+2. Rename it to your language code (e.g., `hi.json` for Hindi)
+3. Translate all string values while keeping control codes intact
+4. Submit your translation via pull request or email
+
+Thank you for helping make Gordon's Sun Clock accessible to more people!
