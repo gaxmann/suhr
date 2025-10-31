@@ -9,6 +9,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ### Changed
 - Code optimized (im.copy, imgcc.close)
+- Bug fixes (IndexError)
 
 ## [2.60] - 2025-10-31 (Temporal hours)
 
