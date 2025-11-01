@@ -5,12 +5,12 @@ Short summary of the latest changes. – You'll find the [detailed changelog](./
 
 ## [2.61] - 2025-11-01 (Temporal hours)
 
-- Time display in unequal, temporal hours added, bug fixes (slightly faster)
+- Time display in unequal, temporal hours added. Bug fixes (slightly faster)
 
 ## [2.59] - 2025-10-21 (Legacy support)
 
-- Code restructuring, tidying, bug fixes (branches V2 & V3 combined)
-- Android 5+ support restored (enables legacy devices as wall clocks; on Android 5–7 long startup)
+- Android 5+ support restored (enables legacy devices as wall clocks)
+- Code restructuring, tidying, bug fixes
  
 ## [2.54-stable] - 2025-10-08 (Bar fixes)
 
