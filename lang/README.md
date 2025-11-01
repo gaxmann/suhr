@@ -78,6 +78,6 @@ Or correct an existing translation:
 1. Copy the language file you want to improve
 2. Keep only the entries you wish to change – delete all other entries
 3. Make your corrections while preserving the original tone and keeping control codes intact
-4. Submit your corrections via pull request or email
+4. Submit your corrections via email or pull request 
 
 Thank you for helping make Gordon's Sun Clock accessible to more people!
