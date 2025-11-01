@@ -3,6 +3,8 @@ All notable changes to this project will be documented in this file (tags: Added
 
 You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below you'll find [preview versions](#dev) of the app (supporting 16 kB and Android 15+ transparent bars).
 
+**Regular feature updates are now released every 1–2 weeks; critical fixes may appear sooner.**
+
 ---
 
 ## [2.62-public] - 2025-11-01
