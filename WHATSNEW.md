@@ -1,5 +1,5 @@
 # What is new?
-Short summary of the latest changes. – You'll find the [detailed changelog](./CHANGELOG.md) here. See [preview versions](#future) below (both branches are built from the same source code).
+Short summary of the latest changes. – You'll find the [detailed changelog](./CHANGELOG.md) here.
 
 ---
 
