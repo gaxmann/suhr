@@ -69,7 +69,7 @@ The differences between nautical twilight and night should be almost imperceptib
 *Note: Send an email (see last page of the app) before submitting – I may not accept all suggestions.*
 
 ### 2. Translations
-Contribute translations into new languages or improve existing ones (German is the original).
+Contribute [translations](https://github.com/gaxmann/gordonssunclock/tree/main/lang) into new languages or improve existing ones (German is the original).
 
 ### 3. Resources
 Create new images of celestial bodies or assets (if original or properly licensed).
