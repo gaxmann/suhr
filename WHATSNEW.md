@@ -3,7 +3,7 @@ Short summary of the latest changes. – You'll find the [detailed changelog](./
 
 ---
 
-## [2.61] - 2025-11-01 (Temporal hours)
+## [2.62] - 2025-11-01 (Temporal hours)
 
 - Time display in unequal, temporal hours added. Bug fixes (slightly faster)
 
