@@ -21,7 +21,7 @@ When translating, please **keep all control codes unchanged**:
 ## Dictionary Entries
 
 ### Quotation Marks
-The `"quotes"` entry defines the local quotation marks used in your language:
+The `"quotes"` entry defines the local quotation marks used in your language, e.g.:
 - German: „Hello“  
 - French: «Hello»
 - English: ‘Hello’
@@ -69,9 +69,15 @@ Example entries:
 
 If you'd like to contribute a translation:
 
-1. Copy `de.json` or `en.json` as a starting point
-2. Rename it to your language code (e.g., `hi.json` for Hindi)
-3. Translate all string values while keeping control codes intact
+1. Copy one of the existing language files, preferrably `de.json` or `en.json`, as a starting point
+2. Rename it to your language code (e.g., `hindi.json`)
+3. Translate all string values while keeping control codes intact. The most important ones are at the beginning 
 4. Submit your translation via pull request or email
+
+Or correct an existing translation:
+1. Copy the language file you want to improve
+2. Keep only the entries you wish to change – delete all other entries
+3. Make your corrections while preserving the original tone and keeping control codes intact
+4. Submit your corrections via pull request or email
 
 Thank you for helping make Gordon's Sun Clock accessible to more people!
