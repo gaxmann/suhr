@@ -33,34 +33,34 @@ The language dictionary contains entries to help with correct word separation in
 Example entries:
 
 ```json
-"char_vowels": "aeiouyäöüáéíóúÄÖÜÁÉÍÓÚ",
-"char_consonants": "bcdfghjklmnpqrstvwxyzñÑ",
-"char_splitafter": ".,;:!?"'"-—)]}%&*+=/\\|>@#_×÷≈≠≤≥°¶•…"'»`",
-"char_splitbefore": "„‚([{<$~^€£¥±©®™§†‡""'«¿¡",
-"graph_dontseparatebetween": [
-    "sch",
-    "ch",
-    "ck",
-    "tz",
-    "pf",
-    "qu"
-],
-"graph_dontseparatebefore": [
-    "nd",
-    "hn",
-    "rn",
-    "rg",
-    "nb",
-    "sz",
-    "sw",
-    "rd",
-    "lg",
-    "nü"
-],
-"graph_dontseparateafter": [
-    "nb"
-],
-"graph_separateafter": []
+    "char_vowels": "aeiouyäöüáéíóúÄÖÜÁÉÍÓÚ",
+    "char_consonants": "bcdfghjklmnpqrstvwxyzñÑ",
+    "char_splitafter": ".,;:!?“‘”-—)]}%&*+=/\\|>@#_×÷≈≠≤≥°¶•…”’»`",
+    "char_splitbefore": "„‚([{<$~^€£¥±©®™§†‡“”‘«¿¡",
+    "graph_dontseparatebetween": [
+        "sch",
+        "ch",
+        "ck",
+        "tz",
+        "pf",
+        "qu",
+    ],
+    "graph_dontseparatebefore": [
+        "nd",
+        "hn",
+        "rn",
+        "rg",
+        "nb",
+        "sz",
+        "sw",
+        "rd",
+        "lg",
+        "nü",
+    ],
+    "graph_dontseparateafter": [
+        "nb"
+    ],
+    "graph_separateafter": [],
 ```
 
 ---
