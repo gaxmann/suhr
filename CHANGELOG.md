@@ -5,6 +5,11 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ---
 
+## [2.62-public] - 2025-11-01
+
+### Fixed
+- Double Image.open error
+
 ## [2.61-public] - 2025-11-01
 
 ### Fixed
