@@ -20,8 +20,8 @@ The app is free, shows no ads, and collects no data. It's simply a gift from me 
 ## Features
 
 - **Accurate solar positioning**: Calculations match astronomical almanac to 0.0005 arc seconds (powered by Skyfield)
-- **Single-hand design**: Simple, elegant, intuitive
-- **Location-based**: Automatically adjusts to your coordinates (manual input or location detection)
+- **Single-hand design**: Simple, clear, intuitive
+- **Location-based**: Adjusts to your coordinates (manual input or location detection)
 - **Offline capable**: No internet required after first setup
 - **Free & private**: No ads, no tracking, no data collection
 - **Agnihotra support**: Display precise Agnihotra times with countdown
