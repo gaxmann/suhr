@@ -5,7 +5,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ---
 
-## [2.61] - 2025-10-xx
+## [2.61-public] - 2025-11-01
 
 ### Fixed
 - Code optimised (im.copy, imgcc.close, language files, LF token changed, because of wdiff), a bit faster now
