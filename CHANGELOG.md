@@ -8,7 +8,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ## [2.61] - 2025-10-xx
 
 ### Fixed
-- Code optimised (im.copy, imgcc.close, language files, LF card changed, because of wdiff), a bit faster now
+- Code optimised (im.copy, imgcc.close, language files, LF tag changed, because of wdiff), a bit faster now
 - Bug fixes (icon[2])
 
 ## [2.60] - 2025-10-31 (Temporal hours)
