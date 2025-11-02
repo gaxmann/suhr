@@ -6,6 +6,18 @@ The German language file (`de.json`) is the **original language**. It is recomme
 
 English is the fallback language and will be used if your local translation does not exist.
 
+**Fully supported languages:**
+- German (de)
+- English (en)
+- Spanish (es)
+- French (fr)
+- Chinese (zh)
+
+**Partially supported languages:**
+- Italian (it)
+
+*Note: Partially supported languages have UI elements and the data overview page (including explanations) translated. All other content defaults to English. Full translations require significant effort – contributions are welcome!*
+
 ---
 
 ## Translation Guidelines
