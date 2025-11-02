@@ -16,7 +16,9 @@ English is the fallback language and will be used if your local translation does
 **Partially supported languages:**
 - Italian (it)
 
-*Note: Partially supported languages have UI elements and the data overview page (including explanations) translated. All other content defaults to English. Full translations require significant effort – contributions are welcome!*
+*Note: Partially supported languages have UI elements (buttons, labels, menu items) and two key pages fully translated: the Settings page (including explanations) and the Data overview page (including explanations and legend). All other content defaults to English. Full translations require significant effort – contributions are welcome!*
+
+*Note: Partially supported languages have two pages fully translated: The Data overview page (including explanations and legend) and the Settings page (including explanations). All other content – including the tutorial ("How to read the dial", etc.) – defaults to English. Full translations require significant effort. Contributions are welcome!*
 
 ---
 
