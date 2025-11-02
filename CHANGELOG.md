@@ -11,7 +11,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Sunrise condition changed from -0.8333° to -0.2667° (dark theme)
 - Problem with azimuth jump (southern hemisphere)
 - Night watch symbol changed to ‘φ’ (additional display of unequal hour of the night added with ‘ν‘)
-- Italian language added (half supported language), but only for the UI otherwise too much work for me
+- Italian language added, but only for the UI (half supported language) otherwise too much work for me
 
 ## [2.62-public] - 2025-11-01
 
