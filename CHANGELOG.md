@@ -5,6 +5,11 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ---
 
+## [2.63] - 2025-11-xx
+
+### Fixed
+- Sunrise condition from -0.8333° to -0.2667° 
+
 ## [2.62-public] - 2025-11-01
 
 ### Fixed
