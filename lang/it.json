@@ -23,6 +23,7 @@
         "O",
         "N"
     ],
+    "txpartsupport": "[i]NOTA: (β) Questa lingua è supportata solo in parte. Pertanto, alcune sezioni sono in inglese. Le traduzioni richiedono un notevole sforzo. Il supporto è ben accetto (Github)[/i]",
     "txgps_label": "[DF]Posizione GPS o nome luogo:",
     "txgpsauto": "Posizione auto:",
     "txgpsautosh": "AUTO",
