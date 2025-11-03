@@ -24,7 +24,7 @@ English is the fallback language and will be used if your local translation does
 
 When translating, please **keep all control codes unchanged**:
 
-- `[XXXXXX]` and `{xxxxxx}` are variables that will be replaced at runtime
+- `[XXXXXX]` and `{xxxxxx}` are variables that will be replaced (at runtime)
 - `[~LF]` represents linefeeds (like `\n`). You can replace them with actual linefeeds if needed
 - `[DF]` and `[SP]` are control codes for design layout
 

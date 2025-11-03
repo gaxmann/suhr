@@ -17,7 +17,6 @@
         "O",
         "N"
     ],
-    "txpartsupport": "[i]REMARQUE : (β) Cette langue n'est que partiellement prise en charge. Certaines sections sont donc en anglais. Les traductions nécessitent un travail considérable. Toute aide est la bienvenue (Github)[/i]",
     "txgps_label": "[DF]Position GPS ou nom de lieu:",
     "txgpsauto": "Position automatique:",
     "txgpsautosh": "AUTO",
@@ -79,6 +78,7 @@
         "txgpsdeact": "Le GPS est désactivé. Veuillez activer le GPS dans les paramètres de votre appareil"
     },
     "txsettings": "[DF]Horloge de Gordon",
+    "txpartsupport": "[i]REMARQUE : (β) Cette langue n'est que partiellement prise en charge. Certaines sections sont donc en anglais. Les traductions nécessitent un travail considérable. Toute aide est la bienvenue (Github)[/i]",
 
     "uebanleitung": "Instructions",
     "txanleitung": "[DF]Cochez la case « Position automatique » pour mettre à jour rapidement et économiquement votre position lors de l'utilisation (« Agnihotra » pour une localisation plus précise). « 1x position » détermine votre position actuelle une seule fois et la conserve.[~LF][~LF]Vous pouvez également saisir un nom de lieu ou une adresse dans le champ de texte (si votre appareil le permet) ou une position GPS séparée par des virgules (par exemple 50.74, 7.07). Les 3e et 4e entrées sont facultatives : l'altitude approximative en mètres et la température en °Celsius. Cochez ensuite la case « Masquer l’info GPS ». - En cas de modification des coordonnées ou d'autres données fondamentales, Horloge solaire effectue un calcul quotidien qui peut prendre entre 2 et 30 sec. (selon l'appareil).[~LF][~LF]Sous Design, vous pouvez choisir différents affichages. Le mode sombre « automatique » passe en mode sombre au coucher du soleil, « -6° » à la fin du crépuscule, « +6° » avant.[DF]",
@@ -86,7 +86,7 @@
 
     "txdata": "[DF]Données",
     "txlocdata": "[DF]Les calculs de l'Horloge solaire de Gordon pour votre emplacement individuel doivent correspondre à l'almanach astronomique à 0,0005 seconde d'arc près³:[DF]",
-    "txobjdata": "– Soleil¹ –[~LF]Heure : {clocktm}[~LF]Heure temporelle : {temptm}{sun_agnicountdown}{sun_agnihotra}[~LF]Jour lumineux : {sun_daylight}[~LF][~LF]– Lune² –[~LF]Pleine lune : {moon_full}[~LF]Nouvelle lune : {moon_new} [~LF]En phase : {moon_illum}[~LF]Taille : {moon_sizep} (85-100)[~LF][~LF]– Luminosité –[~LF]Vénus : {venus_magp} (83-100)[~LF]Mars : {mars_magp} (52-100)[~LF]Jupiter : {jupiter_magp} (87-100)[~LF]Saturne : {saturn_magp} (77-100)[~LF]Mercure : {merkur_magp} (0-100)[~LF][~LF]Explication : ¹ « ἡ » heure inégale 1-12 du jour (ou de la nuit « ν ») avec décimale (« sixième heure ») ; « φ » veille nocturne 1-4 avec 60 minutes inégales | Agnihotra & jour lumineux : lever-coucher [lever demain] | ² Pleine lune et nouvelle lune : date (en/avant jours) | ³ La lune ≈ 2000 secondes d'arc[~LF][~LF][~LF][b]–– Légende :[/b]",
+    "txobjdata": "– Soleil¹ –[~LF]Heure : {clocktm}[~LF]Heure temporelle : {temptm}{sun_agnicountdown}{sun_agnihotra}[~LF]Jour lumineux : {sun_daylight}[~LF][~LF]– Lune² –[~LF]Pleine lune : {moon_full}[~LF]Nouvelle lune : {moon_new}[~LF]Illuminée : {moon_illum}[~LF]Taille : {moon_sizep} (85-100)[~LF][~LF]– Luminosité –[~LF]Vénus : {venus_magp} (83-100)[~LF]Mars : {mars_magp} (52-100)[~LF]Jupiter : {jupiter_magp} (87-100)[~LF]Saturne : {saturn_magp} (77-100)[~LF]Mercure : {merkur_magp} (0-100)[~LF][~LF]Explication : ¹ « ἡ » heure inégale 1-12 du jour ou « ν » nuit, chacune avec une décimale (par exemple « sixième heure ») ; « φ » veille nocturne 1-4 avec 60 « minutes » inégales | Agnihotra & jour de lumière : lever-coucher aujourd'hui [lever demain] | ² Pleine lune et nouvelle lune : date (en/avant jours) | ³ La lune mesure environ 2000 arcsec. [~LF][~LF][~LF][b]–– Légende :[/b]",
     "txlegende": "[DF]☉ Soleil, ● Lune (avec phases)[~LF][~LF]♀ Vénus (couleur perle), ♂ Mars (rougeâtre), ♃ Jupiter (rayé), ♄ Saturne (avec anneaux), ☿ Mercure (gris)[~LF][~LF][s] Sirius, [k] Canopus, [f] Alpha Centauri, [a] Arcturus, [w] Véga, [c] Capella, [r] Rigel, [p] Procyon, [b] Bételgeuse, [h] Achernar[DF][DF][DF]",
 
     "char_vowels": "aeiouyäöüáéíóúÄÖÜÁÉÍÓÚ",

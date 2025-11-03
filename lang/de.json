@@ -23,7 +23,6 @@
         "W",
         "N"
     ],
-    "txpartsupport": "[i]HINWEIS: (β) Diese Sprache ist nur teilweise unterstützt. Daher sind einige Abschnitte auf Englisch. Übersetzungen erfordern einen erheblichen Aufwand. Unterstützung ist willkommen (Github)[/i]",
     "txgps_label": "[DF]GPS-Position oder Ortsname:",
     "txgpsauto": "Auto-Standort:",
     "txgpsautosh": "AUTO",
@@ -85,6 +84,7 @@
         "txgpsdeact": "GPS ist deaktiviert. Bitte aktivieren Sie GPS in Ihrer Geräteeinstellung"
     },
     "txsettings": "[DF]Gordons Sonnenuhr",
+    "txpartsupport": "[i]HINWEIS: (β) Diese Sprache ist nur teilweise unterstützt. Daher sind einige Abschnitte auf Englisch. Übersetzungen erfordern einen erheblichen Aufwand. Unterstützung ist willkommen (Github)[/i]",
 
     "uebanleitung": "Anleitung",
     "txanleitung": "[DF]Setzen Sie das Häkchen bei „Auto-Standort“, um Ihren Standort schnell und energiesparend bei Nutzung aktuell zu halten („Agnihotra“ für genauere Ortsbestimmung). „1x Ortung“ bestimmt Ihre aktuelle Position einmalig und übernimmt diese fest.[~LF][~LF]Alternativ können Sie einen Ortsnamen oder eine Adresse in das Textfeld eingeben (wenn Ihr Gerät dies unterstützt) oder kommagetrennt eine GPS-Position (z.B. 50.74, 7.07). Ein 3. und 4. Eintrag sind optional: die ungefähre Höhe in Metern und die Temperatur in °Celsius. Anschließend setzen Sie das Häkchen bei „GPS-Hinweis aus“. - Bei Änderungen der Koordinaten oder anderer grundlegender Daten führt Sonnenuhr eine Tagesberechnung durch, die (je nach Gerät) zwischen 2-30 Sekunden dauern kann.[~LF][~LF]Unter Design können Sie verschiedene Darstellungen auswählen. Dunkelmodus „automatisch“ wechselt bei Sonnenuntergang auf Dunkelmodus, „-6°“ zum Ende der Dämmerung, „+6°“ davor.[DF]",
@@ -92,7 +92,7 @@
 
     "txdata": "[DF]Daten",
     "txlocdata": "[DF]Berechnungen von Gordons Sonnenuhr für Ihren individuellen Standort sollten mit dem astronomischen Almanach auf 0,0005 Bogensekunden übereinstimmen³:[DF]",
-    "txobjdata": "– Sonne¹ –[~LF]Uhrzeit: {clocktm}[~LF]Temporalstunde: {temptm}{sun_agnicountdown}{sun_agnihotra}[~LF]Lichttag: {sun_daylight}[~LF][~LF]– Mond² –[~LF]Vollmond: {moon_full}[~LF]Neumond: {moon_new}[~LF]Beleuchtet: {moon_illum}[~LF]Größe: {moon_sizep} (85-100)[~LF][~LF]– Helligkeit –[~LF]Venus: {venus_magp} (83-100)[~LF]Mars: {mars_magp} (52-100)[~LF]Jupiter: {jupiter_magp} (87-100)[~LF]Saturn: {saturn_magp} (77-100)[~LF]Merkur: {merkur_magp} (0-100)[~LF][~LF]Erklärung: ¹ „ἡ“ ungleiche Stunde 1-12 des Tages (oder der Nacht „ν“) mit Dezimalstelle („sechste Stunde“); „φ“ Nachtwache 1–4 mit 60 ungleichen Minuten | Agnihotra & Lichttag: Aufgang-Untergang [Aufgang morgen] | ² Voll- und Neumond: Datum (in/vor Tagen) | ³ Mond ≈ 2000 Bogensek.[~LF][~LF][~LF][b]–– Legende:[/b]",
+    "txobjdata": "– Sonne¹ –[~LF]Uhrzeit: {clocktm}[~LF]Temporalstunde: {temptm}{sun_agnicountdown}{sun_agnihotra}[~LF]Lichttag: {sun_daylight}[~LF][~LF]– Mond² –[~LF]Vollmond: {moon_full}[~LF]Neumond: {moon_new}[~LF]Beleuchtet: {moon_illum}[~LF]Größe: {moon_sizep} (85-100)[~LF][~LF]– Helligkeit –[~LF]Venus: {venus_magp} (83-100)[~LF]Mars: {mars_magp} (52-100)[~LF]Jupiter: {jupiter_magp} (87-100)[~LF]Saturn: {saturn_magp} (77-100)[~LF]Merkur: {merkur_magp} (0-100)[~LF][~LF]Erklärung: ¹ „ἡ“ ungleiche Stunde 1-12 des Tages oder der „ν“ Nacht, jeweils mit Dezimalstelle (z.B. „sechste Stunde“); „φ“ Nachtwache 1–4 mit 60 ungleichen „Minuten“ | Agnihotra & Lichttag: Aufgang-Untergang heute [Aufgang morgen] | ² Voll- und Neumond: Datum (in/vor Tagen) | ³ Mond ist ca. 2000 Bogensek. groß[~LF][~LF][~LF][b]–– Legende:[/b]",
     "txlegende": "[DF]☉ Sonne, ● Mond (mit Phasen)[~LF][~LF]♀ Venus (perlenfarben), ♂ Mars (rötlich), ♃ Jupiter (gestreift), ♄ Saturn (mit Ringen), ☿ Merkur (grau)[~LF][~LF][s] Sirius, [k] Canopus, [f] Alpha Centauri, [a] Arktur, [w] Wega, [c] Capella, [r] Rigel, [p] Prokyon, [b] Beteigeuze, [h] Achernar[DF][DF][DF]",
 
     "char_vowels": "aeiouyäöüáéíóúÄÖÜÁÉÍÓÚ",
