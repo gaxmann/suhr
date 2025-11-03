@@ -4,13 +4,28 @@
 
 The German language file (`de.json`) is the **original source language**. It is recommended to start translations from German if possible. 
 
-English serves as the fallback language and will be used whenever a language or a translation entry is missing.
+English serves as the fallback language and will be used whenever a language or translation entry is missing.
 
-Sun Clock has fully supported languages (all entries translated) and partially supported languages (only about half of the entries translated). 
+### Supported Languages
+
+Sun Clock has **fully supported languages** (all entries translated) and **partially supported languages** (approximately half of the entries translated).
 
 Fully supported languages: **English (en)**, **Deutsch (de)**, **Español (es)**, **Français (fr)**, and **中文 (zh)**. All other languages are only partially supported. 
 
-*Note: Partially supported languages typically have two pages fully translated: the data overview page (including explanations and legend) and the settings page (UI elements and explanations). They include all entries up to `"txlegende"` (which marks the end of the translated section). All other content – including the tutorial ("How to read the dial", etc.) – defaults to English. Full translations require significant effort. Contributions are welcome!*
+---
+
+### What "Partially Supported" Means
+
+Partially supported languages typically include all translations up to the `"txlegende"` entry in the language file. This covers:
+
+- **Settings page:** UI elements, buttons, labels, and explanations
+- **Data overview page:** Including explanations and legend
+
+**Not translated parts** (defaults to English):
+- Tutorial pages ("How to read the dial", conceptual explanations, etc.)
+- About page
+
+Full translations require significant effort, not only for the initial translation but also for ongoing maintenance as new features and content are added. Contributions are always welcome!
 
 ---
 
