@@ -47,7 +47,6 @@
         "en": "English",
         "es": "Spanish",
         "fr": "French",
-        "it": "Italiano",
         "zh": "Chinese"
     },
     "txfullscr": "Screen stays on:",
@@ -185,7 +184,7 @@
     "txanleitungprg": "[DF]Gordon's Sun Clock[~LF]Version [VERSIONNUM][~LF]Gordon Axmann[~LF]Copyright 2019-[VERSIONYEAR]",
     "txanleitung3": "[DF]Please use the software as it is. It is a free, private offer. I am not a professional app developer, but I have put a lot of heart and soul into the programme over the years.[DF][DF]",
     "txchangelog": "What's new?",
-    "txanleitung4": "[DF]Data is neither collected nor transmitted. Everything remains on your device. An internet connection is not even required for operation. One exception: if a programme error occurs, an anonymous error message will be sent if you have an internet connection (see privacy policy for details). This helps to ensure that Sun Clock runs smoothly.[~LF][~LF]If you find an error, I will be happy to correct it. To do so, I need a clear error report (possibly with a screenshot) and a brief description of where and when the error occurred. A screenshot of the status log below, taken as soon as possible after the error occurred, is also helpful (email contact: [CONTACTSUPPORT]). In 99% of cases, reports of supposed calculation errors are false alarms – unfortunately, there is a lot of misinformation about star calculations.[~LF][~LF]Thanks to: Rhodes Mill (Skyfield), Rolf, Greg Miller and all testers. Images of celestial bodies provided by: NASA / SOHO (Solar and Heliospheric Observatory), ESA / Hubble Space Telescope and NASA / JPL-Caltech (public domain). A list of all third-party materials and licences used can be found in the file ‘design/ COPYRIGHT.txt’.[~LF][~LF]‘Sun Clock’ is free software. Just enjoy using it. If you would like to express your appreciation for my work, you can find my website here:[DF][DF]",
+    "txanleitung4": "[DF]Data is neither collected nor transmitted. Everything remains on your device. An internet connection is not even required for operation. One exception: if a programme error occurs, an anonymous error message will be sent if you have an internet connection (see privacy policy for details). This helps to ensure that Sun Clock runs smoothly.[~LF][~LF]If you find an error, I will be happy to correct it. To do so, I need a clear error report (possibly with a screenshot) and a brief description of where and when the error occurred. A screenshot of the status log below, taken as soon as possible after the error occurred, is also helpful (email contact: [CONTACTSUPPORT]). In 99% of cases, reports of supposed calculation errors are false alarms – unfortunately, there is a lot of misinformation about star calculations.[~LF][~LF]Thanks to: Brandon Rhodes (Skyfield), Rolf, Greg Miller and all testers. Images of celestial bodies provided by: NASA / SOHO (Solar and Heliospheric Observatory), ESA / Hubble Space Telescope and NASA / JPL-Caltech (public domain). A list of all third-party materials and licences used can be found in the file ‘design/ COPYRIGHT.txt’.[~LF][~LF]‘Sun Clock’ is free software. Just enjoy using it. If you would like to express your appreciation for my work, you can find my website here:[DF][DF]",
     "txkaffee": "Visit website",
 
     "XXEOF": ""
