@@ -2,19 +2,11 @@
 
 ## Language Files
 
-The German language file (`de.json`) is the **original language**. It is recommended to start translations from German if possible. 
+The German language file (`de.json`) is the **original source language**. It is recommended to start translations from German if possible. 
 
-English is the fallback language and will be used if your local translation does not exist.
+English serves as the fallback language and will be used whenever a language or a translation entry is missing.
 
-**Fully supported languages:**
-- German (de)
-- English (en)
-- Spanish (es)
-- French (fr)
-- Chinese (zh)
-
-**Partially supported languages:**
-- Italian (it)
+Sun Clock has fully supported languages (all entries translated) and **partially supported languages** (only about half of the entries translated). You can distinguish them by filesize. 
 
 *Note: Partially supported languages have two pages fully translated: the data overview page (including explanations and legend) and the settings page (UI elements and explanations). All other content – including the tutorial ("How to read the dial", etc.) – defaults to English. Full translations require significant effort. Contributions are welcome!*
 

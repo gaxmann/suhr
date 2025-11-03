@@ -2,8 +2,10 @@
     "txwelcome": "欢迎",
     "quotes": ["《", "》"],
     "hoursh": "",
+    "hourshforce": "小时",
     "daysh": "天",
     "decimalsep": ".",
+    "n_a": "无数据",
     "wdaysh": [
         "周一",
         "周二",

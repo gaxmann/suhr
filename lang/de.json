@@ -2,8 +2,10 @@
     "txwelcome": "Willkommen",
     "quotes": [ "„", "”" ],
     "hoursh": "h",
+    "hourshforce": "h",
     "daysh": "d",
     "decimalsep": ",",
+    "n_a": "n.a.",
     "wdaysh": [
         "Mo",
         "Di",
