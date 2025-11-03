@@ -11,10 +11,11 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Sunrise condition changed from -0.8333° to -0.2667° (dark theme)
 - Problem with azimuth jump (southern hemisphere)
 - Night watch symbol changed to ‘φ’ (additional display of unequal hour of the night added with ‘ν‘)
-
+- Bug fixes (missing daylight period display)
+ 
 ### Changed
 - Partially-supported language option added, where only some parts of the app (UI) are translated (maintaining multiple languages is a lot of work): automatic note added to text about partial support. 
-- Bug fixes and language files updated
+- Language files updated
 
 ## [2.62-public] - 2025-11-01
 
