@@ -8,9 +8,9 @@ English serves as the fallback language and will be used whenever a language or 
 
 ### Supported Languages
 
-Sun Clock has **fully supported languages** (all entries translated) and **partially supported languages** (approximately half of the entries translated).
+Sun Clock has fully supported languages (all entries translated) and partially supported languages (approximately half of the entries translated).
 
-Fully supported languages: **English (en)**, **Deutsch (de)**, **Español (es)**, **Français (fr)**, and **中文 (zh)**. All other languages are only partially supported. 
+Fully supported languages: *English (en), Deutsch (de), Español (es), Français (fr), and 中文 (zh).* All other languages are only partially supported. 
 
 ---
 
@@ -21,7 +21,7 @@ Partially supported languages typically include all translations up to the `"txl
 - **Settings page:** UI elements, buttons, labels, and explanations
 - **Data overview page:** Including explanations and legend
 
-**Not translated parts** (defaults to English):
+**Not translated part** (defaults to English):
 - Tutorial pages ("How to read the dial", conceptual explanations, etc.)
 - About page
 
