@@ -5,13 +5,13 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ---
 
-## [2.63] - 2025-11-xx (Temporal hours 2)
+## [2.63] - 2025-11-xx (Temporal hours V2)
 
 ### Changed
 - After extensive discussions, the way hours are counted has now been changed to 0.0-11.9. This is logical and consistent for the 21st century: the sixth hour begins at 5.0, but is not announced until 6.0 (to mark its completion). A meeting at the sixth hour therefore correctly takes place at 6.0. At the same time, the old counting system still exists in German: "half two" sic(!) is 13:30, "three quarters two" is 13:45 (aligned with completion)
-- Night watch symbol changed to ‘φ’, additional display of unequal hours of the night added with ‘ν‘
+- Night watch symbol changed to ‘φ’, additional display of unequal hours of the night added with the (old) ‘ν‘
 - Better calculation of temporal hours for polar days
-- Partially-supported language option added, where only some parts of the app (UI) are translated (maintaining multiple languages is a lot of work): automatic note added to text about partial support
+- Partially-supported languages added, where only some parts of the app (UI) are translated (because maintaining multiple languages is a lot of work): automatic prompt added in text about partial support
 - Language files updated
 
 ### Fixed
