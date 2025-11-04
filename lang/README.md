@@ -42,7 +42,8 @@ When translating, please **keep all control codes unchanged**:
 ## Dictionary Entries
 
 ### Quotation Marks
-The `"quotes"` entry defines the local quotation marks used in your language, e.g. „Hello“ (German), «Hello» (French), ‘Hello’ (English).
+The `"quotes"` entry defines the local quotation marks used in your language, e.g.: 
+- „Hello“ (German), «Hello» (French), ‘Hello’ (English).
 
 ### Word Separation Rules
 
