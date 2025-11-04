@@ -43,7 +43,7 @@ When translating, please **keep all control codes unchanged**:
 
 ### Quotation Marks
 The `"quotes"` entry defines the local quotation marks used in your language, e.g.: 
-- „Hello“ (German), «Hello» (French), ‘Hello’ (English).
+- „Hello“ (German), «Hello» (French), ‘Hello’ (English)
 
 ### Word Separation Rules
 
