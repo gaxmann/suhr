@@ -1,4 +1,7 @@
 {
+    "txwelcome": "Welcome",
+    "quotes": [ "‘", "’" ],
+
     "char_vowels": "",
     "char_consonants": "",
     "char_splitafter": ".,;:!?“‘”-—)]}%&*+=/\\|>@#_×÷≈≠≤≥°¶•…”’»`",
@@ -7,4 +10,6 @@
     "graph_dontseparatebefore": [],
     "graph_dontseparateafter": [],
     "graph_separateafter": [],
+
+    "XXEOF": ""
 }
