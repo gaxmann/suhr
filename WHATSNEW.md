@@ -3,7 +3,7 @@ Short summary of the latest changes. – You'll find the [detailed changelog](./
 
 ---
 
-> ## [2.63] - 2025-11-xx (Temporal update)
+> ## [2.63] - 2025-11-xx (Temporal change)
 > 
 > - Temporal hours count from 0.0-11.9 (see [here](https://github.com/gaxmann/gordonssunclock/blob/main/CHANGELOG.md#changed)), night watches use 'φ'. Bug fixes
 
