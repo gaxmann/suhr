@@ -30,7 +30,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ### Fixed
 - Code optimised (img.copy, L/F token changed, because of wdiff), a bit faster now
-- Bug fixes (icon[2])
+- Bug fixes (icon[2], 1x location changes revoked)
 
 ## [2.60] - 2025-10-31 (Temporal hours)
 
