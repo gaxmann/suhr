@@ -13,6 +13,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Better calculation of temporal hours for polar days
 - Partially-supported languages added, where only some parts of the app (UI) are translated (because maintaining multiple languages is a lot of work): automatic prompt added in text about partial support
 - Language files updated
+- Libration-based rotation for the moon added
 
 ### Fixed
 - Problem with azimuth jump (southern hemisphere) fixed
