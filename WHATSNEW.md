@@ -5,7 +5,7 @@ Short summary of the latest changes. – You'll find the [detailed changelog](./
 
 > ## [2.63] - 2025-11-xx (Temporal change)
 > 
-> - Temporal hours count from 0.0-11.9 (see [here](https://github.com/gaxmann/gordonssunclock/blob/main/CHANGELOG.md#changed)), night watches use 'φ'. Bug fixes
+> - Temporal hours count from 0.0-11.9 (see [details](https://github.com/gaxmann/gordonssunclock/blob/main/CHANGELOG.md#changed)), night watches use 'φ'. Bug fixes
 
 ## [2.62] - 2025-11-01 (Temporal hours)
 
@@ -13,7 +13,7 @@ Short summary of the latest changes. – You'll find the [detailed changelog](./
 
 ## [2.59] - 2025-10-21 (Legacy support)
 
-- Android 5+ support restored (enables legacy devices as wall clocks)
+- Android 5+ support restored (enables legacy devices to be used as wall clocks)
 - Code restructuring, tidying, bug fixes
  
 ## [2.54-stable] - 2025-10-08 (Bar fixes)
