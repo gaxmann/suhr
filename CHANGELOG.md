@@ -17,6 +17,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ### Fixed
 - Problem with azimuth jump (southern hemisphere) fixed
 - Sunrise condition changed from -0.8333° to -0.2667° (dark theme, twilight marking)
+- Moon size now shows supermoon "(!)"
 - Bug fixes (missing daylight period data)
  
 ## [2.62-public] - 2025-11-01
