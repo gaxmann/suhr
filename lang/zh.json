@@ -93,7 +93,7 @@
 
     "txdata": "[DF]数据",
     "txlocdata": "[DF]根据Gordon-太阳时钟对您所在位置的计算结果应与天文年历上的数据一致，误差不超过 0.0005 角秒³：[DF]",
-    "txobjdata": "– 太阳¹ –[~LF]时间：{clocktm}[~LF]时间小时：{temptm}{sun_agnicountdown}{sun_agnihotra}[~LF]光照日： {sun_daylight}[~LF][~LF]– 月球² –[~LF]满月：{moon_full}[~LF]新月：{moon_new}[~LF]照明：{moon_illum}[~LF]大小： {moon_sizep} (85-100)[~LF][~LF]– 亮度 –[~LF]金星：{venus_magp} (83-100)[~LF]火星：{mars_magp} (52-100)[~LF]木星： {jupiter_magp} (87-100)[~LF]土星： {saturn_magp} (77-100)[~LF]水星：{merkur_magp} (0-100)[~LF][~LF]解释：¹ “ἡ”为白天或夜间的不等小时（0.0[NDASH]11.9）。以完成为基准：例如，第六小时从 5.1 开始，但在 6.0 时宣布结束（“从第六小时开始”= 从 6.0 开始）。“φ”夜间守夜，不均匀的“分钟”（0:00φ[NDASH]3:59φ） | 阿格尼霍特拉与光明日：日出[NDASH]日落今天 [日出明天] | ² 满月与新月：日期（天数/天数前） | ³ 月球大小约为 2000 角秒[~LF][~LF][~LF][b]–– 图例：[/b]",
+    "txobjdata": "– 太阳¹ –[~LF]时间：{clocktm}[~LF]时间小时：{temptm}{sun_agnicountdown}{sun_agnihotra}[~LF]光照日： {sun_daylight}[~LF][~LF]– 月球² –[~LF]满月：{moon_full}[~LF]新月：{moon_new}[~LF]照明：{moon_illum}[~LF]大小： {moon_sizep} (85-100)[~LF][~LF]– 亮度 –[~LF]金星：{venus_magp} (83-100)[~LF]火星：{mars_magp} (52-100)[~LF]木星： {jupiter_magp} (87-100)[~LF]土星： {saturn_magp} (77-100)[~LF]水星：{merkur_magp} (0-100)[~LF][~LF]解释：¹ “ἡ”为白天或夜间的不等小时（0.0[NDASH]11.9）。以完成为基准：例如，第六小时从 5.1 开始，但在 6.0 时宣布结束（“从第六小时开始”= 从 6.0 开始）。“φ”夜间守夜，不均匀的“分钟”（0φ00[NDASH]3φ59） | 阿格尼霍特拉与光明日：日出[NDASH]日落今天 [日出明天] | ² 满月与新月：日期（天数/天数前） | ³ 月球大小约为 2000 角秒[~LF][~LF][~LF][b]–– 图例：[/b]",
     "txlegende": "[DF]☉ 太阳, ● 月亮（带相位）[~LF][~LF]♀ 金星（珍珠色）, ♂ 火星（红色）, ♃ 木星（条纹）, ♄ 土星（带环）, ☿ 水星（灰色）[~LF][~LF][s] 天狼星, [k] 老人星, [f] 半人马座α, [a] 大角星, [w] 织女星, [c] 五车二, [r] 参宿七, [p] 南河三, [b] 参宿四, [h] 水委一[DF][DF][DF]",
 
     "char_vowels": "",
