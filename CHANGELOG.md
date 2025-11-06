@@ -9,7 +9,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ### Changed
 - Night watch symbol changed to ‘φ’, additional display of unequal hours of the night added with the ‘ν‘ sign
-- Temporal hours are now counted from 0.0 to 11.9. - *After closer historical review, this has proven to be the more consistent and logical system. The problem was that “we meet at the sixth hour” actually meant meeting at the beginning of the 7th, because the hour was not announced until its completion. With the new counting, the sixth hour now begins at 5.1 and will be announced at 6.0. Thus, a meeting “at the sixth hour” correctly occurs at 6.0. - This counting logic still exists in German dialects: ”half two” means 13:30, and “three quarters two” means 13:45, both referencing the approach toward completion of the next hour*
+- Temporal hours are now counted from 0.0 to 11.9. - *After closer historical review, this has proven to be the more consistent and logical system. The problem was that “we meet at the sixth hour” actually meant meeting at the beginning of the 7th, because the hour was not announced until its completion. With the new counting, the sixth hour now begins at 5.1 and will be announced at 6.0. Thus, a meeting “at the sixth hour” correctly occurs at 6.0. - This counting logic still exists in German dialects: ”half two” means 13:30, and “three quarters two” means 13:45, both referencing the approach toward completion of the hour*
 - Better calculation of temporal hours for polar days
 - Partially-supported languages added, where only some parts of the app (UI) are translated (because maintaining multiple languages is a lot of work): automatic prompt added in text about partial support
 - Language files updated
