@@ -76,13 +76,13 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - KeyError font10
 - Android 15+ bars fixed (finally, since 2025-07-03)
 
-## [2.53-android5] - 2025-10-08 (Special legacy version)
-
-### Changed
-- Special build (not for Play Store) for api 21-34 ([Android 5+](https://github.com/gaxmann/suhr/releases/tag/v2.xxx)) due to the unavoidable, upcoming Android 7+ requirement 
-
-### Fixed
-- KeyError font10
+> ## [2.53-android5] - 2025-10-08 (Special legacy version)
+> 
+> ### Changed
+> - Special build (not for Play Store) for api 21-34 ([Android 5+](https://github.com/gaxmann/suhr/releases/tag/v2.xxx)) due to the unavoidable, upcoming Android 7+ requirement 
+> 
+> ### Fixed
+> - KeyError font10
 
 ## [2.52-public] - 2025-10-06
 
