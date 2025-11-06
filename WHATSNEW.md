@@ -9,7 +9,7 @@ Short summary of the latest changes. – You'll find the [detailed changelog](./
 
 ## [2.62] - 2025-11-01 (Temporal hours)
 
-- Time display in unequal, temporal hours added. Bug fixes (slightly faster)
+- Time display in unequal, temporal hours added (text positions redesigned, because of changes in V3). Bug fixes
 
 ## [2.59] - 2025-10-21 (Legacy support)
 
