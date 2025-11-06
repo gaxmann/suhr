@@ -18,7 +18,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Problem with azimuth jump (southern hemisphere) fixed
 - Sunrise condition changed from -0.8333° to -0.2667° (auto dark theme, twilight marking)
 - Moon size now shows supermoon with "(!)"
-- Libration-based rotation of the moon image fixed (was linked to shadow): moon_wobble, mond_ueber_sueden
+- Rotation of the moon fixed (was linked to shadow): moon_wobble, field_rotation
 - Bug fixes (missing daylight period data, better error_report)
  
 ## [2.62-public] - 2025-11-01
