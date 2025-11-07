@@ -39,7 +39,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - 1x location button now accesses network and GPS
 - Telescope design: moon size decreased (though sun and moon appear the same size in reality); Greyscale design: planet symbols' size decreased
 - Versioncode on dial shortened
-- Texts edited
+- Texts updated
 - Bug fixes (keyerror)
 
 ## [2.59-public] - 2025-10-21
@@ -51,7 +51,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ### Changed
 - Navigation button on last page greyed out
 
-## [2.58] - 2025-10-20
+## [2.57/8] - 2025-10-20
 
 ### Changed
 - Changes from V3 incorporated to give both branches the same code basis
