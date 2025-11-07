@@ -69,12 +69,12 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ## [2.54-public] - 2025-10-08
 
-### Changed
-- Reverted api level back to 23-35 (Android 6+), restoring previous default, because of kivys automatic version_code system
-
 ### Fixed
 - KeyError font10
 - Android 15+ bars fixed (finally, since 2025-07-03)
+
+### Changed
+- Reverted api level back to 23-35 (Android 6+), restoring previous default, because of kivys automatic version_code system
 
 > ## [2.53-android5] - 2025-10-08 (Special legacy version)
 > 
