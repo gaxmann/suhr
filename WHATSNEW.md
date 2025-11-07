@@ -3,14 +3,10 @@ Short summary of the latest changes. – You'll find the [detailed changelog](./
 
 ---
 
-> ## [2.63] - 2025-11-xx (Temporal change)
-> 
-> - Temporal hours now count from 0.0-11.9 ([details](https://github.com/gaxmann/gordonssunclock/blob/main/CHANGELOG.md#changed)), night watches use 'φ'
-> - Bug fixes (moon rotation)
+## [2.63] - 2025-11-07 (Temporal hours+)
 
-## [2.62] - 2025-11-01 (Temporal hours)
-
-- Time display in unequal, temporal hours added (text positions redesigned, because of changes in V3). Bug fixes
+- Time display in unequal, temporal hours added ([details](https://github.com/gaxmann/gordonssunclock/blob/main/CHANGELOG.md#changed))
+- Bug fixes (text positions redesigned because of changes in V3, moon rotation)
 
 ## [2.59] - 2025-10-21 (Legacy support)
 
