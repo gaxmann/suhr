@@ -24,7 +24,7 @@ Short summary of the latest changes. – You'll find the [detailed changelog](./
 
 ## [2.42] - 2025-08-29 (Update prompt) 
 
-- "Update available" message (dial) for devices running 24/7
+- Clickable "Update available" message (dial) for devices running 24/7
 - Planetary data size reduced, improved moon, bug fixes  
 <!--## [2.39] - 2025-08-10 (Smaller database) 
 
