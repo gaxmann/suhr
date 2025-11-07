@@ -15,7 +15,7 @@ Short summary of the latest changes. – You'll find the [detailed changelog](./
 ## [2.59] - 2025-10-21 (Legacy support)
 
 - Android 5+ support restored (enables legacy devices to be used as wall clocks)
-- Code restructuring, tidying, bug fixes
+- Code restructuring, bug fixes
  
 ## [2.54-stable] - 2025-10-08 (Bar fixes)
 
@@ -24,15 +24,15 @@ Short summary of the latest changes. – You'll find the [detailed changelog](./
 
 ## [2.42] - 2025-08-29 (Update prompt) 
 
-- "Update available" message on dial for devices running 24/7, bug fixes
+- "Update available" message (dial) for devices running 24/7, bug fixes
   
 ## [2.39] - 2025-08-10 (Smaller database) 
 
-- Reduced planetary data size, improved moon, bug fixes 
+- Planetary data size reduced, improved moon, bug fixes 
   
 ## [2.35] - 2025-07-30 (Better zoom)
 
-- Doubled zoom resolution (triple-tap added), bug fixes
+- Zoom resolution doubled, triple-tap, bug fixes
   
 ## [2.33] - 2025-07-22 (Atmospheric refraction)
 
@@ -42,21 +42,20 @@ Short summary of the latest changes. – You'll find the [detailed changelog](./
 ## [2.25] - 2025-07-11 (Agnihotra times)
 
 - Agnihotra times now displayable, zoomable dial, fifth page for local data
-- Bug fixes (time zone change issue), Android 5+ (Android 15+ bar issues until 2.54)
+- Bug fixes (time zone change)
 
-<!-- > ## [2.21] - 2025-07-04 (Chinese language)
-> 
-> - Chinese language added
-> - Api 35 upgrade (Android 15+ bar issues until 2.54)
-> - Bug fixes(!) (unknown language error)
-> 
-> ## [2.18] - 2025-06-29 (Telescope design)
-> 
-> - Telescope design added, French language added, bug fixes
-> 
-> ## [2.15] - 2025-06-24 (Initial release)
-> 
-> - Initial Android release (on Play Store) with German, English and Spanish, Android 5+ ("unknown language" issue until 2.21)-->
+## [2.21] - 2025-07-04 (Chinese language)
+
+- Chinese language added, api 35 upgrade (Android 15+ bar issue till 2.54)
+- Bug fixes (unknown language)
+
+## [2.18] - 2025-06-29 (Telescope design)
+
+- Telescope design added, French language added, bug fixes
+
+## [2.15] - 2025-06-24 (Initial release)
+
+- Android release with German, English and Spanish, Android 5+
 
 ---
 
