@@ -6,7 +6,7 @@ Short summary of the latest changes. – You'll find the [detailed changelog](./
 ## [2.63] - 2025-11-07 (Temporal hours+)
 
 - Time display in unequal, temporal hours added ([details](https://github.com/gaxmann/gordonssunclock/blob/main/CHANGELOG.md#changed))
-- Bug fixes (text positions redesigned because of changes in V3, moon rotation)
+- Bug fixes (new text positions because of changes in V3, temporal changes, moon rotation)
 
 ## [2.59] - 2025-10-21 (Legacy support)
 
