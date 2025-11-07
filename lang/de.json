@@ -25,7 +25,7 @@
         "W",
         "N"
     ],
-    "txgps_label": "[DF]GPS-Position oder Ortsname:",
+    "txgps_label": "[DF]GPS (lat, lon) oder Ortsname:",
     "txgpsauto": "Auto-Standort:",
     "txgpsautosh": "AUTO",
     "txtimezone": "Zeitzone:",
@@ -51,7 +51,7 @@
         "fr": "Französisch",
         "zh": "Chinesisch"
     },
-    "txfullscr": "Bildschirm an:",
+    "txfullscr": "Immer an:",
     "txnachtmodus": "Dunkelmodus:",
     "txnachtmodusarr": {
         "auto": "automatisch",
@@ -88,7 +88,7 @@
     "txpartsupport": "[i]HINWEIS: (β) Diese Sprache ist nur teilweise unterstützt. Daher sind einige Abschnitte auf Englisch. Übersetzungen erfordern einen erheblichen Aufwand. Unterstützung ist willkommen (Github)[/i]",
 
     "uebanleitung": "Anleitung",
-    "txanleitung": "[DF]Setzen Sie das Häkchen bei „Auto-Standort“, um Ihren Standort schnell und energiesparend bei Nutzung aktuell zu halten („Agnihotra“ für genauere Ortsbestimmung). „1x Ortung“ bestimmt Ihre aktuelle Position einmalig und übernimmt diese fest.[~LF][~LF]Alternativ können Sie einen Ortsnamen oder eine Adresse in das Textfeld eingeben (wenn Ihr Gerät dies unterstützt) oder kommagetrennt eine GPS-Position (z.B. 50.74, 7.07). Ein 3. und 4. Eintrag sind optional: die ungefähre Höhe in Metern und die Temperatur in °Celsius. Anschließend setzen Sie das Häkchen bei „GPS-Hinweis aus“. - Bei Änderungen der Koordinaten oder anderer grundlegender Daten führt Sonnenuhr eine Tagesberechnung durch, die (je nach Gerät) zwischen 2-30 Sekunden dauern kann.[~LF][~LF]Unter Design können Sie verschiedene Darstellungen auswählen. Dunkelmodus „automatisch“ wechselt bei Sonnenuntergang auf Dunkelmodus, „-6°“ zum Ende der Dämmerung, „+6°“ davor.[DF]",
+    "txanleitung": "[DF]Setzen Sie das Häkchen bei „Auto-Standort“, um Ihren Standort schnell und energiesparend bei Nutzung aktuell zu halten („Agnihotra“ für genauere Ortsbestimmung). „1x Ortung“ bestimmt Ihre aktuelle Position einmalig und übernimmt diese fest.[~LF][~LF]Alternativ können Sie einen Ortsnamen oder eine Adresse in das Textfeld eingeben (wenn Ihr Gerät dies unterstützt) oder kommagetrennt eine GPS-Position (z.B. 50.94, 6.96). Ein 3. und 4. Eintrag sind optional: die ungefähre Höhe in Metern und die Temperatur in °Celsius. Anschließend setzen Sie das Häkchen bei „GPS-Hinweis aus“. - Bei Änderungen der Koordinaten oder anderer grundlegender Daten führt Sonnenuhr eine Tagesberechnung durch, die (je nach Gerät) zwischen 2-30 Sekunden dauern kann.[~LF][~LF]Unter Design können Sie verschiedene Darstellungen auswählen. Dunkelmodus „automatisch“ wechselt bei Sonnenuntergang auf Dunkelmodus, „-6°“ zum Ende der Dämmerung, „+6°“ davor.[DF]",
     "txmore": "„Agnihotra“ zeigt auf dem Ziffernblatt Markierungen für den Sonnenzeiger sowie unten die Zeit des nächsten Nulldurchlaufs der Sonne plus Countdown. 6 Minuten vor Agnihotra werden auch Sekunden eingeblendet. Unter „Blickrichtung“ legen Sie fest, ob die Uhr im Uhrzeigersinn (Süden) oder dagegen läuft (Norden). Wenn Sie die Drehrichtung ändern, erscheint der unter dem Horizont liegende Teil des Sonnenkreises vor Ihnen (mehr Details s. nächste Seite).[~LF][~LF]„Immer an“ verhindert das Ausschalten des Bildschirms: Ich habe meiner Nichte z.B. ein altes [i]Tablet[/i] mit „Sonnenuhr“ an die Wand gehängt. - Falls Ihre Einstellungen einmal nicht übernommen werden, tippen Sie auf dem Ziffernblatt unten rechts auf den Aktualisierungsknopf.[~LF][~LF]In das Ziffernblatt können Sie mit zwei Fingern hineinzoomen (oder mit Dreifachtipp). Wenn Sie das gezoomte Bild verschieben wollen, machen Sie es langsam. Schnelle Bewegungen wischen zur nächsten Seite. - Eine Erklärung zum Lesen des Ziffernblatts finden Sie auf der nächsten Seite.[DF][DF]",
 
     "txdata": "[DF]Daten",

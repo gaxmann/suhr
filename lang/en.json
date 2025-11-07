@@ -25,7 +25,7 @@
         "W",
         "N"
     ],
-    "txgps_label": "[DF]GPS position or place name:",
+    "txgps_label": "[DF]GPS (lat, lon) or place name:",
     "txgpsauto": "Auto location:",
     "txgpsautosh": "AUTO",
     "txtimezone": "Time zone:",
@@ -88,7 +88,7 @@
     "txpartsupport": "[i]NOTE: (β) This language is only partially supported. Therefore, some sections are in English. Translations require considerable effort. Support is welcome (Github)[/i]",
 
     "uebanleitung": "Instructions",
-    "txanleitung": "[DF]Tick the box next to ‘Auto location’ to keep your location up to date quickly and energy-efficiently while in use (“Agnihotra” for more accurate location determination). ‘1x location’ determines your current position once and saves it.[~LF][~LF]Alternatively, you can enter a place name or address in the text field (if your device supports this) or a comma separated GPS position (e.g. 50.74, 7.07). A third and fourth entry are optional: the approximate altitude in metres and the temperature in °Celsius. Then tick the box next to ‘Hide GPS notice’. - If the coordinates or other basic data change, Sun Clock performs a daily calculation, which can take between 2 and 30 seconds (depending on the device).[~LF][~LF]Under Design, you can select different displays. Dark mode ‘automatic’ switches to dark mode at sunset, ‘-6°’ at the end of twilight, ‘+6°’ before that.[DF]",
+    "txanleitung": "[DF]Tick the box next to ‘Auto location’ to keep your location up to date quickly and energy-efficiently while in use (“Agnihotra” for more accurate location determination). ‘1x location’ determines your current position once and saves it.[~LF][~LF]Alternatively, you can enter a place name or address in the text field (if your device supports this) or a comma separated GPS position (e.g. 50.94, 6.96). A third and fourth entry are optional: the approximate altitude in metres and the temperature in °Celsius. Then tick the box next to ‘Hide GPS notice’. - If the coordinates or other basic data change, Sun Clock performs a daily calculation, which can take between 2 and 30 seconds (depending on the device).[~LF][~LF]Under Design, you can select different displays. Dark mode ‘automatic’ switches to dark mode at sunset, ‘-6°’ at the end of twilight, ‘+6°’ before that.[DF]",
     "txmore": "‘Agnihotra’ displays markings for the sun pointer on the dial and the time of the sun's next zero crossing plus countdown at the bottom. Six minutes before Agnihotra, seconds are also displayed. Under ‘Viewing direction’, you can specify whether the clock runs clockwise (south) or counterclockwise (north). If you change the direction of rotation, the part of the sun circle below the horizon appears in front of you (see next page for more details).[~LF][~LF]‘Screen stays on’: for example, I hung an old tablet with Sun Clock on the wall for my niece. - If your settings are not applied, tap the refresh button at the bottom right of the dial.[~LF][~LF]You can zoom in on the dial with two fingers (or by triple-tapping). If you want to move the zoomed image, do so slowly. Fast movements will swipe to the next page. - An explanation of how to read the dial can be found on the next page.[DF][DF]",
 
     "txdata": "[DF]Data",
