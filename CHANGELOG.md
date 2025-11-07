@@ -260,7 +260,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Remove spaces from place names
 
 ### Changed
-- Update button now also retrieves GPS (if active),
+- Update button now also retrieves GPS (if enabled),
 - Api 24-35 (Android 7+)
 
 ## [2.25-public] - 2025-07-11 (Agnihotra times)
