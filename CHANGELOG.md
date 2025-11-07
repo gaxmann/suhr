@@ -70,8 +70,8 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ## [2.54-public] - 2025-10-08
 
 ### Fixed
-- KeyError font10
 - Android 15+ bars fixed (finally, since 2025-07-03)
+- KeyError font10
 
 > ## [2.53-android5] - 2025-10-08 (Special legacy version)
 > 
