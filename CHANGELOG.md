@@ -77,9 +77,6 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 > 
 > ### Changed
 > - Special build (not for Play Store) for api 21-34 ([Android 5+](https://github.com/gaxmann/suhr/releases/tag/v2.xxx)) due to the unavoidable, upcoming Android 7+ requirement 
-> 
-> ### Fixed
-> - KeyError font10
 
 ## [2.52-public] - 2025-10-06
 
