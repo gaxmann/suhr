@@ -87,7 +87,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ## [2.52-public] - 2025-10-06
 
 ### Changed
-- "Update available" message shown on dial for devices installed via apk (checked quarterly)
+- Clickable "Update available" message shown on dial for devices installed via apk (checked quarterly)
 
 ### Fixed
 - no attribute clock_screen
