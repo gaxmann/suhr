@@ -5,7 +5,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ---
 
-## [2.63] - 2025-11-07 (Temporal change)
+## [2.63-public] - 2025-11-07 (Temporal change)
 
 ### Changed
 - Night watch symbol changed to ‘φ’, additional display of unequal hours of the night added with the ‘ν‘ sign
