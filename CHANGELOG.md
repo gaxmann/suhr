@@ -62,10 +62,10 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ## [2.56-public] - 2025-10-13 (Api cleanup)
 
 ### Changed
-- Custom version_code generation to be able to revert back to min. api 21
+- Custom version_code generation (to be able to revert back to api 21)
 - Replacing versiondat with vs.dat (faster, more reliable)
 - Settings page restructured (because swiping between pages kept changing settings)
-- Reverting to api 21-35 (Android 5+) to have fewer branches (which made special version 2.53 redundant)
+- Reverted back to api 21-35 (Android 5+)
 
 ## [2.54-public] - 2025-10-08
 
