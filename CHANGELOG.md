@@ -523,7 +523,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ## [0.0 - 0.2] - 2012..2019
 
 ### Added
-- Predecessor versions 
+- Predecessor versions with a 24-hour movement 
 
 ---
 ---
