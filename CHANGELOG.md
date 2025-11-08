@@ -8,7 +8,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ## [2.63.2] - 2025-11-xx
 
 ### Changed
-- Automatic view direction calculation optimised
+- Calculation of automatic view direction optimised
 - Bug fixes (image file not found to delete)
 
 ## [2.63-public] - 2025-11-07 (Temporal change)
