@@ -5,7 +5,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ---
 
-## [2.63.2] - 2025-11-xx
+## [2.63.2] - 2025-11-xx (GPS time)
 
 ### Changed
 - Time is now GPS corrected (if GPS is enabled and Agnihotra is displayed)
