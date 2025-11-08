@@ -8,7 +8,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ## [2.63.2] - 2025-11-xx
 
 ### Changed
-- Time is now GPS corrected (if enabled)
+- Time is now GPS corrected (if GPS is enabled and Agnihotra is displayed)
 - Calculation of automatic view direction optimised
 - Bug fixes (image file not found to delete)
 
