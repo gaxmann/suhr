@@ -9,7 +9,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ### Changed
 - Time is now GPS corrected (if GPS is enabled and Agnihotra is displayed). Useful if devices run without net connection
-- Agnihotra will be markes with a "fresh" sign "+" if the current location and GPS-time is not older than 3 minutes
+- A "+" appears for Agnihotra if the last GPS stamp is less than 3 minutes old
 - Calculation of automatic view direction optimised
 - Bug fixes (file not found to delete)
 
