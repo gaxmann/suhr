@@ -10,7 +10,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ### Changed
 - Time is now GPS corrected (if GPS is enabled and Agnihotra is displayed). Useful if devices run without net connection
 - Calculation of automatic view direction optimised
-- Bug fixes (image file not found to delete)
+- Bug fixes (file not found to delete)
 
 ## [2.63-public] - 2025-11-07 (Temporal change)
 
