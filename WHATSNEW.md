@@ -3,6 +3,10 @@ Short summary of the latest changes. – You'll find the [detailed changelog](./
 
 ---
 
+> ## [2.64] - 2025-11-xx (Moon & time)
+> - GPS time correction for Agnihotra (“+” shows recent GPS)
+> - Moon shadow more realistic, bug fixes
+
 ## [2.63] - 2025-11-07 (Temporal hours+)
 
 - Time display in unequal, temporal hours added ([details](https://github.com/gaxmann/gordonssunclock/blob/main/CHANGELOG.md#changed))
