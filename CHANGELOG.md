@@ -8,12 +8,12 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ## [2.63.2] - 2025-11-xx (GPS time)
 
 ### Changed
-- Shown time is corrected via GPS (if GPS is enabled and Agnihotra is selected). Useful when a device has no network connection (or user wants precise timings)
+- Displayed time is corrected via GPS (if auto location and Agnihotra are selected). Useful when a device has no network connection to sync system time (or user wants precise timings)
 - A sign "+" appears next to the Agnihotra times if the last GPS position is less than 3 minutes old
 - Calculation of automatic view direction optimised
-- When flipping Agnihotra, the requestLocationUpdates are newly set
-- Moon terminator shadow blurred
-- Time display restored
+- When flipping Agnihotra, requestLocationUpdates are re-applied
+- Moon terminator shadow blurred for more realism (please zoom in)
+- The digital time display has been restored to the top-right of the dial
 - Bug fixes (file not found to delete)
 
 ## [2.63-public] - 2025-11-07 (Temporal change)
