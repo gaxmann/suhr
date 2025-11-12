@@ -12,6 +12,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - A sign "+" appears next to the Agnihotra times if the last GPS position is less than 3 minutes old
 - Calculation of automatic view direction optimised
 - When flipping Agnihotra, the requestLocationUpdates are newly set
+- Moon terminator shadow blurred
 - Time display restored
 - Bug fixes (file not found to delete)
 
