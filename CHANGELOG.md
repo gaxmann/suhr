@@ -9,7 +9,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ### Changed
 - Shown time is corrected via GPS (if GPS is enabled and Agnihotra is selected). Useful when a device has no network connection (or user wants precise timings)
-- A sign appears "+" after the Agnihotra times if the last GPS location is less than 3 minutes old (up-to-date)
+- A sign "+" appears after the Agnihotra times if the last GPS location is less than 3 minutes old (up-to-date)
 - Calculation of automatic view direction optimised
 - When flipping Agnihotra, the requestLocationUpdates are newly set
 - Time display restored
