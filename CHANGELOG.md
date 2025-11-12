@@ -12,6 +12,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - A sign appears "+" after the Agnihotra times if the last GPS location is less than 3 minutes old (up-to-date)
 - Calculation of automatic view direction optimised
 - When flipping Agnihotra, the requestLocationUpdates are newly set
+- Time display restored
 - Bug fixes (file not found to delete)
 
 ## [2.63-public] - 2025-11-07 (Temporal change)
