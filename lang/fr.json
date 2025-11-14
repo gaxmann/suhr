@@ -80,7 +80,8 @@
         "txgpsdeact": "Le GPS est désactivé. Veuillez activer le GPS dans les paramètres de votre appareil"
     },
     "txsettings": "[DF]Horloge de Gordon",
-    "txpartsupport": "[i]REMARQUE : (β) Cette langue n'est que partiellement prise en charge. Certaines sections sont donc en anglais. Les traductions nécessitent un travail considérable. Toute aide est la bienvenue (Github)[/i]",
+    "txpartsupport": "[i]REMARQUE : (β) Cette langue n'est que partiellement prise en charge. Certaines sections sont donc en anglais. Toute aide est la bienvenue (Github). - Vous trouverez un bouton « Traduction automatique » sur la dernière page[/i]",
+    "txnosupport": "[i]REMARQUE : votre langue n'est pas encore traduite. Vous trouverez un bouton « Traduction automatique » sur la dernière page[/i]",
 
     "uebanleitung": "Instructions",
     "txanleitung": "[DF]{LANGSUPPORT}Cochez la case {txgpsauto} pour mettre à jour automatiquement votre position pendant l'utilisation ({txagnihotra} pour une localisation plus précise et une synchronisation GPS). {txgpsbutton} détermine votre position actuelle une seule fois et la conserve. [~LF][~LF]Vous pouvez également saisir un nom de lieu ou une adresse dans le champ de texte (si votre appareil le permet) ou des coordonnées (par exemple 50,94, 6,96). Les 3e et 4e entrées sont facultatives : l'altitude approximative en mètres, la température en °Celsius. Cochez ensuite la case {txwelcomescr}. - En cas de modification des données de base, Sonnenuhr effectue un calcul quotidien qui peut prendre entre 2[NDASH]30 secondes selon l'appareil. [~LF][~LF]{txagnihotra} affiche les repères pour l'aiguille solaire ainsi que l'heure du prochain passage du soleil à zéro et le compte à rebours. Six minutes avant l'Agnihotra, l'affichage est agrandi et les secondes s'affichent (⁺ = GPS actuel).[DF]",
