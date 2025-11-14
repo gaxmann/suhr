@@ -8,7 +8,7 @@ English serves as the fallback language and will be used whenever a language or 
 
 ### Supported Languages
 
-Sun Clock has two types of languages: fully supported (all entries translated) and partially supported languages (where approximately half of the entries are translated).
+Sun Clock has two types of language support: fully supported languages (all entries translated) and partially supported languages (where approximately half of the entries are translated).
 
 Fully supported languages are: *English (en), Deutsch (de), Español (es), Français (fr), and 中文 (zh).* All other languages are only partially supported. 
 
@@ -16,7 +16,9 @@ Fully supported languages are: *English (en), Deutsch (de), Español (es), Fran�
 
 ### What "Partially Supported" Means
 
-Partially supported languages typically include all translations up to the `"txlegende"` entry in the language file. This covers:
+(a) Fully supported languages include complete translations of all entries. My long-term goal is to provide full support only for the most widely used languages (roughly the global top ten: ✓English, ✓Simplified Chinese, ✓Spanish, Hindi, Arabic, ✓French, Bengali, Portuguese, Russian, Indonesian, ✓German). Maintaining a larger number of fully translated languages would create more ongoing work than I can realistically support.
+
+(b) Partially supported languages typically include all translations up to the `"txlegende"` entry in the language file. This covers:
 
 - **Settings page:** UI elements, buttons, labels, and explanations
 - **Data overview page:** Including explanations and legend
@@ -24,6 +26,8 @@ Partially supported languages typically include all translations up to the `"txl
 **Not translated part** (defaults to English):
 - Tutorial pages ("How to read the dial", conceptual explanations, etc.)
 - About page
+
+(c) Minimal supported languages support at least all labels of the settings page (that includes all translations up to the `"txpartsupport"` entry in the language file).
 
 Full translations require significant effort, not only for the initial translation but also for ongoing maintenance as new features and content are added. Contributions are always welcome!
 
