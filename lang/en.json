@@ -25,24 +25,24 @@
         "W",
         "N"
     ],
-    "txgps_label": "[DF]GPS (lat, lon) or place name:",
-    "txgpsauto": "Auto location:",
+    "txgps_label": "[DF]GPS (lat, lon) or place name",
+    "txgpsauto": "Auto location",
     "txgpsautosh": "AUTO",
-    "txtimezone": "Time zone:",
-    "txtimeformat": "24h format:",
-    "txwelcomescr": "Hide GPS notice:",
-    "txshowagni": "Show Agnihotra:",
+    "txtimezone": "Time zone",
+    "txtimeformat": "24h format",
+    "txwelcomescr": "Hide GPS notice",
+    "txshowagni": "Show Agnihotra",
     "txagnihotrain": "Agnihotra in: {agnih_countdo}",
     "txagnihotra": "Agnihotra",
-    "txedgescreen": "More edge:",
-    "txenlargeobj": "Large objects:",
-    "txuhrsinn": "Viewing direction:",
+    "txedgescreen": "More edge",
+    "txenlargeobj": "Large objects",
+    "txuhrsinn": "Viewing direction",
     "txuhrsinnarr": {
         "auto": "automatic",
         "nord": "North",
         "sued": "South"
     },
-    "txlang": "Language:",
+    "txlang": "Language",
     "txlangarr": {
         "auto": "automatic",
         "de": "German",
@@ -51,8 +51,8 @@
         "fr": "French",
         "zh": "Chinese"
     },
-    "txfullscr": "Screen stays on:",
-    "txnachtmodus": "Dark mode:",
+    "txfullscr": "Screen stays on",
+    "txnachtmodus": "Dark mode",
     "txnachtmodusarr": {
         "auto": "automatic",
         "auto_lang": "auto (+6°)",
@@ -60,7 +60,7 @@
         "night": "dark",
         "day": "light"
     },
-    "txfarben": "Design:",
+    "txfarben": "Design",
     "txfarbenarr": {
         "orig": "Greyscale",
         "a-telesk": "Telescope",
@@ -88,12 +88,12 @@
     "txpartsupport": "[i]NOTE: (β) This language is only partially supported. Therefore, some sections are in English. Translations require considerable effort. Support is welcome (Github)[/i]",
 
     "uebanleitung": "Instructions",
-    "txanleitung": "[DF]Tick the box next to ‘Auto location’ to automatically update your location during use (“Agnihotra” for more accurate location determination and GPS time synchronisation). ‘1x location’ determines your current position once and saves it. [~LF][~LF]Alternatively, you can enter a place name or address in the text field (if your device supports this) or coordinates (e.g. 50.94, 6.96). A third and fourth entry are optional: the approximate altitude in metres and the temperature in °Celsius. Then tick the box next to ‘GPS notification off’. If you change any basic data, Sonnenuhr will perform a daily calculation, which can take between 2[NDASH]30 seconds, depending on your device. Under Design, you can choose from a variety of dials. Dark mode ‘automatic’ changes at sunset, ‘-6°’ at the end of twilight, ‘+6°’ before that.[DF]",
-    "txmore": "‘Agnihotra’ displays markers for the sun pointer as well as the time of the sun's next zero crossing and countdown. Six minutes before Agnihotra, the display is enlarged and seconds are shown (‘⁺’ = current GPS). Under ‘Viewing direction’, you can specify whether the clock runs clockwise (south) or counterclockwise. If you change the direction of rotation, the part of the sun circle below the horizon is in front of you (see next page for details). [~LF][~LF]‘Always on’ prevents the screen from turning off: For example, I hung an old tablet with ‘Sundial’ on the wall for my niece. - If your settings are not applied, tap the refresh button at the bottom right of the dial. [~LF][~LF]You can zoom in on the dial with two fingers (or by triple-tapping). If you want to move the zoomed image, do so slowly. Fast movements will swipe to the next page. - On the next page, you will find an explanation of the dial.[DF][DF][DF]",
+    "txanleitung": "[DF]Tick the box next to {txgpsauto} to automatically update your location while using the app ({txagnihotra} for more accurate location determination and GPS time synchronisation). {txgpsbutton} determines your current position once and saves it. [~LF][~LF]Alternatively, you can enter a place name or address in the text field (if your device supports this) or coordinates (e.g. 50.94, 6.96). A third and fourth entry are optional: the approximate altitude in metres and the temperature in °Celsius. Then tick the box next to {txwelcomescr}. If you change any basic data, Sonnenuhr will perform a daily calculation, which can take between 2[NDASH]30 seconds, depending on your device. [~LF][~LF]{txagnihotra} shows markings for the gnomon and the time of the next zero crossing of the sun & countdown. Six minutes before Agnihotra, the display is enlarged and seconds are shown (⁺ = current GPS).[DF]",
+    "txmore": "{txfullscr} prevents the screen from turning off: For example, I hung an old tablet with a ‘sun dial’ on the wall for my niece. With {txuhrsinn}, you can specify whether the clock runs clockwise (south) or counterclockwise. If you change the direction of rotation, the part of the sun circle below the horizon is in front of you (see next page for details). [~LF][~LF]{txcolours} selects different dials. {txnightmode} {auto} changes at sunset, -6° at the end of twilight, +6° before. If your settings are not applied, tap the refresh button at the bottom right of the dial. [~LF][~LF]You can zoom in on the dial with two fingers (or by triple-tapping). If you want to move the zoomed image, do so slowly. Fast movements will swipe to the next page. - On the next page, you will find an explanation of the dial.[DF][DF][DF]",
 
     "txdata": "[DF]Data",
     "txlocdata": "[DF]Calculations from Gordon's Sun Clock for your specific location should match the astronomical almanac to within 0.0005 arc seconds³:[DF]",
-    "txobjdata": "– Sun¹ –[~LF]Time: {clocktm}[~LF]Temporal hour: {temptm}{sun_agnicountdown}{sun_agnihotra}[~LF]Daylight: {sun_daylight}[~LF][~LF]– Moon² –[~LF]Full moon: {moon_full}[~LF]New moon: {moon_new}[~LF]Illuminated: {moon_illum}[~LF]Size: {moon_sizep} (85-100)[~LF][~LF]– Brightness –[~LF]Venus: {venus_magp} (83-100)[~LF]Mars: {mars_magp} (52-100)[~LF]Jupiter: {jupiter_magp} (87-100)[~LF]Saturn: {saturn_magp} (77-100)[~LF]Mercury: {merkur_magp} (0-100)[~LF][~LF]Explanation: ¹ Time: GPS = synchronised | Temporal hour: ‘ἡ’ unequal hour (0.0[NDASH]11.9) of the day or ‘ν’ of the night. Aligned with completion: e.g. the sixth hour began at 5.1, but was proclaimed at 6.0, from the 6th hour onwards = from 6.0. ‘φ’ night watch with unequal ‘minutes’ (0φ00[NDASH]3φ59) | Agnihotra & daylight: ⁺ = fresh GPS | Sunrise[NDASH]Sunset today [Sunrise tomorrow] | ² Full moon and new moon: date (in/before days) | ³ Moon is approx. 2000 arc seconds in size[~LF][~LF][~LF][b]–– Legend:[/b]",
+    "txobjdata": "– Sun¹ –[~LF]Time: {clocktm}[~LF]Temporal hour: {temptm}{sun_agnicountdown}{sun_agnihotra}[~LF]Daylight: {sun_daylight}[~LF][~LF]– Moon² –[~LF]Full moon: {moon_full}[~LF]New moon: {moon_new}[~LF]Illuminated: {moon_illum}[~LF]Size: {moon_sizep} (85-100)[~LF][~LF]– Brightness –[~LF]Venus: {venus_magp} (83-100)[~LF]Mars: {mars_magp} (52-100)[~LF]Jupiter: {jupiter_magp} (87-100)[~LF]Saturn: {saturn_magp} (77-100)[~LF]Mercury: {merkur_magp} (0-100)[~LF][~LF]Explanation: ¹ Time: GPS = synchronised | Temporal hour: ‘ἡ’ unequal hour (0.0[NDASH]11.9) of the day or ‘ν’ of the night. Aligned with completion: e.g. the sixth hour began at 5.1, but was proclaimed at 6.0, from the 6th hour onwards = from 6.0. ‘φ’ night watch with unequal ‘minutes’ (0φ00[NDASH]3φ59) | Agnihotra & daylight: sunrise[NDASH]sunset today [sunrise tomorrow]. ⁺ = fresh GPS | ² Full and new moon: time (in/before days) | ³ Moon is approx. 2000 arc seconds in size[~LF][~LF][~LF][b]–– Legend:[/b]",
     "txlegende": "[DF]☉ Sun, ● Moon (with phases)[~LF][~LF]♀ Venus (pearl-coloured), ♂ Mars (reddish), ♃ Jupiter (striped), ♄ Saturn (with rings), ☿ Mercury (grey)[~LF][~LF][s] Sirius, [k] Canopus, [f] Alpha Centauri, [a] Arcturus, [w] Vega, [c] Capella, [r] Rigel, [p] Procyon, [b] Betelgeuse, [h] Achernar[DF][DF][DF][DF]",
 
     "char_vowels": "aeiouyäöüáéíóúÄÖÜÁÉÍÓÚ",

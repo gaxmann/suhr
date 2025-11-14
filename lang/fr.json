@@ -19,24 +19,24 @@
         "O",
         "N"
     ],
-    "txgps_label": "[DF]GPS (lat, lon) ou nom de lieu:",
-    "txgpsauto": "Position automatique:",
+    "txgps_label": "[DF]GPS (lat, lon) ou nom de lieu",
+    "txgpsauto": "Position automatique",
     "txgpsautosh": "AUTO",
-    "txtimezone": "Fuseau horaire:",
-    "txtimeformat": "Format 24h:",
-    "txwelcomescr": "Masquer l’info GPS:",
-    "txshowagni": "Afficher Agnihotra:",
+    "txtimezone": "Fuseau horaire",
+    "txtimeformat": "Format 24h",
+    "txwelcomescr": "Masquer l’info GPS",
+    "txshowagni": "Afficher Agnihotra",
     "txagnihotrain": "Agnihotra dans: {agnih_countdo}",
     "txagnihotra": "Agnihotra",
-    "txedgescreen": "Plus de bordure:",
-    "txenlargeobj": "Grands objets:",
-    "txuhrsinn": "Direction du regard:",
+    "txedgescreen": "Plus de bordure",
+    "txenlargeobj": "Grands objets",
+    "txuhrsinn": "Direction du regard",
     "txuhrsinnarr": {
         "auto": "automatique",
         "nord": "Nord",
         "sued": "Sud"
     },
-    "txlang": "Idioma:",
+    "txlang": "Idioma",
     "txlangarr": {
         "auto": "automatique",
         "de": "Allemand",
@@ -46,8 +46,8 @@
         "it": "Italiano",
         "zh": "Chinois"
     },
-    "txfullscr": "Mode toujours actif:",
-    "txnachtmodus": "Mode sombre:",
+    "txfullscr": "Mode toujours actif",
+    "txnachtmodus": "Mode sombre",
     "txnachtmodusarr": {
         "auto": "automatique",
         "auto_lang": "auto (+6°)",
@@ -55,7 +55,7 @@
         "day": "clair",
         "night": "sombre"
     },
-    "txfarben": "Design:",
+    "txfarben": "Design",
     "txfarbenarr": {
         "orig": "Nuances de gris",
         "a-telesk": "Télescope",
@@ -83,12 +83,12 @@
     "txpartsupport": "[i]REMARQUE : (β) Cette langue n'est que partiellement prise en charge. Certaines sections sont donc en anglais. Les traductions nécessitent un travail considérable. Toute aide est la bienvenue (Github)[/i]",
 
     "uebanleitung": "Instructions",
-    "txanleitung": "[DF]Cochez la case « Localisation automatique » pour mettre à jour automatiquement votre position pendant l'utilisation (« Agnihotra » pour une localisation plus précise et une synchronisation GPS). « Localisation unique » détermine votre position actuelle une seule fois et la conserve. [~LF][~LF]Vous pouvez également saisir un nom de lieu ou une adresse dans le champ de texte (si votre appareil le permet) ou des coordonnées (par exemple 50,94, 6,96). Les 3e et 4e entrées sont facultatives : l'altitude approximative en mètres, la température en °Celsius. Cochez ensuite la case « GPS désactivé ». - En cas de modification des données de base, Sonnenuhr effectue un calcul quotidien qui peut prendre entre 2[NDASH]30 secondes selon l'appareil. [~LF][~LF]Sous Design, vous pouvez choisir différents cadrans. Le mode sombre « automatique » change au coucher du soleil, « -6° » à la fin du crépuscule, « +6° » avant.[DF]",
-    "txmore": "« Agnihotra » affiche les repères pour l'indicateur solaire ainsi que l'heure du prochain passage à zéro du soleil et le compte à rebours. Six minutes avant l'Agnihotra, l'affichage s'agrandit et les secondes s'affichent (« ⁺ » = GPS actuel). Sous « Direction du regard », vous pouvez définir si l'horloge tourne dans le sens des aiguilles d'une montre (sud) ou dans le sens inverse. Si vous modifiez le sens de rotation, la partie du cercle solaire située sous l'horizon se trouve devant vous (pour plus de détails, voir la page suivante). [~LF][~LF]« Toujours allumé » empêche l'écran de s'éteindre : j'ai par exemple accroché au mur une vieille [i]tablette[/i] avec « cadran solaire » pour ma nièce. - Si vos réglages ne sont pas pris en compte, appuyez sur le bouton de mise à jour en bas à droite du cadran. [~LF][~LF]Vous pouvez zoomer sur le cadran avec deux doigts (ou en appuyant trois fois). Si vous souhaitez déplacer l'image zoomée, faites-le lentement. Les mouvements rapides vous font passer à la page suivante. - Vous trouverez une explication du cadran à la page suivante.[DF][DF][DF]",
+    "txanleitung": "[DF]Cochez la case {txgpsauto} pour mettre à jour automatiquement votre position pendant l'utilisation ({txagnihotra} pour une localisation plus précise et une synchronisation GPS). {txgpsbutton} détermine votre position actuelle une seule fois et la conserve. [~LF][~LF]Vous pouvez également saisir un nom de lieu ou une adresse dans le champ de texte (si votre appareil le permet) ou des coordonnées (par exemple 50,94, 6,96). Les 3e et 4e entrées sont facultatives : l'altitude approximative en mètres, la température en °Celsius. Cochez ensuite la case {txwelcomescr}. - En cas de modification des données de base, Sonnenuhr effectue un calcul quotidien qui peut prendre entre 2[NDASH]30 secondes selon l'appareil. [~LF][~LF]{txagnihotra} affiche les repères pour l'aiguille solaire ainsi que l'heure du prochain passage du soleil à zéro et le compte à rebours. Six minutes avant l'Agnihotra, l'affichage est agrandi et les secondes s'affichent (⁺ = GPS actuel).[DF]",
+    "txmore": "{txfullscr} empêche l'écran de s'éteindre : j'ai par exemple accroché au mur une vieille [i]tablette[/i] avec une « horloge solaire » pour ma nièce. Avec {txuhrsinn}, vous pouvez définir si l'horloge tourne dans le sens des aiguilles d'une montre (sud) ou dans le sens inverse. Si vous modifiez le sens de rotation, la partie du cercle solaire située sous l'horizon se trouve devant vous (pour plus de détails, voir page suivante). [~LF][~LF]{txfarben} permet de choisir différents cadrans. {txnachtmodus} {auto} change au coucher du soleil, -6° à la fin du crépuscule, +6° avant. Si vos réglages ne sont pas pris en compte, appuyez sur le bouton de mise à jour en bas à droite du cadran. [~LF][~LF]Vous pouvez zoomer sur le cadran avec deux doigts (ou en appuyant trois fois). Si vous souhaitez déplacer l'image zoomée, faites-le lentement. Les mouvements rapides vous font passer à la page suivante. - Vous trouverez une explication du cadran à la page suivante.[DF][DF][DF]",
 
     "txdata": "[DF]Données",
     "txlocdata": "[DF]Les calculs de l'Horloge solaire de Gordon pour votre emplacement individuel doivent correspondre à l'almanach astronomique à 0,0005 seconde d'arc près³:[DF]",
-    "txobjdata": "– Soleil¹ –[~LF]Heure : {clocktm}[~LF]Heure temporelle : {temptm}{sun_agnicountdown}{sun_agnihotra}[~LF]Jour lumineux : {sun_daylight}[~LF][~LF]– Lune² –[~LF]Pleine lune : {moon_full}[~LF]Nouvelle lune : {moon_new}[~LF]Illuminée : {moon_illum}[~LF]Taille : {moon_sizep} (85-100)[~LF][~LF]– Luminosité –[~LF]Vénus : {venus_magp} (83-100)[~LF]Mars : {mars_magp} (52-100)[~LF]Jupiter : {jupiter_magp} (87-100)[~LF]Saturne : {saturn_magp} (77-100)[~LF]Mercure : {merkur_magp} (0-100)[~LF][~LF]Explication : ¹ Heure : GPS = synchronisé | Heure temporelle : « ἡ » heure inégale (0,0[NDASH]11,9) du jour ou « ν » de la nuit. Axé sur l'achèvement : par exemple, la sixième heure a commencé à 5,1, mais a été proclamée à 6,0, à partir de la 6e heure = à partir de 6,0. « φ » Veille nocturne avec des « minutes » inégales (0φ00[NDASH]3φ59) | Agnihotra & jour de lumière : ⁺ = GPS frais | Lever[NDASH]Coucher aujourd'hui [Lever demain] | ² Pleine lune et nouvelle lune : date (en/avant jours) | ³ La lune mesure environ 2000 secondes d'arc[~LF][~LF][~LF][b]–– Légende :[/b]",
+    "txobjdata": "– Soleil¹ –[~LF]Heure : {clocktm}[~LF]Heure temporelle : {temptm}{sun_agnicountdown}{sun_agnihotra}[~LF]Jour lumineux : {sun_daylight}[~LF][~LF]– Lune² –[~LF]Pleine lune : {moon_full}[~LF]Nouvelle lune : {moon_new}[~LF]Illuminée : {moon_illum}[~LF]Taille : {moon_sizep} (85-100)[~LF][~LF]– Luminosité –[~LF]Vénus : {venus_magp} (83-100)[~LF]Mars : {mars_magp} (52-100)[~LF]Jupiter : {jupiter_magp} (87-100)[~LF]Saturne : {saturn_magp} (77-100)[~LF]Mercure : {merkur_magp} (0-100)[~LF][~LF]Explication : ¹ Heure : GPS = synchronisé | Heure temporelle : « ἡ » heure inégale (0,0[NDASH]11,9) du jour ou « ν » de la nuit. Orienté vers l'achèvement : par exemple, la sixième heure a commencé à 5,1, mais a été proclamée à 6,0, à partir de la 6e heure = à partir de 6,0. « φ » Veille nocturne avec des « minutes » inégales (0φ00[NDASH]3φ59) | Agnihotra & jour lumineux : lever[NDASH]coucher aujourd'hui [lever demain]. ⁺ = GPS frais | ² Pleine lune et nouvelle lune : moment (en/avant jours) | ³ La lune mesure environ 2000 secondes d'arc[~LF][~LF][~LF][b]–– Légende :[/b]",
     "txlegende": "[DF]☉ Soleil, ● Lune (avec phases)[~LF][~LF]♀ Vénus (couleur perle), ♂ Mars (rougeâtre), ♃ Jupiter (rayé), ♄ Saturne (avec anneaux), ☿ Mercure (gris)[~LF][~LF][s] Sirius, [k] Canopus, [f] Alpha Centauri, [a] Arcturus, [w] Véga, [c] Capella, [r] Rigel, [p] Procyon, [b] Bételgeuse, [h] Achernar[DF][DF][DF][DF]",
 
     "char_vowels": "aeiouyäöüáéíóúÄÖÜÁÉÍÓÚ",
