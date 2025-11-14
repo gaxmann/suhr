@@ -8,9 +8,9 @@ English serves as the fallback language and will be used whenever a language or 
 
 ### Supported Languages
 
-Sun Clock has fully supported languages (all entries translated) and partially supported languages (approximately half of the entries translated).
+Sun Clock has two types of languages: fully supported (all entries translated) and partially supported languages (where approximately half of the entries are translated).
 
-Fully supported languages: *English (en), Deutsch (de), Español (es), Français (fr), and 中文 (zh).* All other languages are only partially supported. 
+Fully supported languages are: *English (en), Deutsch (de), Español (es), Français (fr), and 中文 (zh).* All other languages are only partially supported. 
 
 ---
 
@@ -33,7 +33,7 @@ Full translations require significant effort, not only for the initial translati
 
 When translating, please **keep all control codes unchanged**:
 
-- `[XXXXXX]` and `{xxxxxx}` are variables that will be replaced (at runtime)
+- `[XXXXXX]` and `{xxxxxx}` are variables that will be replaced by the programme
 - `[~LF]` represents linefeeds (like `\n`). You can replace them with actual linefeeds if needed. `[NDASH]` is the en dash character (long hyphen)
 - `[DF]` and `[SP]` are control codes for design layout
 
