@@ -86,7 +86,7 @@
     },
     "txsettings": "[DF]Gordon’s Sun Clock",
     "txpartsupport": "[i]NOTE: (β) This language is only partially supported. Therefore, some sections are in English. Support is welcome (Github). - On the last page, you will find an ‘Auto-Translate’ button[/i]",
-    "txnosupport": "[i]NOTE: Your language has not yet been translated. On the last page, you will find an ‘Auto-Translate’ button[/i]",
+    "txnosupport": "[i]NOTE: Your language is not yet supported, so English is shown. An ‘Auto-Translate’ button is available on the last page[/i]",
 
     "uebanleitung": "Instructions",
     "txanleitung": "[DF]{LANGSUPPORT}Tick the box next to {txgpsauto} to automatically update your location while using the app ({txagnihotra} for more accurate location determination and GPS time synchronisation). {txgpsbutton} determines your current position once and saves it. [~LF][~LF]Alternatively, you can enter a place name or address in the text field (if your device supports this) or coordinates (e.g. 50.94, 6.96). A third and fourth entry are optional: the approximate altitude in metres and the temperature in °Celsius. Then tick the box next to {txwelcomescr}. If you change any basic data, Sonnenuhr will perform a daily calculation, which can take between 2[NDASH]30 seconds, depending on your device. [~LF][~LF]{txagnihotra} shows markings for the gnomon and the time of the next zero crossing of the sun & countdown. Six minutes before Agnihotra, the display is enlarged and seconds are shown (⁺ = current GPS).[DF]",
