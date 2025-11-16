@@ -66,6 +66,12 @@ Some languages use different words for “day” depending on the number. The en
     "*":   "{day} дней"
 }
 ```
+**Key meaning**
+- `"1,1"` → applies when the number is exactly 1 (e.g. `1` → `{day} day`).
+- `"2,4"` → applies for any integer from 2 up to 4 inclusive (e.g. `2`, `3`, `4` → `{day} days` or language-specific form).
+- `"."` → applies to decimal numbers (e.g. `1.5`, `2.7`).
+- `"*"` → fallback for all other cases.
+
 
 ---
 
