@@ -17,8 +17,7 @@
     ],
     "xxdays": {
         "1,1": "{day} Tag",
-        "*": "{day} Tage",
-        ".": "{day} Tage"
+        "*": "{day} Tage"
     },
     "himmelsr": [
         "O",
