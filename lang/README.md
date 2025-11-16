@@ -20,7 +20,7 @@ Sun Clock has two types of language support: (1) fully supported languages (all 
 
 Full translations require significant effort, not only for the initial translation but also for ongoing maintenance as new features and content are added. Contributions are always welcome!
 
-(2a) Partially supported languages typically include all translations up to the `"txlegende"` entry in the language file. This covers:
+(2a) Partially supported languages typically include all translations up to (and including) the `"txlegende"` entry in the language file. This covers:
 
 - **Settings page:** UI elements, buttons, labels, and explanations
 - **Data overview page:** Including explanations and legend
@@ -29,7 +29,7 @@ Full translations require significant effort, not only for the initial translati
 - Tutorial pages ("How to read the dial", conceptual explanations, etc.)
 - About page
 
-(2b) Minimally supported languages support **at least** all labels of the settings page (that includes all translations up to the `"txpartsupport"` entry in the language file).
+(2b) Minimally supported languages support **at least** all labels of the settings page (that includes all translations up to (and including) the `"txpartsupport"` entry in the language file).
 
 ---
 
