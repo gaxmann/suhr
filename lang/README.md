@@ -10,7 +10,7 @@ English serves as the fallback language and will be used whenever a language or 
 
 Sun Clock has two types of language support: fully supported languages (all entries translated) and partially supported languages (where approximately half of the entries are translated).
 
-Fully supported languages are: *English (en), Deutsch (de), Español (es), Français (fr), and 中文 (zh).* All other languages are only partially supported. 
+Fully supported languages are: *English (en), Deutsch (de), Español (es), Français (fr), Русский (ru), and 中文 (zh).* All other languages are only partially supported. 
 
 ---
 
