@@ -45,15 +45,14 @@ When translating, please **keep all control codes unchanged**:
 
 ### Plural Rules for “Day(s)”
 
-Some languages use different words for “day” depending on the number. The entry `"xxdays"` defines these forms (English is the minimal working example). Use `{day}` where the number should appear.
+Some languages use different words for “day” depending on the number. The entry `"xxdays"` defines these forms (Chinese is the minimal working example). Use `{day}` where the number should appear.
 
 #### Examples
 
-**English**
+**Chinese**
 ```json
 "xxdays": {
-    "1,1": "{day} day",
-    "*": "{day} days"
+    "*": "{day} 天"
 }
 ```
 
