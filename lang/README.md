@@ -10,17 +10,17 @@ English serves as the fallback language and will be used whenever a language or 
 
 ## Types of Language Support
 
-Sun Clock has two types of language support: fully supported languages (all entries translated) and (a) partially (where approximately half of the entries are translated) or (b) minimally supported languages.
+Sun Clock has two types of language support: (1) fully supported languages (all entries translated) and (2a) partially supported (where approximately half of the entries are translated) and (2b) minimally supported languages.
 
 ### Fully supported languages
 
-Fully supported languages are: *English (en), Deutsch (de), Español (es), Français (fr), Русский (ru), and 中文 (zh).* My long-term goal is to provide full support only for the most widely used languages (roughly the global top ten: ✓English, ✓Simplified Chinese, ✓Spanish, Hindi, Arabic, ✓French, Bengali, Portuguese, ✓Russian, Indonesian, ✓German). Maintaining a larger number of fully translated languages would create more ongoing work than I can realistically support.
+(1) Fully supported languages are: *English (en), Deutsch (de), Español (es), Français (fr), Русский (ru), and 中文 (zh).* My long-term goal is to provide full support only for the most widely used languages (roughly the global top ten: ✓English, ✓Simplified Chinese, ✓Spanish, Hindi, Arabic, ✓French, Bengali, Portuguese, ✓Russian, Indonesian, ✓German). Maintaining a larger number of fully translated languages would create more ongoing work than I can realistically support.
 
 ### What "Partially/Minimally Supported" Means
 
 Full translations require significant effort, not only for the initial translation but also for ongoing maintenance as new features and content are added. Contributions are always welcome!
 
-(a) Partially supported languages typically include all translations up to the `"txlegende"` entry in the language file. This covers:
+(2a) Partially supported languages typically include all translations up to the `"txlegende"` entry in the language file. This covers:
 
 - **Settings page:** UI elements, buttons, labels, and explanations
 - **Data overview page:** Including explanations and legend
@@ -29,7 +29,7 @@ Full translations require significant effort, not only for the initial translati
 - Tutorial pages ("How to read the dial", conceptual explanations, etc.)
 - About page
 
-(b) Minimally supported languages support **at least** all labels of the settings page (that includes all translations up to the `"txpartsupport"` entry in the language file).
+(2b) Minimally supported languages support **at least** all labels of the settings page (that includes all translations up to the `"txpartsupport"` entry in the language file).
 
 ---
 
