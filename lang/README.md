@@ -31,7 +31,7 @@ Full translations require significant effort, not only for the initial translati
 - Tutorial pages ("How to read the dial", conceptual explanations, etc.)
 - About page
 
-(b) Minimal supported languages support at least all labels of the settings page (that includes all translations up to the `"txpartsupport"` entry in the language file).
+(b) Minimal supported languages support **at least** all labels of the settings page (that includes all translations up to the `"txpartsupport"` entry in the language file).
 
 ---
 
@@ -138,8 +138,7 @@ Or correct an existing translation:
 4. Submit your corrections via email (see last page of the app) or pull request 
 
 **Important notes:**
-- Preserve all control codes (e.g., `[~LF]` for line breaks, `[DF]` for spacing, `[b]...[/b]` for bold text)
-- Maintain the original tone: informative, personal, and approachable
 - For partial contributions, only include the entries you've modified – this makes merging easier
+- Preserve all control codes (e.g., `[~LF]` for line breaks, `[DF]` for spacing, `[b]...[/b]` for bold text)
 
 Thank you for helping make Gordon's Sun Clock accessible to more people!
