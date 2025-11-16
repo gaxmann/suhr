@@ -1,8 +1,8 @@
 {
     "txwelcome": "欢迎",
     "quotes": ["“", "”y"],
-    "hoursh": "",
-    "hourshforce": "小时",
+    "oclocksh": "",
+    "hoursh": "小时",
     "daysh": "天",
     "decimalsep": ".",
     "n_a": "无数据",

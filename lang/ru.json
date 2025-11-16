@@ -1,8 +1,8 @@
 {
     "txwelcome": "Добро пожаловать",
     "quotes": [ "«", "»" ],
+    "oclocksh": "ч",
     "hoursh": "ч",
-    "hourshforce": "ч",
     "daysh": "д",
     "decimalsep": ",",
     "n_a": "н/д",

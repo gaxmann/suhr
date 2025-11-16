@@ -1,8 +1,8 @@
 {
     "txwelcome": "Welcome",
     "quotes": [ "‘", "’" ],
+    "oclocksh": "h",
     "hoursh": "h",
-    "hourshforce": "h",
     "daysh": "d",
     "decimalsep": ".",
     "n_a": "N/A",
