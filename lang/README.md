@@ -10,13 +10,13 @@ English serves as the fallback language and will be used whenever a language or 
 
 ## Types of Language Support
 
-Sun Clock has two types of language support: fully supported languages (all entries translated) and (a) partially (where approximately half of the entries are translated) or (b) minimal supported languages.
+Sun Clock has two types of language support: fully supported languages (all entries translated) and (a) partially (where approximately half of the entries are translated) or (b) minimally supported languages.
 
 ### Fully supported languages
 
 Fully supported languages are: *English (en), Deutsch (de), Español (es), Français (fr), Русский (ru), and 中文 (zh).* My long-term goal is to provide full support only for the most widely used languages (roughly the global top ten: ✓English, ✓Simplified Chinese, ✓Spanish, Hindi, Arabic, ✓French, Bengali, Portuguese, ✓Russian, Indonesian, ✓German). Maintaining a larger number of fully translated languages would create more ongoing work than I can realistically support.
 
-### What "Partially/Minimal Supported" Means
+### What "Partially/Minimally Supported" Means
 
 Full translations require significant effort, not only for the initial translation but also for ongoing maintenance as new features and content are added. Contributions are always welcome!
 
@@ -29,7 +29,7 @@ Full translations require significant effort, not only for the initial translati
 - Tutorial pages ("How to read the dial", conceptual explanations, etc.)
 - About page
 
-(b) Minimal supported languages support **at least** all labels of the settings page (that includes all translations up to the `"txpartsupport"` entry in the language file).
+(b) Minimally supported languages support **at least** all labels of the settings page (that includes all translations up to the `"txpartsupport"` entry in the language file).
 
 ---
 
