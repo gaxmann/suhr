@@ -42,6 +42,26 @@ When translating, please **keep all control codes unchanged**:
 - `[DF]` and `[SP]` are control codes for design layout
 
 ---
+### Plural Formatting for Days (`xxdays` Entry)
+When adding translations for languages with complex plural rules (e.g., Russian, Polish), use the `"xxdays"` entry to define forms. The app's `txdatediff` function handles selection automatically:
+
+- **"1,1"**: Singular form (exact 1, e.g., "1 day" or "1 день").
+- **"2,4"**: Few form (range 2-4, e.g., "3 days" or "3 дня").
+- **"."**: Decimal numbers (e.g., "3.4 days" or "3,4 дня").
+- **"*"**: Default for all others (0, 5+, etc.).
+
+If `"."` is missing, it falls back to `"*"`. Replace `{day}` with the number (e.g., via `numform(tage, digit)`).
+
+**Example (Russian)**:
+```json
+"xxdays": {
+    "1,1": "{day} день",
+    "2,4": "{day} дня",
+    "*": "{day} дней",
+    ".": "{day} дня"
+}
+```
+---
 
 ## Dictionary Entries
 
