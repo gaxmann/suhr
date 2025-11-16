@@ -18,8 +18,6 @@ Fully supported languages are: *English (en), Deutsch (de), Español (es), Fran�
 
 Fully supported languages include complete translations of all entries. My long-term goal is to provide full support only for the most widely used languages (roughly the global top ten: ✓English, ✓Simplified Chinese, ✓Spanish, Hindi, Arabic, ✓French, Bengali, Portuguese, ✓Russian, Indonesian, ✓German). Maintaining a larger number of fully translated languages would create more ongoing work than I can realistically support.
 
----
-
 ### What "Partially Supported" Means
 
 Full translations require significant effort, not only for the initial translation but also for ongoing maintenance as new features and content are added. Contributions are always welcome!
@@ -47,6 +45,14 @@ When translating, please **keep all control codes unchanged**:
 
 ---
 
+## Dictionary Entries
+
+### Quotation Marks
+The `"quotes"` entry defines the local quotation marks used in your language, e.g.: 
+- „Hello“ (German), «Hello» (French), ‘Hello’ (English)
+
+---
+
 ### Plural Rules for “Day(s)”
 
 Some languages use different words for “day” depending on the number (e.g. 1 day, 2 days). The entry `"xxdays"` defines these forms. (Use `{day}` where the number should appear.)
@@ -69,19 +75,13 @@ Some languages use different words for “day” depending on the number (e.g. 1
     "*":   "{day} дней"
 }
 ```
-### Key Meanings
+#### Key Meanings
 - `"1"` → applies when the number is exactly 1 (e.g., `1` → `{day} day`)
 - `"2-4"` → applies for whole numbers from 2 to 4 inclusive (e.g., `2`, `3`, `4`)
 - `"."` → applies to decimal numbers (e.g., `1.5`, `2.7`)
 - `"*"` → fallback for all other cases **(mandatory)**
 
 ---
-
-## Dictionary Entries
-
-### Quotation Marks
-The `"quotes"` entry defines the local quotation marks used in your language, e.g.: 
-- „Hello“ (German), «Hello» (French), ‘Hello’ (English)
 
 ### Word Separation Rules
 
