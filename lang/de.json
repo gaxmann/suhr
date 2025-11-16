@@ -15,10 +15,11 @@
         "Sa",
         "So"
     ],
-    "xxdays": [
-        "{day} Tag",
-        "{day} Tage"
-    ],
+    "xxdays": {
+        "1,1": "{day} Tag",
+        "*": "{day} Tage",
+        ".": "{day} Tage"
+    },
     "himmelsr": [
         "O",
         "S",
@@ -49,6 +50,7 @@
         "en": "Englisch",
         "es": "Spanisch",
         "fr": "Französisch",
+        "ru": "Russisch",
         "zh": "Chinesisch"
     },
     "txfullscr": "Immer an",

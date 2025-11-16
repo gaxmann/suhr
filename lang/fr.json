@@ -9,10 +9,11 @@
     "wdaysh": [
         "Lun", "Mar", "Mer", "Jeu", "Ven", "Sam", "Dim"
     ],
-    "xxdays": [
-        "{day} jour",
-        "{day} jours"
-    ],
+    "xxdays": {
+        "1,1": "{day} jour",
+        "*": "{day} jours",
+        ".": "{day} jours"
+    },
     "himmelsr": [
         "E",
         "S",

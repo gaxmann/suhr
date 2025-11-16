@@ -15,10 +15,11 @@
         "Sat",
         "Sun"
     ],
-    "xxdays": [
-        "{day} day",
-        "{day} days"
-    ],
+    "xxdays": {
+        "1,1": "{day} day",
+        "*": "{day} days",
+        ".": "{day} days"
+    },
     "himmelsr": [
         "E",
         "S",
