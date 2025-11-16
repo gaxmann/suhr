@@ -16,7 +16,7 @@ Fully supported languages are: *English (en), Deutsch (de), Español (es), Fran�
 
 ### What "Partially Supported" Means
 
-(a) Fully supported languages include complete translations of all entries. My long-term goal is to provide full support only for the most widely used languages (roughly the global top ten: ✓English, ✓Simplified Chinese, ✓Spanish, Hindi, Arabic, ✓French, Bengali, Portuguese, Russian, Indonesian, ✓German). Maintaining a larger number of fully translated languages would create more ongoing work than I can realistically support.
+(a) Fully supported languages include complete translations of all entries. My long-term goal is to provide full support only for the most widely used languages (roughly the global top ten: ✓English, ✓Simplified Chinese, ✓Spanish, Hindi, Arabic, ✓French, Bengali, Portuguese, ✓Russian, Indonesian, ✓German). Maintaining a larger number of fully translated languages would create more ongoing work than I can realistically support.
 
 (b) Partially supported languages typically include all translations up to the `"txlegende"` entry in the language file. This covers:
 
