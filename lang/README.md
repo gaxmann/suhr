@@ -45,7 +45,7 @@ When translating, please **keep all control codes unchanged**:
 
 ### Plural Rules for “Day(s)”
 
-Some languages use different words for “day” depending on the number. The entry `"xxdays"` defines these forms (Chinese is the minimal working example). Use `{day}` where the number should appear.
+Some languages use different words for “day” depending on the number (e.g. 1 day, 2 days). The entry `"xxdays"` defines these forms (Chinese is the minimal working example). Use `{day}` where the number should appear.
 
 #### Examples
 
