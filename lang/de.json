@@ -16,7 +16,7 @@
         "So"
     ],
     "xxdays": {
-        "1,1": "{day} Tag",
+        "1": "{day} Tag",
         "*": "{day} Tage"
     },
     "himmelsr": [

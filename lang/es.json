@@ -16,7 +16,7 @@
         "Dom"
     ],
     "xxdays": {
-        "1,1": "{day} día",
+        "1": "{day} día",
         "*": "{day} días"
     },
     "himmelsr": [

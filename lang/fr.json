@@ -10,7 +10,7 @@
         "Lun", "Mar", "Mer", "Jeu", "Ven", "Sam", "Dim"
     ],
     "xxdays": {
-        "1,1": "{day} jour",
+        "1": "{day} jour",
         "*": "{day} jours"
     },
     "himmelsr": [
