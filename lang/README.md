@@ -10,15 +10,13 @@ English serves as the fallback language and will be used whenever a language or 
 
 ## Types of Language Support
 
-Sun Clock has two types of language support: fully supported languages (all entries translated) and partially supported languages (where approximately half of the entries are translated).
+Sun Clock has two types of language support: fully supported languages (all entries translated) and (a) partially (where approximately half of the entries are translated) or (b) minimal supported languages.
 
 ### Fully supported languages
 
-Fully supported languages are: *English (en), Deutsch (de), Español (es), Français (fr), Русский (ru), and 中文 (zh).* All other languages are only partially supported. 
+Fully supported languages are: *English (en), Deutsch (de), Español (es), Français (fr), Русский (ru), and 中文 (zh).* My long-term goal is to provide full support only for the most widely used languages (roughly the global top ten: ✓English, ✓Simplified Chinese, ✓Spanish, Hindi, Arabic, ✓French, Bengali, Portuguese, ✓Russian, Indonesian, ✓German). Maintaining a larger number of fully translated languages would create more ongoing work than I can realistically support.
 
-Fully supported languages include complete translations of all entries. My long-term goal is to provide full support only for the most widely used languages (roughly the global top ten: ✓English, ✓Simplified Chinese, ✓Spanish, Hindi, Arabic, ✓French, Bengali, Portuguese, ✓Russian, Indonesian, ✓German). Maintaining a larger number of fully translated languages would create more ongoing work than I can realistically support.
-
-### What "Partially Supported" Means
+### What "Partially/Minimal Supported" Means
 
 Full translations require significant effort, not only for the initial translation but also for ongoing maintenance as new features and content are added. Contributions are always welcome!
 
