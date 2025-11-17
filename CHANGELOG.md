@@ -5,7 +5,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ---
 
-## [2.63.2] - 2025-11-xx (GPS time)
+## [2.64] - 2025-11-18 (GPS time)
 
 ### Changed
 - Displayed time is corrected via GPS (if auto location and Agnihotra are selected). Useful when a device has no network connection to sync system time (or user wants precise timings)
