@@ -29,7 +29,7 @@ Full translations require significant effort, not only for the initial translati
 - Tutorial pages ("How to read the dial", conceptual explanations, etc.)
 - About page
 
-(2b) Minimally supported languages support **at least** all labels of the settings page (that includes all translations up to (and including) the `"txpartsupport"` entry plus the `"txlegende"` entry in the language file).
+(2b) Minimally supported languages support **at least** all labels of the settings page (that includes all translations up to (and including) the `"txpartsupport"` entry plus the small `"txlegende"` entry in the language file).
 
 ---
 
