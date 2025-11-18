@@ -82,7 +82,6 @@ Temporal hours, or unequal hours, divided both day and night into twelve parts â
 
 ---
 ---
----
 
 ## Contributing
 
