@@ -35,6 +35,16 @@ I've been living with this clock for seven years, and it has taught me a lot. It
 
 Since June 2025 Sun Clock is available as an Android app. The app is also known as: astronomical clock, astronomy app, horologium, horologion, orloj, astrolabe, star clock, sky clock, single-hand clock, solar clock, temporal hour clock.
 
+---
+
+<p float="left">
+  <img src="_gitdesign/sunclock_0.png" width="250" />
+  <img src="_gitdesign/tablet.jpg" width="250" />
+  <!-- <img src="_gitdesign/eink.jpg" width="250" /> -->
+</p>
+
+---
+
 ## Newest update: GPS Time Sync
 
 **For wall clocks without internet:** Devices without network access can use GPS to synchronise the system clock. This keeps your Sun Clock accurate and fully functional even offline.
@@ -70,14 +80,6 @@ Temporal hours, or unequal hours, divided both day and night into twelve parts �
 > What changes is the dial, not the time: it updates daily to reflect the real solar path for your location — including the Sun’s altitude and its position on the horizon. Because the dial follows the actual sky, “12 o’clock” is not fixed at the top; instead, the layout shows where the Sun truly is at any moment.
 > 
 > Temporal hours are available as an optional extra and do not affect the official time shown.
-
----
-
-<p float="left">
-  <img src="_gitdesign/sunclock_0.png" width="250" />
-  <img src="_gitdesign/tablet.jpg" width="250" />
-  <!-- <img src="_gitdesign/eink.jpg" width="250" /> -->
-</p>
 
 ---
 
