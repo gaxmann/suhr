@@ -399,14 +399,14 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Moon shadow was slightly too large
 
 ### Removed
-- ISS removed 
+- I-SS removed 
 
 ## [2.12] - 2025-06-16
 
 ### Added
 - Added option "Draw objects larger"
 - Added planet sizes in "More details"
-- ISS added
+- I-SS added
 
 ### Changed
 - Faster redrawing of dial with same coordinates
