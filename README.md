@@ -49,16 +49,17 @@ Temporal hours, or unequal hours, divided both day and night into twelve parts �
 
 ## Voices on Sun Clock
 
-- "This is genuinely fascinating – I love how you've blended technology with such a natural, almost poetic perspective on time. It feels like a reminder that we're all still connected to the rhythms of the universe, even in our busy modern lives", That, Reddit
-- "This is so cool! I downloaded it and I love it", Akai, Reddit
-- "This is incredibly intuitive – you don't even need to be explained how it works to understand how it works", fkih, Reddit
-- "The app got me thinking about the relation between clock time and what I actually see outside", Havea, Reddit
-- "This is a beautiful little app, well done! I appreciate your insightful representations of time in the context of our astronomical neighborhood", smaug, Reddit
-- "First I was like 'dafuq?' Now I quite like the idea", Adhesive, Reddit
-- "Thank you very much. An app as it should be. Functional, simple and ad-free", Ftothe
-- "Heard about this app on kivy Reddit. Love it, very simple and informative", Terry
-- "I live in China, and with the single time zone, it's often hard to know when the sun rises at a certain location. That's why I love this app", prana
-- "Since the update it now works on GrapheneOS too. Thanks for the effort!", dupa
+- *"This is genuinely fascinating – I love how you've blended technology with such a natural, almost poetic perspective on time. It feels like a reminder that we're all still connected to the rhythms of the universe, even in our busy modern lives", That, Reddit*
+- *"This is so cool! I downloaded it and I love it", Akai, Reddit*
+- *"This is incredibly intuitive – you don't even need to be explained how it works to understand how it works", fkih, Reddit*
+- *"The app got me thinking about the relation between clock time and what I actually see outside", Havea, Reddit*
+- *"This is a beautiful little app, well done! I appreciate your insightful representations of time in the context of our astronomical neighborhood", smaug, Reddit*
+- *"First I was like 'dafuq?' Now I quite like the idea", Adhesive, Reddit*
+- *"Thank you very much. An app as it should be. Functional, simple and ad-free", Ftothe*
+- *"Heard about this app on kivy Reddit. Love it, very simple and informative", Terry*
+- *"I live in China, and with the single time zone, it's often hard to know when the sun rises at a certain location. That's why I love this app", prana*
+- *"Since the update it now works on GrapheneOS too. Thanks for the effort!", dupa*
+
 
 ---
 
