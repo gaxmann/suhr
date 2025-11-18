@@ -35,7 +35,13 @@ I've been living with this clock for seven years, and it has taught me a lot. It
 
 Since June 2025 Sun Clock is available as an Android app. The app is also known as: astronomical clock, astronomy app, horologium, horologion, orloj, astrolabe, star clock, sky clock, single-hand clock, solar clock, temporal hour clock.
 
-## Newest update: Temporal Hours?
+## Newest update: GPS Time Sync
+
+**For wall clocks without internet:** Devices without network access can use GPS to synchronise the system clock. This keeps your Sun Clock accurate and fully functional even offline.
+
+**For Agnihotra practitioners:** With "Auto location" enabled, GPS determines your exact coordinates to calculate precise sunrise and sunset times for your specific location. At the same time, your device’s system clock is synchronised with the atomic clock network via GPS. I've experienced deviations of up to 2 sec between device time and atomic-clock time, which GPS sync automatically corrects. The “+” symbol next to the Agnihotra times confirms that both the location and time sync are less than three minutes old.
+
+## Temporal Hours Update
 
 Temporal hours, or unequal hours, divided both day and night into twelve parts — though the night was often reckoned instead by four watches. Unlike our modern, fixed hours, their duration shifted with the seasons. This ancient time system was used throughout history until mechanical clocks standardized hours. Sun Clock offers a window into how our ancestors experienced time.
 
