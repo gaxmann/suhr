@@ -34,12 +34,11 @@ Short summary of the latest changes. – You'll find the [detailed changelog](./
   
 ## [2.33] - 2025-07-22 (Atmospheric refraction)
 
-- Atmospheric refraction added (altitude & temperature support)
-- Improved location detection (Agnihotra), faster dial rendering, bug fixes
+- Atmospheric refraction added (altitude & temperature support), bug fixes
 
 ## [2.25] - 2025-07-11 (Agnihotra times)
 
-- Agnihotra times now displayable, zoomable dial, fifth page for local data, bug fixes (time zone change)
+- Agnihotra time display, zoomable dial, fifth page for local data, bug fixes (time zone change)
 
 ## [2.21] - 2025-07-04 (Chinese language)
 
