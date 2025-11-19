@@ -551,10 +551,12 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 V3 and V2 share the same source code (use release date to compare features). Below, you will only find the changes specific to V3.
 
-> ## [3.2] - 2025-10-xx (Temporal hours)
-> 
-> ### Changed
-> - Time display in unequal, temporal hours added (text updated), bug fixes (slightly faster) 
+## [3.2] - 2025-10-19 (Temporal hours, GPS time, Russian language)
+
+### Changed
+- Time display in unequal, temporal hours added (text updated), bug fixes (slightly faster)
+- GPS time correction for Agnihotra (“+” = current GPS)
+- Russian added, moon shadow more realistic, text positions restored, bug fixes
 
 ## [3.1] - 2025-10-28
 
