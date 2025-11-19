@@ -64,7 +64,7 @@ Short summary of the latest changes. – You'll find the [detailed changelog](./
 
 ### *Android 7+ (arm64-v8a only)*
 
-## [3.2] - 2025-11-19 (V3 = Transparent bars)
+## [3.2] - 2025-11-19 (Transparent bars)
 - Transparent navigation and status bars on Android 15+ (new positions for text on dial)
 - Android 7+, 16 kB page support, arm64-v8a only
 
