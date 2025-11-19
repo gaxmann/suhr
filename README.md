@@ -81,7 +81,6 @@ Temporal hours, or unequal hours, divided both day and night into twelve parts â
 > *Temporal hours are available as an optional extra and do not affect the official time shown.*
 
 ---
----
 
 ## Contributing
 
