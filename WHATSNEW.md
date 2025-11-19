@@ -3,7 +3,7 @@ Short summary of the latest changes. – You'll find the [detailed changelog](./
 
 ---
 
-## [2.64] - 2025-11-18 (Time sync)
+## [2.64] - 2025-11-18 (GPS time)
 - GPS time correction for Agnihotra (“+” = current GPS)
 - Russian added, more realistic moon shadow, text positions restored, bug fixes
 
