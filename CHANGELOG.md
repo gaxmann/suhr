@@ -554,9 +554,9 @@ V3 and V2 share the same source code (use release date to compare features). Bel
 ## [3.2] - 2025-10-19 (Temporal hours, GPS time, Russian language)
 
 ### Changed
-- Time display in unequal, temporal hours added (text updated)
+- Time display in unequal, temporal hours
 - GPS time correction for Agnihotra (“+” = current GPS)
-- Russian added, moon shadow more realistic, text positions restored, bug fixes
+- Russian added, moon shadow more realistic, bug fixes
 
 ## [3.1] - 2025-10-28
 
