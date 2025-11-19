@@ -66,7 +66,7 @@ Short summary of the latest changes. – You'll find the [detailed changelog](./
 
 ## [3.2] - 2025-11-19 (Temporal hours, GPS time, Russian language)
 - Time display in unequal, temporal hours, GPS time correction
-- Russian added, moon shadow more realistic, bug fixes
+- Russian added, more realistic moon shadow, bug fixes
 
 ## [3.1] - 2025-10-28 (Transparent bars) 
 - Transparent navigation and status bars on Android 15+ (new positions for text on dial)
