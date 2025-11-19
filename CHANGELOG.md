@@ -10,7 +10,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ### Changed
 - New moon's white ring restored
 
-## [2.64] - 2025-11-18 (GPS time)
+## [2.64] - 2025-11-18 (GPS time, Russian language)
 
 ### Changed
 - Displayed time is corrected via GPS (if auto location and Agnihotra are selected). Useful when a device has no network connection to sync system time (or user wants precise timings)
@@ -537,12 +537,13 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ## [1.0 - 1.73] - 2019-11..2025-05
 
 ### Added
-- First version on Raspberry Pi with an e-paper display
+- The project’s first digital incarnation, running on a Raspberry Pi and displayed on a 10-inch, 16-greyscale e-paper panel mounted inside a picture frame as a wall clock
+- Initially built on a Raspberry Pi Zero W, with an additional version later created using a Raspberry Pi 3A+
 
 ## [0.0 - 0.2] - 2012..2019
 
 ### Added
-- Predecessor versions with a 24-hour movement 
+- Predecessor versions based on a purely mechanical 24-hour clock movement with a single hand — an actual wall clock with dial and hand, predating any software implementation
 
 ---
 ---
