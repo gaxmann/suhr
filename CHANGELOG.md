@@ -15,7 +15,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - When flipping Agnihotra, requestLocationUpdates are re-applied
 - Moon terminator shadow blurred and slightly transparent for more realism (please zoom in)
 - The digital time display has been restored to the top-right of the dial
-- Quotes of the label texts in running texts are now copied from the label text ({txgpsauto}, no double translating)
+- Quotes of the label texts are now copied from the label text ({txgpsauto}, no double translating)
 - Button on the last page added to an Google autotranslate page, if system_lang is not supported by app
 - Bug fixes (file not found to delete)
 
