@@ -10,6 +10,9 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 ### Changed
 - New moon's white ring restored
 
+### Fixed
+- Russian word separation rules fixed
+
 ## [2.64] - 2025-11-18 (GPS time, Russian language)
 
 ### Changed
