@@ -136,7 +136,7 @@ Or correct an existing translation:
 1. Copy the language file you want to improve
 2. Keep only the entries you wish to change – delete all other entries
 3. Make your corrections while preserving the original tone and keeping control codes intact
-4. Submit your corrections via email (see last page of the app) or pull request 
+4. Submit your corrections via email (see last page of the app) or pull request
 
 **Important notes:**
 - For partial contributions, only include the entries you've modified – this makes merging easier
