@@ -5,7 +5,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ---
 
-## [2.64.2] - 2025-11-18 (GPS time)
+## [2.64.2] - 2025-11-xx
 
 ### Changed
 - New moon's white ring restored
