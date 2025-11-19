@@ -5,17 +5,15 @@ Short summary of the latest changes. – You'll find the [detailed changelog](./
 
 ## [2.64] - 2025-11-18 (Time sync)
 - GPS time correction for Agnihotra (“+” = current GPS)
-- Russian added, moon shadow more realistic, text positions restored, bug fixes
+- Russian added, more realistic moon shadow, text positions restored, bug fixes
 
-## [2.63] - 2025-11-07 (Temporal hours+)
+## [2.63] - 2025-11-07 (Temporal hours)
 
-- Time display in unequal, temporal hours added ([details](https://github.com/gaxmann/gordonssunclock/blob/main/CHANGELOG.md#changed))
-- Bug fixes (new text positions because of changes in V3, temporal changes, moon rotation)
+- Time display in unequal, temporal hours added ([details](https://github.com/gaxmann/gordonssunclock/blob/main/CHANGELOG.md#changed)), bug fixes
 
 ## [2.59] - 2025-10-21 (Legacy support)
 
-- Android 5+ support restored (enables legacy devices to be used as wall clocks)
-- Code restructuring, bug fixes
+- Android 5+ support (enables legacy devices to be used as wall clocks), bug fixes
  
 ## [2.54-stable] - 2025-10-08 (Bar fixes)
 
@@ -37,17 +35,15 @@ Short summary of the latest changes. – You'll find the [detailed changelog](./
 ## [2.33] - 2025-07-22 (Atmospheric refraction)
 
 - Atmospheric refraction added (altitude & temperature support)
-- Improved location detection (Agnihotra), faster dial rendering, bug fixes, Android 6+
+- Improved location detection (Agnihotra), faster dial rendering, bug fixes
 
 ## [2.25] - 2025-07-11 (Agnihotra times)
 
-- Agnihotra times now displayable, zoomable dial, fifth page for local data
-- Bug fixes (time zone change)
+- Agnihotra times now displayable, zoomable dial, fifth page for local data, bug fixes (time zone change)
 
 ## [2.21] - 2025-07-04 (Chinese language)
 
-- Chinese language added, api 35 upgrade (Android 15+ bar issue till 2.54)
-- Bug fixes (unknown language)
+- Chinese language added, api 35 upgrade (Android 15+ bar issue till 2.54), bug fixes (unknown language)
 
 ## [2.18] - 2025-06-29 (Telescope design)
 
@@ -55,7 +51,7 @@ Short summary of the latest changes. – You'll find the [detailed changelog](./
 
 ## [2.15] - 2025-06-24 (Initial release)
 
-- Android release with German, English and Spanish, Android 5+
+- Android release with German, English and Spanish
 
 ---
 
