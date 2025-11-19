@@ -534,7 +534,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 - Added coarse location query
 - Api 21-34 (Android 5+)
 
-## [1.0 - 1.73] - 2019-11..2025-05
+## [1.0 - 1.73] - 2019-11..2025
 
 ### Added
 - The project’s first digital incarnation, running on a Raspberry Pi and displayed on a 10-inch, 16-greyscale e-paper panel mounted inside a picture frame as a wall clock
@@ -552,7 +552,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 V3 and V2 share the same source code (use release date to compare features). Below, you will only find the changes specific to V3.
 
-## [3.2] - 2025-10-19 (Temporal hours, GPS time, Russian language)
+## [3.2] - 2025-11-19 (Temporal hours, GPS time, Russian language)
 
 ### Changed
 - Time display in unequal, temporal hours
