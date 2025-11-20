@@ -9,7 +9,7 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ### Changed
 - New moon's white ring restored
-- Standard temperature now estimated from latitude, longitude, altitude, and day of year (better calculation of refraction than "standard")
+- Standard temperature now instead estimated from latitude, longitude, altitude, and day of year (better calculation of refraction than "standard")
 
 ### Fixed
 - Russian word separation rules fixed
