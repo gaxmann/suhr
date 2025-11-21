@@ -9,7 +9,8 @@ You'll find a [short summary](./WHATSNEW.md) of the latest changes here. Below y
 
 ### Changed
 - New moon's white ring restored
-- Instead of standard temperature (= 10°C) refraction temperature is now estimated from latitude, longitude, altitude, and day of year 
+- Instead of standard temperature (= 10°C) refraction temperature is now estimated from latitude, longitude, altitude, and day of year
+- Ordinal numbers added to lang files
 
 ### Fixed
 - Russian word separation rules fixed
