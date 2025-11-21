@@ -8,8 +8,8 @@ from textwrap import shorten
 hasdiff=False # sic(!)
 
 # === Konfiguration (fest) ===
-default = 'de'
-SRC = f'./lang/{default}.json'
+defaultlang = 'de'
+langdir = './lang'
 print()
 
 def load_json(path):
@@ -99,17 +99,17 @@ def compare_and_print(src_path, old_path, lcode):
 def main():
     global langnr
     langnr=1
-    lang_dir = './lang'
-    src_file = os.path.join(lang_dir, f'{default}.json')
+    # langdir & defaultlang are globalvars
+    src_file = os.path.join(langdir, f'{defaultlang}.json')
 
-    for fn in os.listdir(lang_dir):
+    for fn in os.listdir(langdir):
         if not fn.endswith(".json"):
             continue
         code = fn[:-5]
-        if code == default:
+        if code == defaultlang:
             continue
 
-        cmp_file = os.path.join(lang_dir, f'{default}.CMP_{code}-json')
+        cmp_file = os.path.join(langdir, f'{defaultlang}.CMP_{code}-json')
         compare_and_print(src_file, cmp_file, code)
 
     if hasdiff:
