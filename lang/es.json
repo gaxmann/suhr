@@ -1,9 +1,13 @@
 {
     "_meta": {
-        "version": "1.12"
+        "version": "1.3.14",
+        "updated": "2025-11-21 23:00:31"
     },
     "txwelcome": "Bienvenido",
-    "quotes": [ "«", "»" ],
+    "quotes": [
+        "«",
+        "»"
+    ],
     "oclocksh": "h",
     "hoursh": "h",
     "daysh": "d",
@@ -23,8 +27,21 @@
         "*": "% días"
     },
     "aufzaehl": [
-      "0.º", "1.º", "2.º", "3.º", "4.º", "5.º", "6.º", "7.º", "8.º", "9.º", "10.º", "11.º", "12.º", "13.º"
-    ],    
+        "0.º",
+        "1.º",
+        "2.º",
+        "3.º",
+        "4.º",
+        "5.º",
+        "6.º",
+        "7.º",
+        "8.º",
+        "9.º",
+        "10.º",
+        "11.º",
+        "12.º",
+        "13.º"
+    ],
     "himmelsr": [
         "E",
         "S",
@@ -94,16 +111,13 @@
     "txsettings": "[DF]Reloj de sol Gordon",
     "txpartsupport": "[i]NOTA: (β) Este idioma solo es compatible parcialmente. Por lo tanto, algunas secciones están en inglés. Se agradece cualquier ayuda (Github). - En la última página encontrará un botón «Traducción automática».[/i]",
     "txnosupport": "[i]NOTA: Su idioma aún no ha sido traducido. En la última página encontrará un botón «Traducción automática»[/i]",
-
     "uebanleitung": "Instrucciones",
     "txanleitung": "[DF]{LANGSUPPORT}Marque la casilla {txgpsauto} para actualizar automáticamente su ubicación durante el uso ({txagnihotra} para una localización más precisa y sincronización horaria por GPS). {txgpsbutton} determina su posición actual una sola vez y la guarda. [~LF][~LF]Alternativamente, puede introducir un nombre de lugar o una dirección en el campo de texto (si su dispositivo lo admite) o coordenadas (por ejemplo, 50.94, 6.96). Las entradas 3 y 4 son opcionales: la altitud aproximada [m] y la temperatura aproximada al atardecer [°C]. A continuación, marque la casilla {txwelcomescr}. Si se modifican los datos básicos, Sonnenuhr realiza un cálculo diario que, dependiendo del dispositivo, puede durar entre 2[NDASH]30 segundos. [~LF][~LF]{txagnihotra} muestra marcas para el indicador solar, así como la hora del próximo paso por cero del sol y la cuenta atrás. Seis minutos antes del Agnihotra, la pantalla se amplía y se muestran los segundos (⁺ = GPS actual).j",
     "txmore": "[DF]{txfullscr} evita que se apague la pantalla: por ejemplo, le he colgado a mi sobrina una vieja [i]tableta[/i] con «reloj de sol» en la pared. Con {txuhrsinn} se puede determinar si el reloj gira en el sentido de las agujas del reloj (sur) o en sentido contrario. Si cambia el sentido de giro, la parte del círculo solar que se encuentra por debajo del horizonte quedará delante de usted (para más detalles, véase la página siguiente). [~LF][~LF]{txfarben} selecciona diferentes esferas. {txnachtmodus} {auto} cambia al atardecer, -6° al final del crepúsculo, +6° antes. - Si sus ajustes no se aplican, pulse el botón de actualización en la parte inferior derecha de la esfera. [~LF][~LF]Puede ampliar la esfera con dos dedos (o con un triple toque). Si desea mover la imagen ampliada, hágalo lentamente. Los movimientos rápidos le llevarán a la página siguiente. - En la página siguiente encontrará una explicación de la esfera.[DF][DF][DF]",
-
     "txdata": "[DF]Datos",
     "txlocdata": "[DF]Los cálculos del Reloj de sol de Gordon para su ubicación específica deben coincidir con el almanaque astronómico con una precisión de 0,0005 segundos de arco³:[DF]",
     "txobjdata": "– Sol¹ –[~LF]Hora: {clocktm}[~LF]Hora temporal: {temptm}[~LF]Día luminoso: {sun_daylight}{sun_agnicountdown}{sun_agnihotra}[~LF][~LF]– Luna² –[~LF]Iluminada: {moon_illum}[~LF]Luna llena: {moon_full}[~LF]Luna nueva: {moon_new}[~LF]Tamaño: {moon_sizep} (85-100)[~LF][~LF]– Brillo –[~LF]Venus: {venus_magp} (83-100)[~LF]Marte: {mars_magp} (52-100)[~LF]Júpiter: {jupiter_magp} (87-100)[~LF]Saturno: {saturn_magp} (77-100)[~LF]Mercurio: {merkur_magp} (0-100)[~LF][~LF]Explicación: ¹ Hora: GPS = sincronizada | Hora temporal: «ἡ» hora desigual (0,0[NDASH]11,9) del día o «ν» de la noche. Orientado a la finalización: por ejemplo, la sexta hora comienza a las 5,1, pero se proclama a las 6,0 (= a partir de la sexta hora). «φ» Vigilia nocturna con «minutos» desiguales (0φ00[NDASH]3φ59) | Día luminoso y Agnihotra: salida[NDASH]puesta hoy [salida mañana], ⁺ = GPS actual | ² Luna llena y luna nueva: momento (en/antes de días) | ³ La luna tiene un tamaño aproximado de 2000 segundos de arco[~LF][~LF][~LF][b]–– Leyenda:[/b]",
     "txlegende": "[DF]☉ Sol, ● Luna (con fases)[~LF][~LF]♀ Venus (color perla), ♂ Marte (rojizo), ♃ Júpiter (rayado), ♄ Saturno (con anillos), ☿ Mercurio (gris)[~LF][~LF][s] Sirio, [k] Canopus, [f] Alfa Centauri, [a] Arcturus, [w] Vega, [c] Capella, [r] Rigel, [p] Procyon, [b] Betelgeuse, [h] Achernar[DF][DF][DF][DF]",
-
     "char_vowels": "aeiouyäöüáéíóúÄÖÜÁÉÍÓÚ",
     "char_consonants": "bcdfghjklmnpqrstvwxyzñÑ",
     "char_splitafter": ".,;:!?“‘”-—)]}%&*+=/\\|>@#_×÷≈≠≤≥°¶•…”’»`",
@@ -165,19 +179,16 @@
     "graph_separateafter": [
         "de"
     ],
-
     "txmanual": "[DF]Esfera",
     "txanleitung2": "[DF]«El reloj de sol de Gordon» es, en principio, un reloj de una sola aguja con una esfera que cambia cada día y que se orienta según los ritmos de la naturaleza y los astros. Muestra la posición del sol y el cielo estrellado. Se trata de una nueva forma de representar el tiempo, que no es artificial como nuestro reloj convencional (con hora ferroviaria y cambio de hora), sino que se mueve en armonía con las estaciones del año.[~LF][~LF][i]NOTA: Puede desplazarse entre estas instrucciones y la esfera del reloj.[/i][~LF][~LF][~LF][b]–– Su mirada:[/b][~LF][~LF]En el centro de la pantalla verá una línea horizontal. Se trata del horizonte (la superficie terrestre). El triángulo puntiagudo del centro es un abeto que se ve a lo lejos (o una iglesia). No lo está mirando desde arriba, sino que se encuentra delante de él.[~LF][~LF]Si no ha cambiado la configuración («Dirección de vista: automática»), en el hemisferio norte mirará principalmente hacia el sur (en el hemisferio sur, hacia el norte). Los objetos a la izquierda de la pantalla se encuentran al este, los de la derecha, al oeste (al revés en el hemisferio sur). En el borde del horizonte se encuentran los puntos cardinales correspondientes.[~LF][~LF]La franja más clara bajo el horizonte indica el crepúsculo civil. La gran zona gris oscuro simboliza la noche (incluido el crepúsculo náutico). Los objetos que se encuentran en esta zona no son visibles.[~LF][~LF]En la parte inferior izquierda se muestra la hora local, en la parte superior derecha la altura del sol en grados en el cielo (por ejemplo, 27,6°) y su posición como código numérico (por ejemplo, «cri-hs») o el nombre de un lugar (si lo ha introducido). Debajo, la indicación desigual de las horas temporales.",
     "txanleitung2b": "[DF][DF][b]–– Sol:[/b][~LF][~LF]El sol (al final de la única aguja del reloj) se desplaza a lo largo del día de izquierda a derecha (al revés en el hemisferio sur). Cuanto más a la izquierda se encuentra el sol en la pantalla, más al este está; cuanto más a la derecha, más al oeste (al contrario en el hemisferio sur). Cuanto más alto se ve el sol en la pantalla, más alto está en el cielo.[~LF][~LF]El sol sigue la trayectoria circular trazada, por la que se mueve a lo largo del día. En el borde de la trayectoria circular se indican las horas (por ejemplo, «12» en punto), de modo que la trayectoria circular también funciona como esfera de reloj.[~LF][~LF]En la esfera del reloj, por ejemplo, se puede ver cómo los números se desplazan durante el cambio de hora, pero la trayectoria circular permanece igual. O cómo la hora legal difiere de la hora local en la mayoría de los lugares, ya que las 12 en punto no se encuentran exactamente en la parte superior de la esfera. Las horas temporales lo hacen de otra manera: La duodécima hora (12ἡ) es siempre la puesta del sol.[~LF][~LF][~LF][b]–– Luna:[/b][~LF][~LF]La luna también tiene una órbita. Está dibujada como un círculo gris claro (sin agujas). Dado que la luna tarda más de 24 horas en completar una órbita, se añaden dos horas adicionales (del día anterior) en gris extra claro. Si «vives con el reloj», puedes ver claramente cómo la luna se eleva y desciende periódicamente a lo largo de las semanas. Además, se puede observar cómo, en luna llena, se encuentra en posición opuesta al sol en el círculo (lejos), mientras que en luna nueva se encuentra en la misma posición del círculo (cerca del sol). Por lo general, no es exactamente la misma posición, ya que la vista es lateral (no desde arriba). Solo es exactamente la misma posición durante un eclipse solar.[~LF][~LF]La luna llena y la luna nueva se marcan con sombras. La luna nueva se representa durante 35 horas (porque ese es el tiempo en el que no se puede ver la luna en absoluto). La luna llena se representa durante 24 horas. El recálculo de la órbita del sol y la luna tiene lugar a las 00:00 UTC.",
     "txanleitung2c": "[DF][DF][b]–– Planetas:[/b][~LF][~LF]Se muestran los cinco planetas visibles a simple vista, con fotos tal y como se verían a través de unos prismáticos o (dependiendo del diseño) representados por sus símbolos astronómicos, véase la página 2). Si observa el cielo estrellado real, puede distinguir los planetas de las estrellas sabiendo que los planetas no parpadean, sino que brillan de forma constante. Aparecen en el cielo mucho más grandes que las estrellas lejanas y, por lo tanto, no se ven tan afectados por las fluctuaciones de densidad de la atmósfera.[~LF][~LF][~LF][b]–– Estrellas:[/b][~LF][~LF]A continuación se muestran las diez estrellas más brillantes, simbolizadas por una letra dentro de un cuadrado (véase la leyenda en la página 2). Mientras que los planetas se encuentran relativamente ordenados, en su mayoría más o menos cerca de la órbita solar, la órbita de las estrellas es independiente del sol, ya que son su propio sol. En los símbolos de las estrellas, dos lados del cuadrado siempre están dibujados con más intensidad que los otros dos. Esto indica la esquina o el cuadrante de su órbita en el que se encuentran actualmente. Si la esquina resaltada está en la parte inferior derecha, la estrella se encuentra (más o menos) al «final» de su trayectoria hacia abajo y hacia la derecha. En sus movimientos posteriores, se desplazará principalmente hacia arriba y hacia la izquierda (a menudo también fuera de la pantalla). Si el lado superior es más fuerte, la estrella se encuentra delante de usted; si el inferior es más fuerte, detrás de usted (si no ha cambiado el sentido de giro).",
     "txanleitung2d": "[DF][DF][b]–– Historia:[/b][~LF][~LF]«El reloj de sol de Gordon» se desarrolló en 2019 para una Raspberry Pi con una pantalla ePaper de 10 pulgadas, ya que quería tener un reloj de pared que fuera agradable a la vista y que relacionara la hora con la trayectoria del sol. Mi objetivo era construir un reloj que mostrara la hora natural, no la artificial, como la que muestra el reloj analógico de 12 horas. Donde vivimos, hay diferencias significativas en la duración de los días a lo largo del año, así como el recurrente y poco apreciado cambio de hora. Todo esto debía ponerse de relieve con el reloj de sol: muestra una esfera orgánica que se orienta según las estaciones, el ritmo de la naturaleza, y cambia con él. Dado que hoy en día casi todo el mundo lleva un pequeño ordenador en el bolsillo, he desarrollado Reloj de sol 2025 como aplicación para Android. ¡Que lo disfruten y aprendan mucho con él![DF][DF][DF]",
-
     "txabout": "[DF]Info",
     "txanleitungprg": "[DF]Reloj de sol de Gordon[~LF]Versión [VERSIONNUM][~LF]Gordon Axmann[~LF]Copyright 2019-[VERSIONYEAR]",
     "txanleitung3": "[DF]Utilice el software tal y como está. Se trata de una oferta privada y gratuita. No soy un desarrollador de aplicaciones profesional, pero he dedicado mucho esfuerzo y dedicación al programa durante años.[DF][DF]",
     "txchangelog": "¿Qué hay de nuevo?",
     "txanleitung4": "[DF] No se recopilan ni envían datos. Todo permanece en su dispositivo. Ni siquiera se necesita una conexión a Internet para su funcionamiento. Una excepción: si se produce un error en el programa, se enviará un mensaje de error anónimo (para más detalles, consulte la política de privacidad) si dispone de conexión a Internet. De este modo, contribuirá al buen funcionamiento de Reloj de sol.[~LF][~LF]Si encuentra un error, estaré encantado de corregirlo. Para ello, necesito un informe claro del error (posiblemente con una captura de pantalla) y una breve descripción de dónde y cuándo se produjo el error. También es útil una captura de pantalla del registro de estado que aparece a continuación, a ser posible inmediatamente después de que se produzca el error (contacto por correo electrónico: [CONTACTSUPPORT]). Las indicaciones sobre supuestos errores de cálculo son, en el 99 % de los casos, informes falsos; lamentablemente, hay mucha información errónea sobre el cálculo de las estrellas.[~LF][~LF]Agradecimientos a: Brandon Rhodes (Skyfield), Rolf, Greg Miller y todos los probadores. Imágenes de los cuerpos celestes proporcionadas por: NASA / SOHO (Solar and Heliospheric Observatory), ESA / Telescopio espacial Hubble y NASA / JPL-Caltech (dominio público). Encontrará una lista de todos los materiales de terceros utilizados y las licencias en el archivo «design/ COPYRIGHT.txt».[~LF][~LF]Le ofrezco «Reloj de sol» de forma gratuita. Simplemente disfrútelo. Si desea expresar su agradecimiento por mi trabajo, aquí encontrará mi página web:[DF][DF]",
     "txkaffee": "Ir a la página web",
-
     "XXEOF": ""
 }

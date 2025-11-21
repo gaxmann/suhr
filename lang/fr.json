@@ -1,24 +1,47 @@
 {
     "_meta": {
-        "version": "1.12"
+        "version": "1.3.14",
+        "updated": "2025-11-21 23:00:31"
     },
     "txwelcome": "Bienvenue",
-    "quotes": [ "« ", " »" ],
+    "quotes": [
+        "« ",
+        " »"
+    ],
     "oclocksh": "h",
     "hoursh": "h",
     "daysh": "d",
     "decimalsep": ",",
     "n_a": "N/D",
     "wdaysh": [
-        "Lun", "Mar", "Mer", "Jeu", "Ven", "Sam", "Dim"
+        "Lun",
+        "Mar",
+        "Mer",
+        "Jeu",
+        "Ven",
+        "Sam",
+        "Dim"
     ],
     "xxdays": {
         "1": "% jour",
         "*": "% jours"
     },
     "aufzaehl": [
-      "0e", "1er", "2e", "3e", "4e", "5e", "6e", "7e", "8e", "9e", "10e", "11e", "12e", "13e"
-    ],    
+        "0e",
+        "1er",
+        "2e",
+        "3e",
+        "4e",
+        "5e",
+        "6e",
+        "7e",
+        "8e",
+        "9e",
+        "10e",
+        "11e",
+        "12e",
+        "13e"
+    ],
     "himmelsr": [
         "E",
         "S",
@@ -88,16 +111,13 @@
     "txsettings": "[DF]Horloge de Gordon",
     "txpartsupport": "[i]REMARQUE : (β) Cette langue n'est que partiellement prise en charge. Certaines sections sont donc en anglais. Toute aide est la bienvenue (Github). - Vous trouverez un bouton « Traduction automatique » sur la dernière page[/i]",
     "txnosupport": "[i]REMARQUE : votre langue n'est pas encore traduite. Vous trouverez un bouton « Traduction automatique » sur la dernière page[/i]",
-
     "uebanleitung": "Instructions",
     "txanleitung": "[DF]{LANGSUPPORT}Cochez la case {txgpsauto} pour mettre à jour automatiquement votre position pendant l'utilisation ({txagnihotra} pour une localisation plus précise et une synchronisation GPS). {txgpsbutton} détermine votre position actuelle une seule fois et la conserve. [~LF][~LF]Vous pouvez également saisir un nom de lieu ou une adresse dans le champ de texte (si votre appareil le permet) ou des coordonnées (par exemple 50,94, 6,96). Les 3e et 4e entrées sont facultatives : l'altitude approximative [m], la température approximative au crépuscule [°C]. Cochez ensuite la case {txwelcomescr}. - En cas de modification des données de base, Sonnenuhr effectue un calcul quotidien qui peut prendre entre 2[NDASH]30 secondes selon l'appareil. [~LF][~LF]{txagnihotra} affiche les repères pour l'aiguille solaire ainsi que l'heure du prochain passage du soleil à zéro et le compte à rebours. Six minutes avant l'Agnihotra, l'affichage est agrandi et les secondes s'affichent (⁺ = GPS actuel).",
     "txmore": "[DF]{txfullscr} empêche l'écran de s'éteindre : j'ai par exemple accroché au mur une vieille [i]tablette[/i] avec une « horloge solaire » pour ma nièce. Avec {txuhrsinn}, vous pouvez définir si l'horloge tourne dans le sens des aiguilles d'une montre (sud) ou dans le sens inverse. Si vous modifiez le sens de rotation, la partie du cercle solaire située sous l'horizon se trouve devant vous (pour plus de détails, voir page suivante). [~LF][~LF]{txfarben} permet de choisir différents cadrans. {txnachtmodus} {auto} change au coucher du soleil, -6° à la fin du crépuscule, +6° avant. - Si vos réglages ne sont pas pris en compte, appuyez sur le bouton de mise à jour en bas à droite du cadran. [~LF][~LF]Vous pouvez zoomer sur le cadran avec deux doigts (ou en appuyant trois fois). Si vous souhaitez déplacer l'image zoomée, faites-le lentement. Les mouvements rapides vous font passer à la page suivante. - Vous trouverez une explication du cadran à la page suivante.[DF][DF][DF]",
-
     "txdata": "[DF]Données",
     "txlocdata": "[DF]Les calculs de l'Horloge solaire de Gordon pour votre emplacement individuel doivent correspondre à l'almanach astronomique à 0,0005 seconde d'arc près³:[DF]",
     "txobjdata": "– Soleil¹ –[~LF]Heure : {clocktm}[~LF]Heure temporelle : {temptm}[~LF]Jour lumineux : {sun_daylight}{sun_agnicountdown}{sun_agnihotra}[~LF][~LF]– Lune² –[~LF]Illuminée : {moon_illum}[~LF]Pleine lune : {moon_full}[~LF]Nouvelle lune : {moon_new}[~LF]Taille : {moon_sizep} (85-100)[~LF][~LF]– Luminosité –[~LF]Vénus : {venus_magp} (83-100)[~LF]Mars : {mars_magp} (52-100)[~LF]Jupiter : {jupiter_magp} (87-100)[~LF]Saturne : {saturn_magp} (77-100)[~LF]Mercure : {merkur_magp} (0-100)[~LF][~LF]Explication : ¹ Heure : GPS = synchronisé | Heure temporelle : « ἡ » heure inégale (0,0[NDASH]11,9) du jour ou « ν » de la nuit. Orienté vers l'achèvement : par exemple, la sixième heure commence à 5,1, mais a été proclamée à 6,0 (= à partir de la 6e heure). « φ » Veille nocturne avec des « minutes » inégales (0φ00[NDASH]3φ59) | Jour lumineux & Agnihotra : lever[NDASH]coucher aujourd'hui [lever demain], ⁺ = GPS actuel | ² Pleine lune et nouvelle lune : moment (en/avant jours) | ³ La lune mesure environ 2000 arcsec. [~LF][~LF][~LF][b]–– Légende :[/b]",
     "txlegende": "[DF]☉ Soleil, ● Lune (avec phases)[~LF][~LF]♀ Vénus (couleur perle), ♂ Mars (rougeâtre), ♃ Jupiter (rayé), ♄ Saturne (avec anneaux), ☿ Mercure (gris)[~LF][~LF][s] Sirius, [k] Canopus, [f] Alpha Centauri, [a] Arcturus, [w] Véga, [c] Capella, [r] Rigel, [p] Procyon, [b] Bételgeuse, [h] Achernar[DF][DF][DF][DF]",
-
     "char_vowels": "aeiouyäöüáéíóúÄÖÜÁÉÍÓÚ",
     "char_consonants": "bcdfghjklmnpqrstvwxyzñÑ",
     "char_splitafter": ".,;:!?“‘”-—)]}%&*+=/\\|>@#_×÷≈≠≤≥°¶•…”’»`",
@@ -160,19 +180,16 @@
         "nb"
     ],
     "graph_separateafter": [],
-
     "txmanual": "[DF]Cadran",
     "txanleitung2": "[DF]« L'Horloge solaire de Gordon » est en principe une horloge à une seule aiguille avec un cadran qui change chaque jour, en fonction des rythmes de la nature et des astres. Elle indique la position du soleil et le ciel étoilé. Il s'agit d'une nouvelle façon de représenter le temps, qui n'est pas artificielle comme notre horloge traditionnelle (avec l'heure ferroviaire et le changement d'heure), mais qui évolue en harmonie avec les saisons.[~LF][~LF][i]REMARQUE : vous pouvez passer du mode d'emploi au cadran et vice versa.[/i][~LF][~LF][~LF][b]–– Votre regard :[/b][~LF][~LF]Au milieu de l'écran, vous voyez une ligne horizontale. Il s'agit de l'horizon (la surface de la Terre). Le triangle pointu au milieu est un sapin que vous voyez de loin (ou une église). Vous ne le regardez pas d'en haut, mais vous vous tenez devant lui.[~LF][~LF]Si vous n'avez pas modifié les paramètres (« Direction du regard : automatique »), vous regardez généralement vers le sud dans l'hémisphère nord (et vers le nord dans l'hémisphère sud). Les objets à gauche de l'écran se trouvent à l'est, ceux à droite à l'ouest (et inversement dans l'hémisphère sud). Les points cardinaux sont indiqués au bord de l'horizon.[~LF][~LF]La bande plus claire sous l'horizon indique le crépuscule civil. La grande zone gris foncé symbolise la nuit (y compris le crépuscule nautique). Les objets situés dans cette zone ne sont pas visibles.[~LF][~LF]En bas à gauche, vous voyez l'heure locale, en haut à droite l'altitude du soleil en degrés dans le ciel (par exemple 27,6°) ainsi que votre position sous forme de code numérique (par exemple « cri-hs ») ou un nom de lieu (si vous en avez saisi un). En dessous, l'affichage des heures temporelles inégales.",
     "txanleitung2b": "[DF][DF][b]–– Soleil :[/b][~LF][~LF]Le soleil (à l'extrémité de la seule aiguille de l'horloge) se déplace de gauche à droite au cours de la journée (et inversement dans l'hémisphère sud). Plus le soleil est à gauche de l'écran, plus il est à l'est ; plus il est à droite, plus il est à l'ouest (inversement dans l'hémisphère sud). Plus le soleil est haut sur l'écran, plus il est haut dans le ciel.[~LF][~LF]Le soleil suit la trajectoire circulaire tracée sur laquelle il se déplace au cours d'une journée. Les heures sont indiquées au bord de la trajectoire circulaire (par exemple « 12 » heures), de sorte que celle-ci fait également office de cadran.[~LF][~LF]Sur le cadran, on peut voir, par exemple, comment les chiffres se déplacent lors du changement d'heure, tandis que la trajectoire circulaire reste la même. Ou : comment l'heure légale diffère de l'heure locale dans la plupart des endroits, car 12 heures ne se trouve pas exactement en haut du cadran. Les heures temporelles fonctionnent différemment : La 12e heure (12ἡ) correspond toujours au coucher du soleil.[~LF][~LF][~LF][b]–– Lune :[/b][~LF][~LF]La lune a également une orbite. Elle est représentée par un cercle gris clair (sans aiguilles). Comme la lune met plus de 24 heures pour effectuer une révolution, deux heures supplémentaires (de la veille) sont ajoutées en gris très clair. Si l'on « vit avec l'horloge », on voit bien comment la lune monte et descend périodiquement au fil des semaines. On peut également observer comment, à la pleine lune, elle se trouve en face du soleil dans la position circulaire (loin), mais à la nouvelle lune, elle se trouve dans la même position circulaire (proche du soleil). La plupart du temps, ce n'est pas exactement la même position, car la vue est latérale (et non depuis le haut). Ce n'est qu'en cas d'éclipse solaire que la position est exactement la même.[~LF][~LF]La pleine lune et la nouvelle lune sont marquées par des ombres. La nouvelle lune est représentée pendant 35 heures (car c'est la durée pendant laquelle la lune n'est absolument pas visible). La pleine lune est représentée pendant 24 heures. Le recalcul de la trajectoire du soleil et de la lune a lieu à 00h00 UTC.",
     "txanleitung2c": "[DF][DF][b]–– Planètes :[/b][~LF][~LF]Les cinq planètes visibles à l'œil nu sont représentées par des photos telles qu'on les verrait à travers des jumelles ou (selon le modèle) par leurs symboles astronomiques (voir page 2). Lorsque vous observez le ciel étoilé, vous pouvez distinguer les planètes des étoiles en sachant que les planètes ne scintillent pas, mais brillent de manière constante. Elles apparaissent nettement plus grandes dans le ciel que les étoiles lointaines et sont donc moins affectées par les fluctuations de densité de l'atmosphère.[~LF][~LF][~LF][b]–– Étoiles :[/b][~LF][~LF]Les dix étoiles les plus brillantes sont également représentées, symbolisées par une lettre dans un carré (légende, voir page 2). Alors que les planètes sont relativement ordonnées et se trouvent généralement plus ou moins à proximité de l'orbite solaire, la trajectoire des étoiles est indépendante du soleil, car elles sont leur propre soleil. Dans les symboles des étoiles, deux côtés du carré sont toujours dessinés plus épais que les deux autres. Cela indique le coin ou le quadrant de leur trajectoire dans lequel elles se trouvent actuellement. Si le coin mis en évidence se trouve en bas à droite, l'étoile se trouve (plus ou moins) à la « fin » de son orbite vers le bas et vers la droite. Elle se déplacera principalement vers le haut et vers la gauche (souvent également hors de l'écran). Si le côté supérieur est plus marqué, l'étoile se trouve devant vous ; si le côté inférieur est plus marqué, elle se trouve derrière vous (si vous n'avez pas modifié le sens de rotation).",
     "txanleitung2d": "[DF][DF][b]–– Historique :[/b][~LF][~LF]« L'Horloge solaire de Gordon » a été développée en 2019 pour un Raspberry Pi avec un écran ePaper de 10 pouces, car je voulais une horloge murale agréable à regarder et qui relie l'heure à la course du soleil. Mon objectif était de construire une horloge qui affiche l'heure naturelle, et non l'heure artificielle telle qu'elle est représentée par l'horloge analogique 12 heures. Là où nous vivons, il existe des différences significatives dans la durée des jours tout au long de l'année, ainsi que le changement d'heure récurrent et peu apprécié. L'Horloge solaire devait mettre tout cela en perspective : elle affiche un cadran organique qui s'aligne sur les saisons, le rythme de la nature, et change avec lui. Comme presque tout le monde a aujourd'hui un petit ordinateur dans sa poche, j'ai développé l'Horloge solaire 2025 sous forme d'application Android. Je vous souhaite beaucoup de plaisir et de découvertes avec cette application ![DF][DF][DF]",
-
     "txabout": "[DF]Info",
     "txanleitungprg": "[DF]Horloge solaire de Gordon[~LF]Version [VERSIONNUM][~LF]Gordon Axmann[~LF]Copyright 2019-[VERSIONYEAR]",
     "txanleitung3": "[DF]Veuillez utiliser le logiciel tel quel. Il s'agit d'une offre gratuite et privée. Je ne suis pas un développeur d'applications professionnel, mais j'ai néanmoins consacré beaucoup d'énergie à ce programme au fil des ans.[DF][DF]",
     "txchangelog": "Quoi de neuf ?",
     "txanleitung4": "[DF]Les données ne sont ni collectées ni transmises. Tout reste sur votre appareil. Une connexion Internet n'est même pas nécessaire pour le fonctionnement. Une exception : en cas d'erreur de programme, si vous disposez d'une connexion Internet, un message d'erreur anonyme est envoyé (pour plus de détails, voir la politique de confidentialité). Vous contribuez ainsi au bon fonctionnement de l'Horloge solaire.[~LF][~LF]Si vous avez trouvé une erreur, je me ferai un plaisir de la corriger. Pour cela, j'ai besoin d'un rapport d'erreur clair (éventuellement avec une capture d'écran) et d'une brève description indiquant où et quand l'erreur s'est produite. Une capture d'écran du journal d'état ci-dessous, prise si possible immédiatement après l'apparition de l'erreur, est également utile (contact par e-mail : [CONTACTSUPPORT]). Dans 99 % des cas, les remarques concernant des erreurs de calcul présumées sont fausses. Il existe malheureusement beaucoup d'informations erronées sur le calcul des étoiles.[~LF][~LF]Remerciements : Brandon Rhodes (Skyfield), Rolf, Greg Miller et tous les testeurs. Images des corps célestes fournies par : NASA / SOHO (Solar and Heliospheric Observatory), ESA / télescope spatial Hubble et NASA / JPL-Caltech (domaine public). Vous trouverez une liste de tous les matériaux tiers utilisés et des licences dans le fichier « design/ COPYRIGHT.txt ».[~LF][~LF]Je vous offre gratuitement « Horloge solaire ». Profitez-en simplement. Si vous souhaitez exprimer votre gratitude pour mon travail, vous trouverez mon site web ici :[DF][DF]",
     "txkaffee": "Accéder au site web",
-
     "XXEOF": ""
 }
