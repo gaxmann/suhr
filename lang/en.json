@@ -1,4 +1,7 @@
 {
+    "_meta": {
+        "version": "1.12"
+    },
     "txwelcome": "Welcome",
     "quotes": [ "‘", "’" ],
     "oclocksh": "h",

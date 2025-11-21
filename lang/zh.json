@@ -1,4 +1,7 @@
 {
+    "_meta": {
+        "version": "1.12"
+    },
     "txwelcome": "欢迎",
     "quotes": ["“", "”y"],
     "oclocksh": "",
