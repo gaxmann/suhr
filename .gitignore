@@ -199,3 +199,7 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
+
+# ausnahmen
+!showlangdiff.py
+
