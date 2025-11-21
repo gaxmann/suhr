@@ -60,10 +60,11 @@ Some languages use different words for “day” depending on the number (e.g. 1
 
 #### Examples
 
-**Chinese** (minimal working example)
+**English**
 ```json
 "xxdays": {
-    "*": "{day} 天"
+    "1": "{day} day",
+    "*": "{day} days"
 }
 ```
 
