@@ -16,9 +16,12 @@
         "Sun"
     ],
     "xxdays": {
-        "1": "{day} day",
-        "*": "{day} days"
+        "1": "% day",
+        "*": "% days"
     },
+    "aufzaehl": [
+      "0th", "1st", "2nd", "3rd", "4th", "5th", "6th", "7th", "8th", "9th", "10th", "11th", "12th", "13th"
+    ],
     "himmelsr": [
         "E",
         "S",
@@ -89,7 +92,7 @@
     "txnosupport": "[i]NOTE: Your language is not yet supported, so English is shown. An ‘Auto-Translate’ button is available on the last page[/i]",
 
     "uebanleitung": "Instructions",
-    "txanleitung": "[DF]{LANGSUPPORT}Tick the box next to {txgpsauto} to automatically update your location while using the app ({txagnihotra} for more accurate location determination and GPS time synchronisation). {txgpsbutton} determines your current position once and saves it. [~LF][~LF]Alternatively, you can enter a place name or address in the text field (if your device supports this) or coordinates (e.g. 50.94, 6.96). A third and fourth entry are optional: the approximate altitude in metres and the temperature in °C. Then tick the box next to {txwelcomescr}. If you change any basic data, Sonnenuhr will perform a daily calculation, which can take between 2[NDASH]30 seconds, depending on your device. [~LF][~LF]{txagnihotra} shows markings for the gnomon and the time of the next zero crossing of the sun & countdown. Six minutes before Agnihotra, the display is enlarged and seconds are shown (⁺ = current GPS).",
+    "txanleitung": "[DF]{LANGSUPPORT}Tick the box next to {txgpsauto} to automatically update your location while using the app ({txagnihotra} for more accurate location determination and GPS time synchronisation). {txgpsbutton} determines your current position once and saves it. [~LF][~LF]Alternatively, you can enter a place name or address in the text field (if your device supports this) or coordinates (e.g. 50.94, 6.96). A third and fourth entry are optional: the approximate altitude [m] and the approximate temperature at dusk [°C]. Then tick the box next to {txwelcomescr}. If you change any basic data, Sonnenuhr will perform a daily calculation, which can take between 2[NDASH]30 seconds, depending on your device. [~LF][~LF]{txagnihotra} shows markings for the gnomon and the time of the next zero crossing of the sun & countdown. Six minutes before Agnihotra, the display is enlarged and seconds are shown (⁺ = current GPS).",
     "txmore": "[DF]{txfullscr} prevents the screen from turning off: For example, I hung an old tablet with a ‘sun dial’ on the wall for my niece. With {txuhrsinn}, you can specify whether the clock runs clockwise (south) or counterclockwise. If you change the direction of rotation, the part of the sun circle below the horizon is in front of you (see next page for details). [~LF][~LF]{txcolours} selects different dials. {txnightmode} {auto} changes at sunset, -6° at the end of twilight, +6° before. - If your settings are not applied, tap the refresh button at the bottom right of the dial. [~LF][~LF]You can zoom in on the dial with two fingers (or by triple-tapping). If you want to move the zoomed image, do so slowly. Fast movements will swipe to the next page. - On the next page you will find an explanation of the dial.[DF][DF][DF]",
 
     "txdata": "[DF]Data",

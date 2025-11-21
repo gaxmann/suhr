@@ -56,32 +56,31 @@ The `"hoursh"` entry is the short form for hours (e.g. `24h`). `"daysh"` is the 
 
 ### Plural Rules for “Day(s)”
 
-Some languages use different words for “day” depending on the number (e.g. 1 day, 2 days). The entry `"xxdays"` defines these forms. (Use `{day}` where the number should appear.)
+Some languages use different words for “day” depending on the number (e.g. 1 day, 2 day**s**). The entry `"xxdays"` defines these forms. (Use `%` where the number should appear.)
 
 #### Examples
 
 **English**
 ```json
 "xxdays": {
-    "1": "{day} day",
-    "*": "{day} days"
-}
+    "1": "% day",
+    "*": "% days"
 ```
 
 **Russian**
 ```json
 "xxdays": {
-    "1": "{day} день",
-    "2-4": "{day} дня",
-    ".":   "{day} дня",
-    "*":   "{day} дней"
+    "1": "% день",
+    "2-4": "% дня",
+    ".":   "% дня",
+    "*":   "% дней"
 }
 ```
 #### Key Meanings
-- `"1"` → applies when the number is exactly 1 (e.g., `1` → `{day} day`)
+- `"1"` → applies when the number is exactly 1 (e.g., `1` → `% day`)
 - `"2-4"` → applies for whole numbers from 2 to 4 inclusive (e.g., `2`, `3`, `4`)
 - `"."` → applies to decimal numbers (e.g., `1.5`, `2.7`)
-- `"*"` → fallback for all other cases **(mandatory)**
+- `"*"` → fallback for all other cases **(mandatory!)**
 
 ---
 
